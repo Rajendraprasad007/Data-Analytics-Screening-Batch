@@ -1,0 +1,261 @@
+doctor_id,doctor_name,department_id,specialization,hospital_id,experience_years,doctor_grade
+1,Dr. Sai Sharma,4,General Medicine,8,9,Consultant
+2,Dr. Raj Nair,12,ICU,7,10,Resident
+3,Dr. Ishaan Khan,9,Emergency,6,16,Consultant
+4,Dr. Sai Rao,7,Gastroenterology,7,7,Consultant
+5,Dr. Priya Menon,2,Neurology,2,12,Senior Consultant
+6,Dr. Vivaan Sharma,2,Neurology,7,8,Consultant
+7,Dr. Aditya Iyer,1,Cardiology,3,8,Resident
+8,Dr. Ishaan Sharma,11,Pediatrics,2,15,Senior Consultant
+9,Dr. Meera Iyer,7,Gastroenterology,2,14,Consultant
+10,Dr. Meera Menon,9,Emergency,2,14,Resident
+11,Dr. Ishaan Chopra,1,Cardiology,1,16,Consultant
+12,Dr. Priya Verma,12,ICU,8,10,Senior Consultant
+13,Dr. Aarav Gupta,10,Endocrinology,1,13,Resident
+14,Dr. Myra Das,3,Orthopedics,1,8,Senior Consultant
+15,Dr. Raj Khan,3,Orthopedics,3,11,Consultant
+16,Dr. Krishna Das,3,Orthopedics,6,9,Visiting Consultant
+17,Dr. Sai Rao,4,General Medicine,8,10,Senior Consultant
+18,Dr. Ira Patel,6,Nephrology,7,12,Consultant
+19,Dr. Diya Joshi,5,Pulmonology,5,5,Consultant
+20,Dr. Neha Verma,4,General Medicine,2,20,Resident
+21,Dr. Vivaan Chopra,8,Oncology,7,4,Senior Consultant
+22,Dr. Meera Patel,2,Neurology,2,3,Senior Consultant
+23,Dr. Ira Rao,4,General Medicine,3,15,Resident
+24,Dr. Meera Mehta,4,General Medicine,2,13,Resident
+25,Dr. Neha Joshi,5,Pulmonology,1,13,Consultant
+26,Dr. Priya Iyer,10,Endocrinology,8,13,Consultant
+27,Dr. Aditya Reddy,3,Orthopedics,5,9,Consultant
+28,Dr. Ishaan Mehta,6,Nephrology,4,5,Resident
+29,Dr. Aditya Nair,7,Gastroenterology,2,10,Consultant
+30,Dr. Sai Naidu,1,Cardiology,7,6,Senior Consultant
+31,Dr. Raj Chopra,7,Gastroenterology,1,14,Resident
+32,Dr. Diya Gupta,2,Neurology,4,9,Resident
+33,Dr. Diya Joshi,1,Cardiology,5,5,Consultant
+34,Dr. Krishna Verma,12,ICU,4,8,Resident
+35,Dr. Aditya Gupta,12,ICU,1,12,Consultant
+36,Dr. Meera Nair,10,Endocrinology,8,7,Resident
+37,Dr. Reyansh Chopra,4,General Medicine,8,5,Consultant
+38,Dr. Ira Verma,1,Cardiology,6,11,Consultant
+39,Dr. Meera Nair,9,Emergency,8,11,Resident
+40,Dr. Anaya Reddy,5,Pulmonology,6,7,Consultant
+41,Dr. Ishaan Reddy,2,Neurology,4,7,Consultant
+42,Dr. Anaya Naidu,6,Nephrology,3,11,Resident
+43,Dr. Raj Rao,1,Cardiology,7,2,Resident
+44,Dr. Krishna Das,12,ICU,7,2,Senior Consultant
+45,Dr. Krishna Jain,3,Orthopedics,4,6,Senior Consultant
+46,Dr. Ira Chopra,9,Emergency,2,8,Senior Consultant
+47,Dr. Arjun Verma,4,General Medicine,2,11,Consultant
+48,Dr. Arjun Nair,6,Nephrology,8,17,Consultant
+49,Dr. Meera Verma,7,Gastroenterology,7,14,Consultant
+50,Dr. Priya Menon,3,Orthopedics,7,9,Resident
+51,Dr. Priya Naidu,12,ICU,6,9,Senior Consultant
+52,Dr. Diya Nair,9,Emergency,3,4,Consultant
+53,Dr. Arjun Jain,12,ICU,1,9,Senior Consultant
+54,Dr. Aditya Reddy,11,Pediatrics,2,8,Visiting Consultant
+55,Dr. Sai Khan,7,Gastroenterology,7,11,Consultant
+56,Dr. Reyansh Menon,12,ICU,6,5,Senior Consultant
+57,Dr. Neha Rao,1,Cardiology,5,12,Senior Consultant
+58,Dr. Ira Naidu,3,Orthopedics,6,17,Senior Consultant
+59,Dr. Neha Chopra,1,Cardiology,2,9,Consultant
+60,Dr. Riya Verma,4,General Medicine,2,12,Resident
+61,Dr. Meera Sharma,4,General Medicine,6,13,Visiting Consultant
+62,Dr. Sai Verma,3,Orthopedics,1,7,Senior Consultant
+63,Dr. Anaya Patel,10,Endocrinology,4,11,Senior Consultant
+64,Dr. Kabir Menon,4,General Medicine,2,10,Visiting Consultant
+65,Dr. Reyansh Chopra,4,General Medicine,6,10,Resident
+66,Dr. Aarav Verma,6,Nephrology,7,6,Consultant
+67,Dr. Riya Gupta,2,Neurology,6,10,Senior Consultant
+68,Dr. Riya Patel,10,Endocrinology,3,12,Senior Consultant
+69,Dr. Kabir Iyer,1,Cardiology,4,17,Consultant
+70,Dr. Arjun Joshi,12,ICU,5,14,Resident
+71,Dr. Reyansh Sharma,9,Emergency,1,20,Visiting Consultant
+72,Dr. Neha Das,3,Orthopedics,8,6,Visiting Consultant
+73,Dr. Aisha Sharma,1,Cardiology,5,14,Senior Consultant
+74,Dr. Sai Joshi,10,Endocrinology,4,10,Consultant
+75,Dr. Kabir Nair,9,Emergency,4,20,Visiting Consultant
+76,Dr. Vivaan Nair,9,Emergency,4,5,Resident
+77,Dr. Priya Rao,9,Emergency,5,5,Consultant
+78,Dr. Aditya Jain,1,Cardiology,7,7,Visiting Consultant
+79,Dr. Aditya Khan,4,General Medicine,4,1,Resident
+80,Dr. Arjun Jain,2,Neurology,6,7,Senior Consultant
+81,Dr. Meera Gupta,11,Pediatrics,5,6,Senior Consultant
+82,Dr. Raj Menon,8,Oncology,8,10,Consultant
+83,Dr. Krishna Iyer,4,General Medicine,4,11,Consultant
+84,Dr. Kabir Naidu,1,Cardiology,6,19,Consultant
+85,Dr. Diya Chopra,4,General Medicine,7,14,Resident
+86,Dr. Riya Chopra,4,General Medicine,3,7,Consultant
+87,Dr. Sai Nair,9,Emergency,7,5,Consultant
+88,Dr. Ishaan Rao,8,Oncology,8,12,Consultant
+89,Dr. Anaya Sharma,11,Pediatrics,4,3,Senior Consultant
+90,Dr. Priya Nair,5,Pulmonology,8,19,Resident
+91,Dr. Priya Nair,2,Neurology,5,15,Consultant
+92,Dr. Aarav Rao,9,Emergency,2,7,Consultant
+93,Dr. Vivaan Nair,9,Emergency,4,1,Resident
+94,Dr. Aditya Reddy,7,Gastroenterology,2,16,Senior Consultant
+95,Dr. Anaya Rao,9,Emergency,6,9,Consultant
+96,Dr. Riya Nair,6,Nephrology,3,16,Senior Consultant
+97,Dr. Raj Jain,6,Nephrology,1,2,Consultant
+98,Dr. Krishna Khan,5,Pulmonology,8,7,Consultant
+99,Dr. Priya Jain,1,Cardiology,7,10,Senior Consultant
+100,Dr. Ishaan Jain,2,Neurology,3,10,Consultant
+101,Dr. Myra Iyer,1,Cardiology,4,7,Resident
+102,Dr. Sai Patel,8,Oncology,2,13,Consultant
+103,Dr. Myra Joshi,4,General Medicine,7,4,Senior Consultant
+104,Dr. Myra Menon,6,Nephrology,2,9,Senior Consultant
+105,Dr. Sara Reddy,11,Pediatrics,5,10,Consultant
+106,Dr. Sai Reddy,3,Orthopedics,2,12,Senior Consultant
+107,Dr. Ira Das,4,General Medicine,5,13,Consultant
+108,Dr. Sai Nair,9,Emergency,6,4,Visiting Consultant
+109,Dr. Krishna Iyer,3,Orthopedics,7,2,Consultant
+110,Dr. Meera Chopra,1,Cardiology,7,16,Consultant
+111,Dr. Arjun Menon,4,General Medicine,1,11,Consultant
+112,Dr. Reyansh Verma,2,Neurology,4,6,Visiting Consultant
+113,Dr. Sara Nair,12,ICU,5,17,Senior Consultant
+114,Dr. Aditya Chopra,10,Endocrinology,1,10,Senior Consultant
+115,Dr. Meera Patel,8,Oncology,2,15,Consultant
+116,Dr. Vivaan Sharma,11,Pediatrics,2,10,Resident
+117,Dr. Aditya Nair,10,Endocrinology,1,20,Consultant
+118,Dr. Reyansh Menon,3,Orthopedics,7,18,Resident
+119,Dr. Aisha Jain,11,Pediatrics,2,8,Consultant
+120,Dr. Krishna Naidu,6,Nephrology,8,14,Consultant
+121,Dr. Vivaan Gupta,10,Endocrinology,6,13,Consultant
+122,Dr. Ira Sharma,11,Pediatrics,6,16,Senior Consultant
+123,Dr. Ira Verma,4,General Medicine,8,5,Senior Consultant
+124,Dr. Sara Mehta,2,Neurology,1,13,Consultant
+125,Dr. Myra Jain,3,Orthopedics,8,15,Resident
+126,Dr. Arjun Iyer,5,Pulmonology,5,1,Senior Consultant
+127,Dr. Kabir Iyer,10,Endocrinology,5,4,Senior Consultant
+128,Dr. Vivaan Reddy,11,Pediatrics,1,1,Consultant
+129,Dr. Anaya Reddy,1,Cardiology,8,8,Consultant
+130,Dr. Vivaan Jain,6,Nephrology,5,13,Senior Consultant
+131,Dr. Riya Gupta,4,General Medicine,7,17,Consultant
+132,Dr. Vivaan Rao,3,Orthopedics,8,10,Consultant
+133,Dr. Reyansh Rao,2,Neurology,7,18,Resident
+134,Dr. Neha Rao,4,General Medicine,5,3,Visiting Consultant
+135,Dr. Ishaan Naidu,12,ICU,6,1,Consultant
+136,Dr. Sai Nair,4,General Medicine,5,9,Consultant
+137,Dr. Priya Reddy,6,Nephrology,7,11,Senior Consultant
+138,Dr. Neha Rao,9,Emergency,3,9,Consultant
+139,Dr. Myra Das,4,General Medicine,4,1,Consultant
+140,Dr. Raj Iyer,12,ICU,2,9,Consultant
+141,Dr. Anaya Nair,12,ICU,8,3,Resident
+142,Dr. Raj Naidu,3,Orthopedics,3,13,Senior Consultant
+143,Dr. Arjun Mehta,6,Nephrology,5,11,Consultant
+144,Dr. Sara Das,4,General Medicine,6,5,Consultant
+145,Dr. Aditya Sharma,4,General Medicine,1,7,Consultant
+146,Dr. Sara Patel,1,Cardiology,5,4,Senior Consultant
+147,Dr. Aditya Iyer,8,Oncology,6,9,Consultant
+148,Dr. Riya Verma,6,Nephrology,4,14,Consultant
+149,Dr. Arjun Joshi,1,Cardiology,5,5,Resident
+150,Dr. Aditya Nair,4,General Medicine,7,12,Consultant
+151,Dr. Diya Mehta,11,Pediatrics,1,7,Senior Consultant
+152,Dr. Reyansh Chopra,3,Orthopedics,6,6,Consultant
+153,Dr. Meera Mehta,2,Neurology,6,9,Consultant
+154,Dr. Neha Sharma,5,Pulmonology,6,4,Consultant
+155,Dr. Meera Mehta,12,ICU,4,7,Resident
+156,Dr. Sai Khan,3,Orthopedics,5,4,Resident
+157,Dr. Raj Patel,9,Emergency,4,19,Resident
+158,Dr. Sai Khan,9,Emergency,8,10,Consultant
+159,Dr. Raj Mehta,3,Orthopedics,2,6,Senior Consultant
+160,Dr. Neha Iyer,9,Emergency,2,11,Consultant
+161,Dr. Anaya Iyer,4,General Medicine,8,9,Consultant
+162,Dr. Raj Jain,8,Oncology,5,8,Resident
+163,Dr. Raj Reddy,8,Oncology,7,13,Consultant
+164,Dr. Aditya Menon,6,Nephrology,4,13,Consultant
+165,Dr. Raj Reddy,1,Cardiology,1,7,Consultant
+166,Dr. Aarav Das,10,Endocrinology,6,7,Consultant
+167,Dr. Arjun Verma,4,General Medicine,6,8,Consultant
+168,Dr. Reyansh Chopra,3,Orthopedics,5,1,Senior Consultant
+169,Dr. Meera Menon,1,Cardiology,7,2,Consultant
+170,Dr. Meera Sharma,7,Gastroenterology,2,16,Resident
+171,Dr. Sai Rao,9,Emergency,2,18,Resident
+172,Dr. Arjun Reddy,1,Cardiology,6,8,Consultant
+173,Dr. Diya Khan,6,Nephrology,5,12,Consultant
+174,Dr. Myra Khan,3,Orthopedics,4,11,Consultant
+175,Dr. Vivaan Mehta,8,Oncology,2,25,Senior Consultant
+176,Dr. Diya Reddy,3,Orthopedics,4,15,Consultant
+177,Dr. Diya Iyer,9,Emergency,7,9,Senior Consultant
+178,Dr. Ishaan Patel,4,General Medicine,2,5,Consultant
+179,Dr. Diya Menon,12,ICU,2,1,Senior Consultant
+180,Dr. Neha Khan,2,Neurology,3,11,Consultant
+181,Dr. Ishaan Gupta,4,General Medicine,2,6,Consultant
+182,Dr. Reyansh Menon,2,Neurology,8,2,Visiting Consultant
+183,Dr. Aarav Gupta,12,ICU,1,6,Resident
+184,Dr. Anaya Menon,11,Pediatrics,8,4,Consultant
+185,Dr. Ishaan Verma,3,Orthopedics,5,18,Resident
+186,Dr. Reyansh Patel,9,Emergency,5,14,Senior Consultant
+187,Dr. Ira Reddy,10,Endocrinology,4,9,Resident
+188,Dr. Aisha Nair,7,Gastroenterology,8,17,Resident
+189,Dr. Krishna Chopra,6,Nephrology,8,10,Consultant
+190,Dr. Diya Mehta,3,Orthopedics,8,5,Consultant
+191,Dr. Ishaan Nair,1,Cardiology,7,17,Consultant
+192,Dr. Aarav Iyer,11,Pediatrics,2,12,Senior Consultant
+193,Dr. Ira Das,11,Pediatrics,1,4,Senior Consultant
+194,Dr. Raj Rao,8,Oncology,4,9,Consultant
+195,Dr. Raj Joshi,4,General Medicine,8,5,Consultant
+196,Dr. Riya Naidu,4,General Medicine,8,3,Resident
+197,Dr. Meera Das,9,Emergency,3,14,Visiting Consultant
+198,Dr. Aarav Patel,11,Pediatrics,4,19,Senior Consultant
+199,Dr. Raj Gupta,11,Pediatrics,8,3,Consultant
+200,Dr. Priya Verma,9,Emergency,4,12,Consultant
+201,Dr. Vivaan Patel,8,Oncology,2,6,Consultant
+202,Dr. Neha Menon,1,Cardiology,3,7,Resident
+203,Dr. Diya Das,2,Neurology,4,7,Consultant
+204,Dr. Myra Patel,11,Pediatrics,1,5,Senior Consultant
+205,Dr. Ira Iyer,7,Gastroenterology,1,10,Consultant
+206,Dr. Raj Reddy,1,Cardiology,5,5,Senior Consultant
+207,Dr. Myra Sharma,2,Neurology,3,11,Senior Consultant
+208,Dr. Riya Iyer,9,Emergency,3,9,Resident
+209,Dr. Diya Menon,1,Cardiology,5,8,Consultant
+210,Dr. Aditya Das,2,Neurology,4,5,Consultant
+211,Dr. Neha Das,7,Gastroenterology,3,7,Consultant
+212,Dr. Sai Mehta,9,Emergency,1,13,Resident
+213,Dr. Riya Mehta,8,Oncology,1,12,Resident
+214,Dr. Myra Das,3,Orthopedics,8,5,Senior Consultant
+215,Dr. Ira Mehta,9,Emergency,2,10,Senior Consultant
+216,Dr. Meera Khan,3,Orthopedics,3,13,Senior Consultant
+217,Dr. Krishna Menon,4,General Medicine,4,1,Consultant
+218,Dr. Ira Gupta,9,Emergency,5,12,Resident
+219,Dr. Neha Mehta,8,Oncology,5,6,Consultant
+220,Dr. Ira Sharma,11,Pediatrics,4,12,Consultant
+221,Dr. Kabir Mehta,9,Emergency,7,6,Senior Consultant
+222,Dr. Krishna Menon,7,Gastroenterology,6,1,Consultant
+223,Dr. Priya Das,1,Cardiology,2,1,Consultant
+224,Dr. Sara Chopra,4,General Medicine,5,10,Resident
+225,Dr. Sara Iyer,3,Orthopedics,3,11,Consultant
+226,Dr. Riya Jain,3,Orthopedics,2,5,Senior Consultant
+227,Dr. Reyansh Rao,12,ICU,3,13,Consultant
+228,Dr. Kabir Das,4,General Medicine,7,1,Consultant
+229,Dr. Aditya Nair,11,Pediatrics,1,9,Consultant
+230,Dr. Kabir Nair,8,Oncology,2,3,Consultant
+231,Dr. Krishna Khan,10,Endocrinology,8,6,Resident
+232,Dr. Aarav Reddy,6,Nephrology,5,10,Consultant
+233,Dr. Ishaan Jain,7,Gastroenterology,2,5,Senior Consultant
+234,Dr. Neha Rao,6,Nephrology,2,8,Senior Consultant
+235,Dr. Sara Menon,3,Orthopedics,2,15,Senior Consultant
+236,Dr. Priya Iyer,9,Emergency,6,7,Visiting Consultant
+237,Dr. Ira Jain,4,General Medicine,2,14,Resident
+238,Dr. Ira Nair,1,Cardiology,3,4,Consultant
+239,Dr. Arjun Sharma,8,Oncology,1,12,Consultant
+240,Dr. Sai Menon,3,Orthopedics,7,17,Consultant
+241,Dr. Ishaan Gupta,12,ICU,4,1,Senior Consultant
+242,Dr. Riya Chopra,12,ICU,2,6,Consultant
+243,Dr. Vivaan Nair,12,ICU,5,12,Senior Consultant
+244,Dr. Sai Chopra,4,General Medicine,2,8,Senior Consultant
+245,Dr. Arjun Chopra,1,Cardiology,5,11,Consultant
+246,Dr. Riya Das,12,ICU,3,6,Resident
+247,Dr. Sara Menon,5,Pulmonology,5,10,Consultant
+248,Dr. Meera Chopra,12,ICU,8,9,Consultant
+249,Dr. Reyansh Jain,12,ICU,4,15,Resident
+250,Dr. Sara Verma,11,Pediatrics,1,11,Senior Consultant
+251,Dr. Ishaan Verma,4,General Medicine,5,11,Senior Consultant
+252,Dr. Riya Jain,4,General Medicine,5,7,Consultant
+253,Dr. Ishaan Verma,11,Pediatrics,1,7,Consultant
+254,Dr. Sara Rao,4,General Medicine,4,7,Resident
+255,Dr. Kabir Nair,2,Neurology,2,11,Resident
+256,Dr. Raj Das,7,Gastroenterology,5,7,Senior Consultant
+257,Dr. Anaya Rao,12,ICU,1,11,Consultant
+258,Dr. Arjun Khan,9,Emergency,8,20,Senior Consultant
+259,Dr. Ishaan Naidu,7,Gastroenterology,8,14,Consultant
+260,Dr. Arjun Iyer,1,Cardiology,3,8,Consultant

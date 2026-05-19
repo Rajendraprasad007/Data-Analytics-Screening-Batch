@@ -1,0 +1,13 @@
+department_id,department_name,care_complexity
+1,Cardiology,High
+2,Neurology,High
+3,Orthopedics,Medium
+4,General Medicine,Medium
+5,Pulmonology,High
+6,Nephrology,High
+7,Gastroenterology,Medium
+8,Oncology,Very High
+9,Emergency,High
+10,Endocrinology,Medium
+11,Pediatrics,Low
+12,ICU,Very High
