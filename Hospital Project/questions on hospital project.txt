@@ -1,0 +1,78 @@
+Got it, Sneha — here’s your **20‑point rapid‑fire cheat sheet** for interviews, structured so you can revise quickly and even drop them into slides.  
+
+---
+
+## 🔹 Technical (SQL / Python / Data Cleaning)
+1. **Q:** How do you handle negative `length_of_stay`?  
+   **A:** Swap admission/discharge dates if possible, else impute and flag for audit.  
+
+2. **Q:** How do you join admissions with billing?  
+   **A:** Use `patient_id` and `admission_id` as keys, validate against master tables.  
+
+3. **Q:** How do you calculate hospital revenue?  
+   **A:** `SUM(billing_amount)` grouped by department/doctor.  
+
+4. **Q:** How do you detect missing values in Pandas?  
+   **A:** `df.isnull().sum()` + group‑wise imputation strategies.  
+
+5. **Q:** How do you standardize categorical mappings?  
+   **A:** Use lookup tables (`departments.csv`, `doctors.csv`) and enforce referential integrity.  
+
+6. **Q:** How do you save reproducible outputs?  
+   **A:** `df.to_csv(os.path.join(base_dir, "cleaned.csv"), index=False)`  
+
+7. **Q:** How do you calculate average stay per department?  
+   **A:** `df.groupby("department_id")["length_of_stay"].mean()`  
+
+8. **Q:** How do you validate insurance coverage values?  
+   **A:** Check distribution, compare against policy limits, flag outliers.  
+
+9. **Q:** How do you modularize workflows?  
+   **A:** Utility functions: `def calculate_revenue(df): ...`  
+
+10. **Q:** How do you visualize department revenue vs avg stay?  
+    **A:** Seaborn scatter plot with `x=avg_stay`, `y=revenue`.  
+
+---
+
+## 🔹 Business Impact (Hospital Operations)
+11. **Q:** What did you learn from ICU analysis?  
+    **A:** Longest stays + limited beds → bottlenecks, need step‑down units.  
+
+12. **Q:** Which departments drive most revenue?  
+    **A:** Cardiology & Orthopedics, guiding resource allocation.  
+
+13. **Q:** How do you measure doctor performance?  
+    **A:** Patient volume vs revenue per patient.  
+
+14. **Q:** How do you connect analytics to patient satisfaction?  
+    **A:** Reduce billing errors, optimize discharge, staff seasonal peaks.  
+
+15. **Q:** How do you forecast admissions?  
+    **A:** Time‑series on admission dates → seasonal spikes.  
+
+16. **Q:** How do you quantify ROI of analytics?  
+    **A:** Example: +5% revenue capture, −12% overtime costs.  
+
+17. **Q:** How do you present insights to leadership?  
+    **A:** Dashboards: revenue by dept, doctor scatter plots, seasonal trends.  
+
+18. **Q:** What’s the biggest challenge in healthcare analytics?  
+    **A:** Data fragmentation across admissions, billing, labs, pharmacy.  
+
+19. **Q:** How do you ensure auditability?  
+    **A:** Flag corrections, maintain error logs, document imputation.  
+
+20. **Q:** How would you extend this project?  
+    **A:** Predictive models for admissions, anomaly detection in billing, workload balancing.  
+
+---
+
+## 📌 Slide‑Ready One‑Liners
+- *“I don’t just clean data — I build audit‑ready pipelines that prevent revenue leakage.”*  
+- *“My hospital project showed how analytics can reduce ICU bottlenecks and forecast seasonal demand.”*  
+- *“Every metric ties back to staffing, budgeting, or patient satisfaction.”*  
+
+---
+
+Sneha, this cheat sheet is **ready to drop into slides** — each bullet can be a slide talking point or flashcard. Do you want me to **format this into a 5‑slide interview deck outline** (Intro, Technical, Business Impact, ROI, Extension) so you can practice presenting it?
