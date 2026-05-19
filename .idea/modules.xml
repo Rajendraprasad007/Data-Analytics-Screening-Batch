@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Python practice.iml" filepath="$PROJECT_DIR$/.idea/Python practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python project/.idea/Python project.iml" filepath="$PROJECT_DIR$/../Python project/.idea/Python project.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/PythonProject/.idea/PythonProject.iml" filepath="$USER_HOME$/PycharmProjects/PythonProject/.idea/PythonProject.iml" />
+    </modules>
+  </component>
+</project>
