@@ -1,0 +1,2001 @@
+customer_id,customer_name,age,gender,city,segment,signup_date,preferred_channel,risk_score
+100001,Customer_100001,46,Female,Chennai,Small Business,2022-06-05,UPI Partner,63.4
+100002,Customer_100002,37,Female,Chennai,Student,2022-06-01,Mobile App,38.93
+100003,Customer_100003,48,Male,Bangalore,Salaried,2022-08-03,UPI Partner,57.96
+100004,Customer_100004,38,Male,Pune,Student,2022-06-13,Branch,36.81
+100005,Customer_100005,34,Male,Delhi,Small Business,2022-09-03,UPI Partner,50.77
+100006,Customer_100006,33,Female,Pune,Small Business,2022-06-10,UPI Partner,89.53
+100007,Customer_100007,54,Female,Mumbai,Self Employed,2023-06-15,UPI Partner,58.46
+100008,Customer_100008,28,Female,Hyderabad,Small Business,2023-10-16,Internet Banking,48.58
+100009,Customer_100009,39,Male,Delhi,Salaried,2023-04-23,Internet Banking,63.06
+100010,Customer_100010,45,Male,Hyderabad,Self Employed,2024-01-31,Branch,60.33
+100011,Customer_100011,49,Male,Delhi,Self Employed,2024-03-17,UPI Partner,58.44
+100012,Customer_100012,53,Female,Chennai,Salaried,2022-05-24,UPI Partner,40.9
+100013,Customer_100013,25,Female,Bangalore,Salaried,2022-03-22,Mobile App,71.62
+100014,Customer_100014,55,Male,Bangalore,Student,2023-06-02,Mobile App,42.96
+100015,Customer_100015,33,Male,Hyderabad,Salaried,2022-11-20,UPI Partner,32.75
+100016,Customer_100016,22,Female,Hyderabad,Self Employed,2022-04-22,Internet Banking,50.39
+100017,Customer_100017,31,Male,Bangalore,Student,2023-12-13,Internet Banking,41.76
+100018,Customer_100018,58,Female,Kolkata,Self Employed,2023-04-18,Mobile App,62.17
+100019,Customer_100019,60,Female,Ahmedabad,Self Employed,2022-11-12,Mobile App,38.92
+100020,Customer_100020,41,Female,Chennai,Salaried,2023-05-15,Mobile App,66.98
+100021,Customer_100021,38,Female,Bangalore,Self Employed,2024-01-28,Mobile App,72.51
+100022,Customer_100022,48,Female,Pune,Student,2024-01-13,UPI Partner,73.91
+100023,Customer_100023,45,Female,Bangalore,Self Employed,2022-03-27,Internet Banking,30.63
+100024,Customer_100024,38,Male,Delhi,Salaried,2022-01-17,Branch,80.16
+100025,Customer_100025,24,Male,Delhi,Salaried,2024-01-15,Internet Banking,30.46
+100026,Customer_100026,27,Male,Hyderabad,Small Business,2022-11-26,UPI Partner,49.58
+100027,Customer_100027,64,Female,Chennai,Small Business,2023-09-22,UPI Partner,59.68
+100028,Customer_100028,21,Male,Pune,Self Employed,2022-10-24,UPI Partner,57.83
+100029,Customer_100029,36,Female,Hyderabad,Student,2023-09-08,Internet Banking,66.48
+100030,Customer_100030,53,Female,Pune,Salaried,2023-09-15,Mobile App,49.86
+100031,Customer_100031,44,Female,Bangalore,Small Business,2023-06-12,Internet Banking,74.44
+100032,Customer_100032,48,Male,Bangalore,Retired,2022-02-08,UPI Partner,41.13
+100033,Customer_100033,27,Female,Hyderabad,Retired,2023-03-10,Mobile App,34.65
+100034,Customer_100034,46,Female,Hyderabad,Salaried,2022-01-15,Mobile App,62.65
+100035,Customer_100035,64,Female,Hyderabad,Self Employed,2023-11-21,Mobile App,39.47
+100036,Customer_100036,31,Female,Delhi,Retired,2022-12-05,Mobile App,50.34
+100037,Customer_100037,48,Female,Mumbai,Salaried,2023-01-11,Mobile App,70.13
+100038,Customer_100038,35,Male,Hyderabad,Salaried,2024-02-20,Branch,72.92
+100039,Customer_100039,28,Male,Delhi,Student,2024-03-12,UPI Partner,65.03
+100040,Customer_100040,36,Male,Bangalore,Salaried,2024-03-18,Branch,49.27
+100041,Customer_100041,21,Male,Bangalore,Self Employed,2022-03-28,UPI Partner,56.06
+100042,Customer_100042,61,Female,Chennai,Salaried,2023-10-19,Mobile App,35.94
+100043,Customer_100043,48,Female,Chennai,Retired,2022-03-20,Internet Banking,88.58
+100044,Customer_100044,52,Male,Bangalore,Salaried,2023-05-15,Mobile App,81.66
+100045,Customer_100045,26,Female,Bangalore,Salaried,2023-02-06,Mobile App,64.07
+100046,Customer_100046,28,Female,Chennai,Salaried,2023-04-11,Branch,33.33
+100047,Customer_100047,56,Female,Hyderabad,Student,2022-05-10,UPI Partner,63.29
+100048,Customer_100048,22,Male,Ahmedabad,Salaried,2023-07-17,UPI Partner,41.37
+100049,Customer_100049,24,Male,Bangalore,Student,2022-02-08,UPI Partner,63.35
+100050,Customer_100050,29,Male,Mumbai,Self Employed,2022-06-02,Mobile App,47.39
+100051,Customer_100051,44,Female,Chennai,Retired,2023-07-22,Internet Banking,77.25
+100052,Customer_100052,38,Female,Kolkata,Salaried,2023-04-29,Internet Banking,50.2
+100053,Customer_100053,25,Male,Delhi,Retired,2022-10-09,Mobile App,22.65
+100054,Customer_100054,29,Female,Mumbai,Small Business,2022-04-23,UPI Partner,73.35
+100055,Customer_100055,53,Female,Bangalore,Salaried,2022-06-25,Branch,35.33
+100056,Customer_100056,35,Male,Hyderabad,Salaried,2023-09-07,Branch,39.58
+100057,Customer_100057,40,Male,Bangalore,Student,2023-03-16,Internet Banking,18.2
+100058,Customer_100058,46,Female,Kolkata,Salaried,2022-11-21,Mobile App,88.82
+100059,Customer_100059,47,Female,Ahmedabad,Retired,2023-11-16,Mobile App,67.83
+100060,Customer_100060,59,Male,Delhi,Salaried,2022-03-15,Internet Banking,54.0
+100061,Customer_100061,38,Male,Mumbai,Small Business,2023-02-22,Mobile App,76.78
+100062,Customer_100062,64,Female,Pune,Small Business,2022-07-29,Internet Banking,52.31
+100063,Customer_100063,39,Female,Delhi,Salaried,2023-05-12,Internet Banking,68.33
+100064,Customer_100064,31,Female,Mumbai,Salaried,2022-09-19,Internet Banking,65.01
+100065,Customer_100065,53,Male,Hyderabad,Student,2022-03-12,UPI Partner,77.09
+100066,Customer_100066,61,Male,Bangalore,Student,2022-12-08,Internet Banking,59.22
+100067,Customer_100067,29,Male,Hyderabad,Salaried,2023-09-26,Internet Banking,38.0
+100068,Customer_100068,25,Female,Delhi,Small Business,2022-04-12,Internet Banking,39.85
+100069,Customer_100069,54,Female,Chennai,Retired,2022-12-19,UPI Partner,28.74
+100070,Customer_100070,22,Male,Hyderabad,Salaried,2023-03-29,Mobile App,39.8
+100071,Customer_100071,52,Female,Bangalore,Self Employed,2023-11-06,UPI Partner,36.25
+100072,Customer_100072,62,Female,Delhi,Salaried,2023-03-26,Branch,68.17
+100073,Customer_100073,32,Female,Bangalore,Retired,2022-10-03,UPI Partner,35.89
+100074,Customer_100074,55,Female,Mumbai,Salaried,2022-08-20,UPI Partner,41.68
+100075,Customer_100075,29,Female,Bangalore,Student,2022-11-25,Mobile App,12.42
+100076,Customer_100076,40,Male,Chennai,Salaried,2022-07-10,UPI Partner,51.79
+100077,Customer_100077,53,Female,Chennai,Salaried,2022-09-08,UPI Partner,11.18
+100078,Customer_100078,41,Male,Delhi,Salaried,2023-10-28,UPI Partner,77.85
+100079,Customer_100079,39,Male,Delhi,Small Business,2023-01-11,UPI Partner,60.04
+100080,Customer_100080,29,Female,Chennai,Salaried,2022-11-16,Internet Banking,51.67
+100081,Customer_100081,59,Male,Delhi,Self Employed,2023-06-22,UPI Partner,45.43
+100082,Customer_100082,60,Female,Mumbai,Small Business,2022-11-27,Branch,60.17
+100083,Customer_100083,55,Male,Hyderabad,Salaried,2022-09-06,Mobile App,54.77
+100084,Customer_100084,52,Female,Hyderabad,Salaried,2022-10-19,Internet Banking,53.63
+100085,Customer_100085,57,Male,Pune,Salaried,2023-08-28,Mobile App,74.0
+100086,Customer_100086,25,Female,Bangalore,Student,2022-01-17,Branch,67.11
+100087,Customer_100087,49,Male,Bangalore,Salaried,2023-07-26,Branch,58.16
+100088,Customer_100088,34,Female,Hyderabad,Retired,2022-04-04,UPI Partner,81.18
+100089,Customer_100089,22,Female,Hyderabad,Salaried,2024-02-25,Branch,80.68
+100090,Customer_100090,47,Female,Hyderabad,Small Business,2023-02-04,Branch,69.75
+100091,Customer_100091,42,Male,Mumbai,Student,2022-03-26,Internet Banking,57.35
+100092,Customer_100092,41,Male,Delhi,Self Employed,2024-03-19,Branch,67.86
+100093,Customer_100093,63,Male,Mumbai,Self Employed,2024-02-01,Branch,47.7
+100094,Customer_100094,38,Male,Hyderabad,Salaried,2024-03-07,Mobile App,39.56
+100095,Customer_100095,38,Female,Mumbai,Student,2022-06-23,Mobile App,48.32
+100096,Customer_100096,25,Female,Mumbai,Salaried,2023-01-07,Internet Banking,58.44
+100097,Customer_100097,31,Male,Mumbai,Self Employed,2023-04-27,Internet Banking,19.59
+100098,Customer_100098,60,Male,Pune,Salaried,2022-09-04,Branch,59.22
+100099,Customer_100099,56,Male,Delhi,Retired,2024-01-13,UPI Partner,65.19
+100100,Customer_100100,42,Male,Mumbai,Salaried,2022-08-19,Mobile App,79.97
+100101,Customer_100101,24,Female,Pune,Student,2022-03-23,UPI Partner,66.76
+100102,Customer_100102,56,Female,Delhi,Retired,2022-10-18,Mobile App,47.63
+100103,Customer_100103,38,Male,Chennai,Student,2022-02-20,Internet Banking,73.97
+100104,Customer_100104,27,Male,Ahmedabad,Small Business,2023-06-13,UPI Partner,68.27
+100105,Customer_100105,61,Male,Mumbai,Self Employed,2023-06-17,Mobile App,70.27
+100106,Customer_100106,22,Male,Chennai,Self Employed,2023-10-10,Mobile App,59.94
+100107,Customer_100107,60,Female,Hyderabad,Salaried,2023-07-13,Branch,62.09
+100108,Customer_100108,57,Male,Pune,Student,2023-06-27,UPI Partner,58.67
+100109,Customer_100109,29,Male,Hyderabad,Salaried,2023-04-02,Mobile App,56.95
+100110,Customer_100110,26,Female,Chennai,Self Employed,2022-11-10,Internet Banking,25.99
+100111,Customer_100111,58,Male,Hyderabad,Student,2023-06-14,UPI Partner,75.95
+100112,Customer_100112,48,Male,Bangalore,Salaried,2024-02-14,UPI Partner,48.87
+100113,Customer_100113,50,Male,Bangalore,Salaried,2022-05-05,UPI Partner,85.08
+100114,Customer_100114,42,Male,Delhi,Student,2023-08-06,Branch,56.83
+100115,Customer_100115,44,Male,Pune,Student,2023-01-28,Internet Banking,31.53
+100116,Customer_100116,31,Male,Mumbai,Salaried,2022-01-27,UPI Partner,63.59
+100117,Customer_100117,21,Female,Mumbai,Student,2023-03-23,Internet Banking,42.62
+100118,Customer_100118,37,Female,Mumbai,Salaried,2024-01-25,Branch,48.99
+100119,Customer_100119,44,Male,Bangalore,Salaried,2023-06-20,Mobile App,66.11
+100120,Customer_100120,64,Female,Chennai,Student,2023-05-08,Mobile App,63.95
+100121,Customer_100121,33,Female,Chennai,Salaried,2022-10-24,Internet Banking,48.66
+100122,Customer_100122,25,Female,Bangalore,Salaried,2023-02-24,Branch,42.66
+100123,Customer_100123,55,Female,Ahmedabad,Salaried,2022-02-21,Internet Banking,27.09
+100124,Customer_100124,25,Female,Pune,Salaried,2023-07-02,UPI Partner,69.87
+100125,Customer_100125,55,Female,Hyderabad,Salaried,2023-07-08,Mobile App,64.29
+100126,Customer_100126,49,Female,Chennai,Self Employed,2022-10-14,Internet Banking,28.42
+100127,Customer_100127,44,Female,Bangalore,Salaried,2022-07-25,UPI Partner,43.68
+100128,Customer_100128,38,Male,Hyderabad,Self Employed,2022-04-28,UPI Partner,36.02
+100129,Customer_100129,42,Male,Bangalore,Salaried,2022-09-07,Internet Banking,88.1
+100130,Customer_100130,54,Male,Hyderabad,Student,2022-04-19,Internet Banking,45.09
+100131,Customer_100131,56,Male,Pune,Small Business,2024-01-10,Mobile App,80.39
+100132,Customer_100132,35,Male,Hyderabad,Salaried,2023-08-17,Internet Banking,98.58
+100133,Customer_100133,23,Female,Bangalore,Student,2024-02-18,Mobile App,56.5
+100134,Customer_100134,40,Female,Mumbai,Small Business,2022-01-21,Mobile App,16.32
+100135,Customer_100135,40,Female,Mumbai,Salaried,2023-04-09,Branch,82.3
+100136,Customer_100136,39,Male,Hyderabad,Salaried,2022-09-02,Internet Banking,40.96
+100137,Customer_100137,64,Male,Pune,Student,2022-09-21,Branch,58.94
+100138,Customer_100138,51,Female,Chennai,Student,2023-02-28,Internet Banking,65.79
+100139,Customer_100139,36,Male,Mumbai,Retired,2022-11-15,UPI Partner,28.67
+100140,Customer_100140,53,Male,Chennai,Salaried,2022-04-09,Mobile App,29.87
+100141,Customer_100141,45,Male,Hyderabad,Self Employed,2022-09-13,Internet Banking,23.28
+100142,Customer_100142,64,Male,Pune,Salaried,2024-02-22,UPI Partner,60.01
+100143,Customer_100143,40,Male,Delhi,Retired,2024-01-03,Branch,43.49
+100144,Customer_100144,44,Male,Pune,Salaried,2023-04-01,UPI Partner,44.08
+100145,Customer_100145,30,Male,Delhi,Salaried,2022-04-03,UPI Partner,25.16
+100146,Customer_100146,28,Female,Hyderabad,Salaried,2023-07-31,Internet Banking,74.09
+100147,Customer_100147,34,Female,Kolkata,Self Employed,2023-12-17,Mobile App,33.41
+100148,Customer_100148,55,Male,Chennai,Self Employed,2022-06-19,Mobile App,92.16
+100149,Customer_100149,33,Female,Kolkata,Small Business,2023-09-04,Mobile App,42.28
+100150,Customer_100150,48,Male,Ahmedabad,Retired,2022-06-15,UPI Partner,55.06
+100151,Customer_100151,63,Female,Delhi,Retired,2024-02-10,Internet Banking,31.17
+100152,Customer_100152,63,Male,Ahmedabad,Salaried,2022-01-10,Mobile App,42.32
+100153,Customer_100153,38,Female,Bangalore,Self Employed,2022-11-30,Mobile App,78.33
+100154,Customer_100154,38,Female,Hyderabad,Self Employed,2022-11-20,Mobile App,67.17
+100155,Customer_100155,33,Male,Bangalore,Salaried,2022-12-24,UPI Partner,43.21
+100156,Customer_100156,32,Female,Hyderabad,Salaried,2022-04-23,Mobile App,83.35
+100157,Customer_100157,42,Female,Kolkata,Small Business,2022-06-12,Branch,63.92
+100158,Customer_100158,64,Male,Hyderabad,Small Business,2023-02-01,Mobile App,30.5
+100159,Customer_100159,51,Male,Kolkata,Salaried,2022-03-27,Internet Banking,85.88
+100160,Customer_100160,38,Male,Delhi,Student,2023-05-31,UPI Partner,9.12
+100161,Customer_100161,48,Female,Delhi,Salaried,2022-05-31,Mobile App,40.71
+100162,Customer_100162,59,Male,Pune,Self Employed,2023-07-16,Internet Banking,81.98
+100163,Customer_100163,39,Male,Chennai,Salaried,2022-09-26,Internet Banking,92.17
+100164,Customer_100164,22,Male,Delhi,Small Business,2022-04-29,Branch,53.44
+100165,Customer_100165,51,Male,Hyderabad,Student,2024-02-07,Internet Banking,42.43
+100166,Customer_100166,59,Female,Delhi,Self Employed,2022-01-03,Branch,22.72
+100167,Customer_100167,51,Male,Mumbai,Self Employed,2022-02-25,Branch,60.22
+100168,Customer_100168,30,Female,Hyderabad,Self Employed,2024-02-21,Internet Banking,64.83
+100169,Customer_100169,47,Female,Bangalore,Self Employed,2022-07-02,Internet Banking,87.15
+100170,Customer_100170,46,Female,Pune,Salaried,2023-01-05,Mobile App,67.11
+100171,Customer_100171,50,Male,Bangalore,Student,2022-02-19,Internet Banking,75.4
+100172,Customer_100172,56,Female,Chennai,Salaried,2022-11-22,Internet Banking,39.64
+100173,Customer_100173,41,Female,Mumbai,Salaried,2023-03-29,Internet Banking,33.38
+100174,Customer_100174,48,Female,Hyderabad,Self Employed,2022-06-21,Internet Banking,28.01
+100175,Customer_100175,25,Male,Hyderabad,Salaried,2022-10-01,Internet Banking,69.94
+100176,Customer_100176,26,Male,Ahmedabad,Self Employed,2022-02-11,UPI Partner,23.43
+100177,Customer_100177,40,Male,Delhi,Salaried,2023-12-16,Internet Banking,49.72
+100178,Customer_100178,22,Male,Bangalore,Salaried,2022-01-09,Mobile App,64.57
+100179,Customer_100179,63,Male,Hyderabad,Self Employed,2022-11-08,UPI Partner,38.45
+100180,Customer_100180,42,Female,Hyderabad,Salaried,2022-12-06,Mobile App,45.63
+100181,Customer_100181,46,Male,Bangalore,Student,2022-02-13,Mobile App,61.08
+100182,Customer_100182,55,Female,Bangalore,Small Business,2024-03-20,Mobile App,50.19
+100183,Customer_100183,21,Female,Kolkata,Small Business,2022-10-23,Mobile App,42.12
+100184,Customer_100184,28,Female,Hyderabad,Salaried,2022-03-06,Branch,79.34
+100185,Customer_100185,22,Male,Delhi,Salaried,2024-01-26,Internet Banking,36.48
+100186,Customer_100186,37,Male,Bangalore,Salaried,2023-10-01,UPI Partner,67.06
+100187,Customer_100187,35,Female,Bangalore,Salaried,2024-01-13,Mobile App,37.19
+100188,Customer_100188,23,Male,Chennai,Small Business,2023-03-19,Branch,41.28
+100189,Customer_100189,23,Male,Hyderabad,Salaried,2022-10-17,Branch,59.61
+100190,Customer_100190,49,Female,Bangalore,Salaried,2022-11-18,Internet Banking,61.94
+100191,Customer_100191,56,Male,Mumbai,Salaried,2023-05-02,Mobile App,52.4
+100192,Customer_100192,54,Male,Bangalore,Salaried,2022-07-07,UPI Partner,38.94
+100193,Customer_100193,64,Male,Hyderabad,Small Business,2022-02-08,UPI Partner,71.87
+100194,Customer_100194,31,Female,Mumbai,Retired,2023-04-06,Internet Banking,66.45
+100195,Customer_100195,64,Female,Hyderabad,Self Employed,2023-02-06,Internet Banking,72.77
+100196,Customer_100196,21,Female,Ahmedabad,Small Business,2022-04-26,Branch,60.47
+100197,Customer_100197,54,Male,Hyderabad,Small Business,2022-03-12,Internet Banking,65.22
+100198,Customer_100198,44,Female,Delhi,Salaried,2022-07-13,Internet Banking,53.84
+100199,Customer_100199,45,Male,Mumbai,Self Employed,2022-01-21,UPI Partner,45.73
+100200,Customer_100200,50,Female,Delhi,Retired,2022-10-19,Branch,44.1
+100201,Customer_100201,32,Female,Bangalore,Retired,2023-02-11,Mobile App,84.88
+100202,Customer_100202,60,Male,Pune,Student,2023-03-17,Internet Banking,26.96
+100203,Customer_100203,35,Female,Delhi,Salaried,2022-08-10,Internet Banking,56.08
+100204,Customer_100204,41,Male,Delhi,Salaried,2022-06-24,Internet Banking,54.65
+100205,Customer_100205,21,Male,Delhi,Student,2023-02-22,Internet Banking,61.07
+100206,Customer_100206,22,Male,Hyderabad,Salaried,2023-04-02,UPI Partner,40.15
+100207,Customer_100207,30,Male,Delhi,Self Employed,2023-01-05,Internet Banking,53.07
+100208,Customer_100208,42,Male,Pune,Small Business,2023-05-13,Branch,76.93
+100209,Customer_100209,59,Female,Chennai,Retired,2023-06-17,Branch,51.58
+100210,Customer_100210,60,Male,Hyderabad,Salaried,2023-08-03,Mobile App,44.56
+100211,Customer_100211,51,Female,Bangalore,Self Employed,2022-10-07,Mobile App,76.44
+100212,Customer_100212,60,Female,Hyderabad,Salaried,2024-01-08,UPI Partner,54.86
+100213,Customer_100213,49,Male,Chennai,Retired,2022-04-01,Branch,50.9
+100214,Customer_100214,26,Male,Kolkata,Small Business,2023-08-23,Internet Banking,34.05
+100215,Customer_100215,62,Male,Chennai,Student,2022-01-02,Branch,57.88
+100216,Customer_100216,56,Female,Hyderabad,Small Business,2022-08-04,Mobile App,51.56
+100217,Customer_100217,34,Male,Mumbai,Self Employed,2023-04-05,UPI Partner,44.89
+100218,Customer_100218,35,Male,Bangalore,Small Business,2022-07-04,Mobile App,56.31
+100219,Customer_100219,54,Female,Chennai,Salaried,2022-07-27,UPI Partner,53.28
+100220,Customer_100220,57,Female,Chennai,Salaried,2022-07-14,Mobile App,12.68
+100221,Customer_100221,44,Female,Chennai,Salaried,2022-11-14,Internet Banking,50.94
+100222,Customer_100222,64,Female,Hyderabad,Small Business,2023-06-16,Branch,53.01
+100223,Customer_100223,51,Female,Chennai,Salaried,2023-04-17,Mobile App,62.83
+100224,Customer_100224,45,Male,Hyderabad,Student,2022-10-02,Branch,60.6
+100225,Customer_100225,47,Male,Bangalore,Retired,2023-07-10,Mobile App,71.65
+100226,Customer_100226,51,Female,Kolkata,Salaried,2023-10-08,Mobile App,81.96
+100227,Customer_100227,64,Female,Bangalore,Self Employed,2022-05-28,UPI Partner,63.92
+100228,Customer_100228,64,Female,Bangalore,Self Employed,2023-09-25,Mobile App,64.19
+100229,Customer_100229,24,Female,Pune,Student,2022-10-18,UPI Partner,38.0
+100230,Customer_100230,37,Female,Hyderabad,Salaried,2022-10-15,Branch,53.16
+100231,Customer_100231,56,Female,Bangalore,Self Employed,2022-11-30,Branch,67.78
+100232,Customer_100232,62,Female,Bangalore,Small Business,2023-05-23,UPI Partner,42.63
+100233,Customer_100233,22,Female,Delhi,Small Business,2023-04-22,Branch,71.77
+100234,Customer_100234,43,Female,Mumbai,Student,2023-07-19,Branch,41.14
+100235,Customer_100235,52,Female,Mumbai,Self Employed,2023-11-27,Branch,85.47
+100236,Customer_100236,24,Female,Bangalore,Student,2023-11-30,Mobile App,36.14
+100237,Customer_100237,47,Male,Kolkata,Student,2022-06-19,Internet Banking,18.38
+100238,Customer_100238,26,Male,Kolkata,Self Employed,2024-01-15,Mobile App,60.26
+100239,Customer_100239,36,Male,Bangalore,Salaried,2022-09-23,UPI Partner,53.37
+100240,Customer_100240,54,Male,Mumbai,Salaried,2022-06-21,Internet Banking,44.11
+100241,Customer_100241,50,Female,Bangalore,Salaried,2023-03-30,Branch,69.66
+100242,Customer_100242,55,Male,Mumbai,Small Business,2023-07-24,Internet Banking,46.45
+100243,Customer_100243,25,Female,Mumbai,Student,2023-12-01,Branch,74.91
+100244,Customer_100244,44,Male,Delhi,Student,2023-09-19,UPI Partner,79.92
+100245,Customer_100245,52,Male,Kolkata,Salaried,2023-08-04,Branch,40.93
+100246,Customer_100246,34,Female,Pune,Small Business,2024-01-25,Internet Banking,95.03
+100247,Customer_100247,36,Female,Bangalore,Salaried,2023-02-24,Mobile App,41.67
+100248,Customer_100248,54,Female,Hyderabad,Small Business,2023-12-02,Mobile App,61.91
+100249,Customer_100249,38,Male,Bangalore,Small Business,2022-12-25,Mobile App,76.37
+100250,Customer_100250,26,Male,Hyderabad,Self Employed,2023-07-23,Mobile App,59.92
+100251,Customer_100251,56,Female,Chennai,Self Employed,2022-12-29,Internet Banking,67.7
+100252,Customer_100252,64,Female,Chennai,Self Employed,2022-10-03,Mobile App,50.33
+100253,Customer_100253,61,Female,Mumbai,Self Employed,2022-07-25,Internet Banking,27.16
+100254,Customer_100254,62,Male,Delhi,Retired,2023-07-27,Branch,64.75
+100255,Customer_100255,63,Male,Hyderabad,Self Employed,2022-06-14,Internet Banking,64.45
+100256,Customer_100256,43,Male,Hyderabad,Self Employed,2023-08-15,Branch,42.49
+100257,Customer_100257,57,Male,Bangalore,Small Business,2023-06-17,UPI Partner,64.44
+100258,Customer_100258,52,Male,Hyderabad,Small Business,2022-08-29,UPI Partner,56.84
+100259,Customer_100259,42,Male,Chennai,Salaried,2022-05-29,Internet Banking,71.09
+100260,Customer_100260,59,Male,Chennai,Retired,2023-02-06,Internet Banking,85.14
+100261,Customer_100261,64,Male,Hyderabad,Student,2022-07-25,UPI Partner,45.49
+100262,Customer_100262,53,Male,Mumbai,Self Employed,2023-03-13,UPI Partner,45.98
+100263,Customer_100263,46,Female,Pune,Salaried,2023-06-27,UPI Partner,69.46
+100264,Customer_100264,24,Male,Ahmedabad,Salaried,2023-05-22,Mobile App,67.18
+100265,Customer_100265,35,Female,Mumbai,Retired,2022-04-13,Branch,65.71
+100266,Customer_100266,50,Male,Delhi,Salaried,2022-05-13,Branch,48.81
+100267,Customer_100267,46,Male,Delhi,Salaried,2022-07-15,Internet Banking,55.85
+100268,Customer_100268,26,Male,Mumbai,Salaried,2022-11-28,Mobile App,78.09
+100269,Customer_100269,64,Female,Chennai,Self Employed,2024-02-21,UPI Partner,55.3
+100270,Customer_100270,38,Female,Kolkata,Salaried,2022-06-24,Branch,56.17
+100271,Customer_100271,57,Female,Bangalore,Salaried,2022-12-15,Branch,54.2
+100272,Customer_100272,23,Male,Pune,Student,2022-01-24,Mobile App,35.86
+100273,Customer_100273,27,Male,Kolkata,Salaried,2022-02-18,UPI Partner,52.54
+100274,Customer_100274,29,Female,Mumbai,Small Business,2022-12-23,Internet Banking,51.4
+100275,Customer_100275,34,Female,Kolkata,Student,2023-04-29,Internet Banking,65.28
+100276,Customer_100276,42,Female,Pune,Self Employed,2023-05-10,Branch,71.52
+100277,Customer_100277,60,Female,Bangalore,Salaried,2024-01-03,UPI Partner,34.23
+100278,Customer_100278,30,Male,Bangalore,Small Business,2023-07-31,Branch,69.76
+100279,Customer_100279,41,Female,Delhi,Salaried,2022-11-09,Internet Banking,50.47
+100280,Customer_100280,57,Female,Bangalore,Salaried,2022-03-14,UPI Partner,48.83
+100281,Customer_100281,62,Male,Mumbai,Small Business,2022-10-27,Internet Banking,32.01
+100282,Customer_100282,23,Female,Hyderabad,Salaried,2024-01-24,UPI Partner,79.59
+100283,Customer_100283,40,Male,Pune,Small Business,2023-02-17,UPI Partner,48.21
+100284,Customer_100284,61,Female,Bangalore,Retired,2024-01-28,Internet Banking,71.55
+100285,Customer_100285,60,Female,Hyderabad,Salaried,2023-08-17,Mobile App,61.69
+100286,Customer_100286,50,Male,Delhi,Student,2022-06-04,Internet Banking,14.76
+100287,Customer_100287,32,Male,Bangalore,Salaried,2023-09-18,Branch,16.14
+100288,Customer_100288,42,Female,Ahmedabad,Small Business,2022-07-06,Mobile App,69.55
+100289,Customer_100289,52,Male,Hyderabad,Salaried,2022-03-25,UPI Partner,60.7
+100290,Customer_100290,55,Female,Pune,Retired,2022-05-06,Internet Banking,30.63
+100291,Customer_100291,60,Female,Hyderabad,Student,2022-05-14,Branch,41.28
+100292,Customer_100292,23,Male,Chennai,Self Employed,2023-03-21,Branch,64.69
+100293,Customer_100293,27,Female,Pune,Retired,2022-07-19,Internet Banking,30.04
+100294,Customer_100294,52,Male,Pune,Self Employed,2023-01-31,Branch,22.35
+100295,Customer_100295,39,Male,Delhi,Salaried,2023-08-12,Branch,38.7
+100296,Customer_100296,27,Male,Chennai,Self Employed,2022-07-24,UPI Partner,43.5
+100297,Customer_100297,32,Female,Hyderabad,Salaried,2023-01-09,Branch,57.03
+100298,Customer_100298,22,Male,Pune,Salaried,2022-02-25,Mobile App,56.9
+100299,Customer_100299,23,Male,Bangalore,Self Employed,2024-01-13,Mobile App,36.03
+100300,Customer_100300,55,Female,Hyderabad,Small Business,2023-10-10,Mobile App,32.05
+100301,Customer_100301,63,Male,Hyderabad,Salaried,2023-03-20,Branch,73.36
+100302,Customer_100302,22,Male,Chennai,Small Business,2024-01-14,Mobile App,52.67
+100303,Customer_100303,49,Female,Ahmedabad,Salaried,2022-10-30,UPI Partner,53.44
+100304,Customer_100304,57,Male,Delhi,Salaried,2022-06-14,UPI Partner,42.44
+100305,Customer_100305,59,Female,Bangalore,Small Business,2022-01-19,Mobile App,54.98
+100306,Customer_100306,39,Female,Kolkata,Self Employed,2023-10-04,UPI Partner,33.95
+100307,Customer_100307,34,Female,Kolkata,Salaried,2022-01-12,UPI Partner,67.21
+100308,Customer_100308,51,Female,Mumbai,Salaried,2022-09-25,Internet Banking,29.92
+100309,Customer_100309,59,Male,Hyderabad,Salaried,2022-06-01,Mobile App,45.15
+100310,Customer_100310,21,Male,Hyderabad,Self Employed,2023-08-26,Branch,64.76
+100311,Customer_100311,44,Female,Delhi,Salaried,2023-05-28,Internet Banking,35.58
+100312,Customer_100312,63,Female,Delhi,Salaried,2022-09-26,Mobile App,72.28
+100313,Customer_100313,33,Female,Hyderabad,Self Employed,2024-02-13,Mobile App,53.42
+100314,Customer_100314,43,Female,Mumbai,Retired,2022-01-10,Branch,43.74
+100315,Customer_100315,60,Female,Pune,Salaried,2023-01-22,Internet Banking,9.42
+100316,Customer_100316,25,Female,Pune,Salaried,2023-03-17,Branch,82.96
+100317,Customer_100317,55,Male,Ahmedabad,Salaried,2023-06-22,Branch,67.36
+100318,Customer_100318,32,Male,Delhi,Salaried,2023-02-27,UPI Partner,33.68
+100319,Customer_100319,40,Female,Delhi,Salaried,2022-12-15,UPI Partner,49.46
+100320,Customer_100320,37,Male,Hyderabad,Retired,2022-11-28,Branch,51.46
+100321,Customer_100321,47,Male,Ahmedabad,Salaried,2022-02-09,Internet Banking,67.79
+100322,Customer_100322,38,Male,Kolkata,Salaried,2023-07-28,UPI Partner,35.98
+100323,Customer_100323,53,Female,Mumbai,Student,2024-02-08,Mobile App,48.8
+100324,Customer_100324,39,Female,Mumbai,Salaried,2023-09-18,Mobile App,43.22
+100325,Customer_100325,37,Male,Kolkata,Salaried,2023-09-02,UPI Partner,58.99
+100326,Customer_100326,40,Female,Ahmedabad,Self Employed,2022-03-26,Mobile App,51.25
+100327,Customer_100327,49,Female,Hyderabad,Student,2023-06-07,UPI Partner,28.25
+100328,Customer_100328,45,Female,Delhi,Self Employed,2022-03-22,Mobile App,44.12
+100329,Customer_100329,54,Male,Pune,Self Employed,2023-07-24,Mobile App,33.32
+100330,Customer_100330,25,Female,Kolkata,Self Employed,2024-01-11,UPI Partner,42.48
+100331,Customer_100331,27,Male,Bangalore,Salaried,2023-03-27,Branch,85.84
+100332,Customer_100332,49,Female,Kolkata,Student,2023-08-24,UPI Partner,55.02
+100333,Customer_100333,54,Male,Chennai,Salaried,2023-06-12,Mobile App,15.65
+100334,Customer_100334,64,Male,Bangalore,Retired,2022-09-03,Mobile App,64.93
+100335,Customer_100335,39,Female,Hyderabad,Small Business,2024-01-28,Branch,51.79
+100336,Customer_100336,37,Male,Delhi,Salaried,2023-08-04,Mobile App,73.38
+100337,Customer_100337,42,Male,Chennai,Salaried,2024-03-26,UPI Partner,61.05
+100338,Customer_100338,62,Female,Pune,Salaried,2022-12-04,UPI Partner,55.6
+100339,Customer_100339,25,Female,Bangalore,Self Employed,2023-05-28,Mobile App,42.69
+100340,Customer_100340,58,Male,Pune,Student,2022-03-03,Internet Banking,54.83
+100341,Customer_100341,62,Male,Bangalore,Salaried,2023-08-03,Internet Banking,34.19
+100342,Customer_100342,59,Male,Chennai,Salaried,2022-05-27,Branch,50.09
+100343,Customer_100343,58,Female,Chennai,Salaried,2022-08-31,Branch,94.12
+100344,Customer_100344,45,Female,Delhi,Retired,2023-04-09,Internet Banking,59.67
+100345,Customer_100345,42,Female,Bangalore,Self Employed,2022-01-17,Branch,59.09
+100346,Customer_100346,38,Male,Ahmedabad,Salaried,2022-01-19,Mobile App,76.21
+100347,Customer_100347,40,Male,Delhi,Self Employed,2023-06-09,UPI Partner,73.71
+100348,Customer_100348,38,Male,Hyderabad,Salaried,2023-03-09,Mobile App,82.17
+100349,Customer_100349,49,Male,Mumbai,Small Business,2023-11-04,Mobile App,61.92
+100350,Customer_100350,60,Female,Bangalore,Salaried,2023-09-20,Mobile App,68.34
+100351,Customer_100351,33,Female,Mumbai,Small Business,2022-10-20,UPI Partner,40.96
+100352,Customer_100352,64,Female,Mumbai,Self Employed,2022-12-30,Branch,32.91
+100353,Customer_100353,28,Female,Hyderabad,Small Business,2024-01-28,Branch,62.98
+100354,Customer_100354,29,Female,Hyderabad,Student,2022-10-25,Mobile App,14.98
+100355,Customer_100355,26,Female,Pune,Salaried,2023-07-31,Branch,57.85
+100356,Customer_100356,26,Male,Delhi,Self Employed,2023-05-30,Branch,16.12
+100357,Customer_100357,26,Female,Bangalore,Small Business,2023-08-18,Mobile App,81.55
+100358,Customer_100358,32,Female,Kolkata,Retired,2023-03-31,Mobile App,27.76
+100359,Customer_100359,63,Female,Chennai,Retired,2023-09-27,Branch,38.39
+100360,Customer_100360,43,Female,Ahmedabad,Small Business,2022-10-23,Internet Banking,80.51
+100361,Customer_100361,46,Female,Mumbai,Self Employed,2023-04-10,UPI Partner,84.87
+100362,Customer_100362,58,Male,Hyderabad,Small Business,2022-06-07,Internet Banking,59.0
+100363,Customer_100363,21,Male,Mumbai,Salaried,2023-10-22,UPI Partner,58.11
+100364,Customer_100364,53,Female,Delhi,Salaried,2023-05-19,Mobile App,68.07
+100365,Customer_100365,38,Female,Bangalore,Small Business,2023-04-23,Mobile App,64.01
+100366,Customer_100366,52,Male,Bangalore,Self Employed,2022-02-19,Mobile App,61.84
+100367,Customer_100367,31,Male,Hyderabad,Salaried,2023-01-28,UPI Partner,72.16
+100368,Customer_100368,34,Male,Ahmedabad,Self Employed,2023-03-27,Internet Banking,70.28
+100369,Customer_100369,63,Female,Delhi,Salaried,2024-01-16,UPI Partner,79.23
+100370,Customer_100370,52,Male,Bangalore,Salaried,2023-11-27,UPI Partner,44.27
+100371,Customer_100371,51,Male,Bangalore,Small Business,2022-08-11,Internet Banking,61.11
+100372,Customer_100372,49,Female,Mumbai,Salaried,2022-06-28,Mobile App,73.64
+100373,Customer_100373,29,Female,Hyderabad,Salaried,2022-05-05,Mobile App,64.18
+100374,Customer_100374,55,Male,Bangalore,Retired,2022-07-05,Branch,70.6
+100375,Customer_100375,34,Male,Pune,Salaried,2024-03-07,UPI Partner,44.66
+100376,Customer_100376,60,Female,Hyderabad,Salaried,2022-11-04,Mobile App,62.46
+100377,Customer_100377,35,Male,Mumbai,Salaried,2024-01-12,Branch,70.19
+100378,Customer_100378,42,Male,Hyderabad,Self Employed,2022-11-05,Internet Banking,36.41
+100379,Customer_100379,29,Male,Bangalore,Salaried,2023-07-12,UPI Partner,60.38
+100380,Customer_100380,55,Male,Chennai,Self Employed,2022-03-25,Branch,40.19
+100381,Customer_100381,52,Female,Bangalore,Salaried,2023-05-18,Branch,50.4
+100382,Customer_100382,52,Male,Mumbai,Small Business,2023-11-24,Mobile App,47.45
+100383,Customer_100383,26,Male,Chennai,Salaried,2022-08-25,Internet Banking,58.63
+100384,Customer_100384,57,Male,Mumbai,Small Business,2022-08-31,Mobile App,33.01
+100385,Customer_100385,28,Male,Hyderabad,Salaried,2023-10-14,UPI Partner,56.88
+100386,Customer_100386,55,Male,Chennai,Student,2024-02-05,UPI Partner,46.02
+100387,Customer_100387,26,Female,Chennai,Salaried,2023-12-18,Internet Banking,59.82
+100388,Customer_100388,43,Male,Bangalore,Self Employed,2023-02-01,UPI Partner,1.0
+100389,Customer_100389,34,Female,Hyderabad,Small Business,2022-01-23,Mobile App,36.65
+100390,Customer_100390,58,Female,Bangalore,Salaried,2022-10-03,UPI Partner,44.12
+100391,Customer_100391,29,Male,Hyderabad,Self Employed,2022-10-28,Branch,66.32
+100392,Customer_100392,62,Female,Mumbai,Student,2023-03-13,Branch,75.88
+100393,Customer_100393,31,Male,Hyderabad,Salaried,2022-09-16,UPI Partner,67.08
+100394,Customer_100394,51,Male,Kolkata,Student,2023-03-07,Mobile App,79.42
+100395,Customer_100395,54,Male,Pune,Salaried,2022-09-27,Mobile App,74.44
+100396,Customer_100396,51,Female,Kolkata,Salaried,2022-09-20,Branch,78.69
+100397,Customer_100397,35,Male,Mumbai,Student,2023-08-10,Internet Banking,87.08
+100398,Customer_100398,58,Female,Pune,Retired,2023-04-15,Branch,67.12
+100399,Customer_100399,64,Male,Chennai,Salaried,2023-04-07,Internet Banking,31.43
+100400,Customer_100400,58,Male,Hyderabad,Retired,2022-08-08,Mobile App,41.38
+100401,Customer_100401,39,Female,Mumbai,Salaried,2022-07-18,Mobile App,63.46
+100402,Customer_100402,31,Male,Hyderabad,Salaried,2023-01-15,Branch,45.06
+100403,Customer_100403,41,Male,Delhi,Salaried,2022-03-05,Internet Banking,67.82
+100404,Customer_100404,59,Male,Hyderabad,Self Employed,2024-02-20,Mobile App,61.62
+100405,Customer_100405,34,Female,Hyderabad,Self Employed,2023-06-10,Internet Banking,56.63
+100406,Customer_100406,33,Female,Kolkata,Salaried,2023-10-05,Internet Banking,47.77
+100407,Customer_100407,24,Male,Chennai,Self Employed,2024-02-18,Mobile App,60.21
+100408,Customer_100408,31,Male,Mumbai,Salaried,2023-04-28,Branch,71.02
+100409,Customer_100409,35,Male,Delhi,Salaried,2023-12-20,Internet Banking,69.88
+100410,Customer_100410,47,Male,Kolkata,Salaried,2022-10-22,UPI Partner,99.0
+100411,Customer_100411,28,Female,Mumbai,Salaried,2022-08-13,UPI Partner,61.15
+100412,Customer_100412,48,Female,Kolkata,Self Employed,2022-04-09,Branch,53.03
+100413,Customer_100413,47,Female,Kolkata,Student,2024-01-17,UPI Partner,68.81
+100414,Customer_100414,40,Female,Chennai,Salaried,2022-02-09,UPI Partner,31.79
+100415,Customer_100415,25,Male,Chennai,Retired,2022-10-03,Branch,79.41
+100416,Customer_100416,61,Female,Delhi,Salaried,2022-05-29,Internet Banking,39.46
+100417,Customer_100417,58,Female,Bangalore,Self Employed,2023-06-27,Internet Banking,69.15
+100418,Customer_100418,23,Male,Chennai,Salaried,2022-02-22,Branch,35.88
+100419,Customer_100419,49,Female,Hyderabad,Retired,2023-09-17,Mobile App,67.12
+100420,Customer_100420,25,Male,Delhi,Retired,2022-08-19,Internet Banking,62.83
+100421,Customer_100421,27,Female,Mumbai,Small Business,2022-08-06,Internet Banking,62.09
+100422,Customer_100422,33,Male,Delhi,Student,2023-11-07,Mobile App,51.84
+100423,Customer_100423,57,Male,Ahmedabad,Salaried,2022-05-30,Mobile App,15.62
+100424,Customer_100424,46,Male,Mumbai,Retired,2023-05-27,UPI Partner,73.91
+100425,Customer_100425,24,Male,Chennai,Small Business,2024-01-14,Mobile App,77.81
+100426,Customer_100426,55,Female,Hyderabad,Salaried,2023-11-13,UPI Partner,43.21
+100427,Customer_100427,57,Male,Bangalore,Small Business,2023-10-30,Branch,41.96
+100428,Customer_100428,59,Female,Hyderabad,Salaried,2023-01-15,Internet Banking,50.04
+100429,Customer_100429,54,Female,Bangalore,Self Employed,2022-11-21,UPI Partner,49.72
+100430,Customer_100430,24,Male,Chennai,Salaried,2023-10-21,Branch,13.14
+100431,Customer_100431,28,Female,Mumbai,Salaried,2023-01-01,Mobile App,44.7
+100432,Customer_100432,37,Male,Kolkata,Salaried,2022-10-07,UPI Partner,72.68
+100433,Customer_100433,21,Female,Delhi,Self Employed,2022-02-23,Internet Banking,35.39
+100434,Customer_100434,53,Male,Mumbai,Salaried,2022-12-27,UPI Partner,40.64
+100435,Customer_100435,29,Female,Chennai,Small Business,2023-03-04,Mobile App,45.66
+100436,Customer_100436,31,Male,Pune,Small Business,2022-11-28,Branch,41.12
+100437,Customer_100437,23,Male,Kolkata,Student,2023-02-12,UPI Partner,40.27
+100438,Customer_100438,54,Female,Bangalore,Salaried,2023-06-10,Mobile App,28.26
+100439,Customer_100439,59,Male,Chennai,Salaried,2024-01-09,Branch,69.33
+100440,Customer_100440,28,Male,Mumbai,Salaried,2023-05-08,Branch,45.16
+100441,Customer_100441,49,Male,Hyderabad,Self Employed,2023-09-15,UPI Partner,41.72
+100442,Customer_100442,35,Female,Delhi,Retired,2024-03-15,Mobile App,57.0
+100443,Customer_100443,42,Male,Pune,Self Employed,2022-01-13,Mobile App,39.96
+100444,Customer_100444,44,Female,Hyderabad,Salaried,2022-07-31,Branch,54.34
+100445,Customer_100445,56,Female,Bangalore,Salaried,2022-09-06,UPI Partner,30.33
+100446,Customer_100446,34,Male,Bangalore,Salaried,2022-05-16,Internet Banking,65.75
+100447,Customer_100447,56,Male,Mumbai,Student,2023-07-09,Mobile App,42.06
+100448,Customer_100448,60,Female,Mumbai,Student,2023-05-06,UPI Partner,15.97
+100449,Customer_100449,40,Female,Mumbai,Self Employed,2022-11-01,UPI Partner,78.78
+100450,Customer_100450,44,Male,Delhi,Small Business,2024-01-18,Internet Banking,39.59
+100451,Customer_100451,58,Male,Hyderabad,Self Employed,2022-04-08,Internet Banking,62.47
+100452,Customer_100452,50,Female,Bangalore,Self Employed,2022-12-26,Internet Banking,47.43
+100453,Customer_100453,50,Male,Ahmedabad,Self Employed,2022-03-21,Mobile App,17.33
+100454,Customer_100454,59,Male,Pune,Self Employed,2022-04-23,Branch,85.17
+100455,Customer_100455,56,Female,Delhi,Salaried,2022-09-02,Mobile App,52.28
+100456,Customer_100456,25,Female,Delhi,Salaried,2022-12-29,UPI Partner,57.82
+100457,Customer_100457,35,Male,Hyderabad,Salaried,2023-05-25,Internet Banking,34.53
+100458,Customer_100458,27,Female,Delhi,Retired,2023-03-19,Branch,63.57
+100459,Customer_100459,57,Female,Ahmedabad,Student,2023-12-28,Mobile App,61.55
+100460,Customer_100460,25,Female,Delhi,Student,2023-09-02,Internet Banking,24.41
+100461,Customer_100461,57,Female,Chennai,Self Employed,2023-05-22,UPI Partner,63.76
+100462,Customer_100462,30,Female,Bangalore,Self Employed,2022-12-11,Branch,48.54
+100463,Customer_100463,32,Male,Delhi,Salaried,2023-12-01,Mobile App,58.57
+100464,Customer_100464,59,Male,Chennai,Salaried,2024-03-17,Branch,60.3
+100465,Customer_100465,32,Female,Bangalore,Small Business,2024-01-19,Branch,58.8
+100466,Customer_100466,39,Male,Delhi,Self Employed,2022-02-02,Internet Banking,42.81
+100467,Customer_100467,51,Female,Mumbai,Small Business,2022-01-25,UPI Partner,80.82
+100468,Customer_100468,45,Male,Delhi,Salaried,2022-05-27,Internet Banking,41.63
+100469,Customer_100469,48,Female,Bangalore,Student,2022-03-20,Branch,74.92
+100470,Customer_100470,21,Female,Bangalore,Salaried,2023-01-18,Branch,48.92
+100471,Customer_100471,42,Male,Hyderabad,Salaried,2022-11-26,Branch,51.96
+100472,Customer_100472,23,Male,Bangalore,Salaried,2023-06-19,Branch,42.86
+100473,Customer_100473,41,Male,Hyderabad,Salaried,2023-04-17,Branch,57.04
+100474,Customer_100474,47,Female,Delhi,Salaried,2022-04-03,Internet Banking,39.44
+100475,Customer_100475,55,Male,Hyderabad,Self Employed,2024-03-26,UPI Partner,43.26
+100476,Customer_100476,32,Female,Chennai,Salaried,2022-08-15,Mobile App,83.44
+100477,Customer_100477,44,Male,Ahmedabad,Salaried,2024-03-03,Internet Banking,55.9
+100478,Customer_100478,36,Male,Hyderabad,Retired,2023-12-03,Internet Banking,72.42
+100479,Customer_100479,45,Male,Hyderabad,Salaried,2023-11-27,UPI Partner,47.98
+100480,Customer_100480,61,Male,Mumbai,Retired,2022-01-25,Internet Banking,52.08
+100481,Customer_100481,48,Female,Pune,Salaried,2023-01-27,UPI Partner,68.7
+100482,Customer_100482,43,Female,Chennai,Salaried,2022-06-07,Internet Banking,84.91
+100483,Customer_100483,60,Female,Bangalore,Salaried,2023-12-05,Internet Banking,68.3
+100484,Customer_100484,39,Female,Mumbai,Salaried,2024-01-13,Mobile App,30.81
+100485,Customer_100485,33,Male,Ahmedabad,Salaried,2022-05-03,Mobile App,49.98
+100486,Customer_100486,59,Female,Hyderabad,Salaried,2023-03-12,UPI Partner,35.24
+100487,Customer_100487,48,Male,Pune,Salaried,2023-05-25,Internet Banking,52.71
+100488,Customer_100488,29,Male,Hyderabad,Salaried,2022-07-09,Branch,33.86
+100489,Customer_100489,29,Female,Ahmedabad,Self Employed,2022-06-04,UPI Partner,70.23
+100490,Customer_100490,63,Female,Delhi,Student,2022-08-04,UPI Partner,49.01
+100491,Customer_100491,54,Female,Bangalore,Self Employed,2023-01-12,Mobile App,73.91
+100492,Customer_100492,44,Male,Mumbai,Small Business,2022-10-22,Branch,30.99
+100493,Customer_100493,40,Male,Chennai,Salaried,2022-11-12,UPI Partner,38.52
+100494,Customer_100494,54,Female,Hyderabad,Small Business,2022-01-23,Branch,40.85
+100495,Customer_100495,34,Female,Mumbai,Student,2022-01-11,UPI Partner,61.34
+100496,Customer_100496,35,Male,Pune,Salaried,2023-03-29,Internet Banking,39.89
+100497,Customer_100497,30,Female,Hyderabad,Salaried,2022-03-11,Branch,70.34
+100498,Customer_100498,23,Male,Hyderabad,Student,2023-06-23,Mobile App,69.81
+100499,Customer_100499,34,Female,Kolkata,Salaried,2024-01-03,Mobile App,72.47
+100500,Customer_100500,56,Male,Ahmedabad,Salaried,2023-05-09,Branch,72.29
+100501,Customer_100501,27,Female,Chennai,Salaried,2024-03-17,Internet Banking,20.2
+100502,Customer_100502,29,Female,Delhi,Salaried,2022-07-16,UPI Partner,37.56
+100503,Customer_100503,40,Male,Bangalore,Salaried,2023-08-25,UPI Partner,23.52
+100504,Customer_100504,28,Female,Hyderabad,Self Employed,2023-01-26,Mobile App,56.92
+100505,Customer_100505,31,Female,Ahmedabad,Small Business,2023-12-29,UPI Partner,25.48
+100506,Customer_100506,23,Male,Pune,Salaried,2023-12-25,Mobile App,66.7
+100507,Customer_100507,40,Male,Hyderabad,Salaried,2022-03-31,Branch,40.74
+100508,Customer_100508,47,Female,Hyderabad,Self Employed,2023-07-13,Internet Banking,63.24
+100509,Customer_100509,53,Male,Chennai,Small Business,2022-09-02,Internet Banking,56.95
+100510,Customer_100510,63,Male,Delhi,Retired,2024-01-17,Mobile App,62.86
+100511,Customer_100511,27,Female,Bangalore,Salaried,2024-03-12,Mobile App,23.63
+100512,Customer_100512,57,Female,Bangalore,Retired,2023-04-15,Mobile App,41.83
+100513,Customer_100513,48,Male,Pune,Self Employed,2024-01-06,Internet Banking,60.32
+100514,Customer_100514,22,Female,Pune,Self Employed,2022-09-20,UPI Partner,12.46
+100515,Customer_100515,63,Female,Chennai,Student,2023-01-26,Mobile App,62.34
+100516,Customer_100516,32,Female,Delhi,Salaried,2023-10-07,UPI Partner,60.44
+100517,Customer_100517,64,Male,Delhi,Salaried,2023-10-07,Internet Banking,57.55
+100518,Customer_100518,58,Male,Hyderabad,Student,2023-04-28,Mobile App,44.24
+100519,Customer_100519,31,Male,Mumbai,Salaried,2023-04-24,UPI Partner,56.33
+100520,Customer_100520,50,Male,Pune,Self Employed,2022-06-08,Mobile App,75.64
+100521,Customer_100521,51,Female,Mumbai,Self Employed,2022-12-10,Branch,43.19
+100522,Customer_100522,55,Male,Bangalore,Small Business,2022-08-13,Internet Banking,37.13
+100523,Customer_100523,34,Male,Pune,Salaried,2024-03-19,UPI Partner,49.94
+100524,Customer_100524,28,Male,Kolkata,Salaried,2023-05-30,Branch,73.9
+100525,Customer_100525,32,Female,Bangalore,Salaried,2022-07-17,Mobile App,48.08
+100526,Customer_100526,52,Female,Delhi,Salaried,2023-03-16,Mobile App,76.68
+100527,Customer_100527,52,Female,Mumbai,Salaried,2022-10-16,Internet Banking,53.84
+100528,Customer_100528,48,Female,Pune,Salaried,2023-06-29,Mobile App,1.0
+100529,Customer_100529,40,Female,Mumbai,Salaried,2023-11-28,Internet Banking,69.95
+100530,Customer_100530,40,Male,Bangalore,Salaried,2022-06-26,Branch,66.8
+100531,Customer_100531,25,Male,Hyderabad,Student,2023-03-28,Internet Banking,41.53
+100532,Customer_100532,38,Male,Kolkata,Small Business,2022-04-12,UPI Partner,49.7
+100533,Customer_100533,50,Female,Delhi,Small Business,2023-06-19,Branch,83.96
+100534,Customer_100534,35,Male,Bangalore,Student,2022-03-21,Internet Banking,54.78
+100535,Customer_100535,61,Female,Chennai,Retired,2023-09-28,UPI Partner,66.64
+100536,Customer_100536,36,Male,Delhi,Self Employed,2023-08-31,Internet Banking,45.74
+100537,Customer_100537,58,Female,Mumbai,Small Business,2023-12-03,Mobile App,71.28
+100538,Customer_100538,33,Female,Bangalore,Student,2024-03-25,Branch,57.95
+100539,Customer_100539,24,Female,Delhi,Salaried,2022-06-30,UPI Partner,61.17
+100540,Customer_100540,37,Female,Delhi,Salaried,2022-06-02,Internet Banking,53.22
+100541,Customer_100541,34,Male,Hyderabad,Salaried,2022-08-23,Branch,53.75
+100542,Customer_100542,32,Male,Hyderabad,Salaried,2023-03-21,Internet Banking,71.5
+100543,Customer_100543,25,Female,Chennai,Student,2023-03-26,UPI Partner,41.49
+100544,Customer_100544,63,Male,Pune,Salaried,2022-01-06,Mobile App,37.71
+100545,Customer_100545,53,Male,Chennai,Self Employed,2023-10-14,Branch,35.56
+100546,Customer_100546,33,Female,Chennai,Salaried,2023-04-07,Internet Banking,36.18
+100547,Customer_100547,30,Female,Mumbai,Self Employed,2022-04-06,UPI Partner,38.38
+100548,Customer_100548,61,Female,Delhi,Salaried,2024-02-28,Internet Banking,75.82
+100549,Customer_100549,46,Female,Hyderabad,Student,2022-08-23,Internet Banking,90.01
+100550,Customer_100550,32,Male,Hyderabad,Student,2022-12-09,Branch,92.46
+100551,Customer_100551,52,Male,Hyderabad,Student,2023-11-03,UPI Partner,85.01
+100552,Customer_100552,32,Male,Pune,Salaried,2023-07-28,Internet Banking,51.39
+100553,Customer_100553,32,Male,Bangalore,Salaried,2024-01-22,Internet Banking,92.67
+100554,Customer_100554,25,Female,Hyderabad,Salaried,2022-07-02,Mobile App,24.57
+100555,Customer_100555,58,Female,Kolkata,Student,2022-03-17,Branch,36.73
+100556,Customer_100556,42,Male,Chennai,Salaried,2023-02-01,Branch,46.6
+100557,Customer_100557,49,Male,Bangalore,Salaried,2023-08-23,Branch,57.13
+100558,Customer_100558,31,Female,Ahmedabad,Salaried,2022-09-08,UPI Partner,62.1
+100559,Customer_100559,47,Male,Mumbai,Retired,2023-09-25,UPI Partner,72.12
+100560,Customer_100560,61,Female,Hyderabad,Self Employed,2023-01-13,UPI Partner,67.31
+100561,Customer_100561,41,Male,Hyderabad,Small Business,2024-03-25,Branch,65.07
+100562,Customer_100562,24,Female,Delhi,Self Employed,2023-04-27,Internet Banking,59.9
+100563,Customer_100563,29,Female,Chennai,Small Business,2022-09-13,Branch,54.63
+100564,Customer_100564,30,Female,Delhi,Student,2022-12-21,Internet Banking,54.02
+100565,Customer_100565,60,Male,Bangalore,Salaried,2023-09-12,Internet Banking,64.29
+100566,Customer_100566,36,Female,Hyderabad,Salaried,2023-03-11,Internet Banking,27.61
+100567,Customer_100567,51,Male,Delhi,Salaried,2023-05-27,Branch,34.4
+100568,Customer_100568,21,Female,Mumbai,Student,2022-01-30,Internet Banking,59.88
+100569,Customer_100569,48,Female,Hyderabad,Salaried,2022-10-14,Branch,27.69
+100570,Customer_100570,50,Female,Hyderabad,Salaried,2023-11-11,UPI Partner,57.47
+100571,Customer_100571,38,Female,Chennai,Self Employed,2023-04-26,Branch,69.21
+100572,Customer_100572,55,Male,Hyderabad,Self Employed,2023-07-18,UPI Partner,76.92
+100573,Customer_100573,33,Male,Hyderabad,Salaried,2023-05-06,Internet Banking,26.35
+100574,Customer_100574,62,Female,Delhi,Salaried,2022-01-20,Branch,81.45
+100575,Customer_100575,54,Female,Mumbai,Self Employed,2022-02-12,Branch,80.7
+100576,Customer_100576,38,Female,Kolkata,Self Employed,2023-01-30,Branch,30.27
+100577,Customer_100577,57,Female,Delhi,Self Employed,2022-12-19,Internet Banking,75.79
+100578,Customer_100578,47,Female,Hyderabad,Salaried,2024-03-11,Branch,56.47
+100579,Customer_100579,54,Female,Hyderabad,Salaried,2023-11-02,Mobile App,28.82
+100580,Customer_100580,56,Female,Delhi,Student,2022-05-28,Branch,56.06
+100581,Customer_100581,42,Female,Chennai,Salaried,2022-10-10,Branch,84.44
+100582,Customer_100582,54,Male,Bangalore,Small Business,2023-03-13,Mobile App,46.87
+100583,Customer_100583,29,Female,Pune,Student,2023-01-15,Branch,53.39
+100584,Customer_100584,22,Male,Bangalore,Salaried,2023-01-29,UPI Partner,36.28
+100585,Customer_100585,31,Female,Hyderabad,Self Employed,2022-04-30,Internet Banking,55.99
+100586,Customer_100586,54,Female,Mumbai,Self Employed,2022-02-13,Mobile App,77.6
+100587,Customer_100587,50,Male,Bangalore,Salaried,2023-12-12,Internet Banking,74.19
+100588,Customer_100588,21,Male,Mumbai,Student,2023-12-29,UPI Partner,54.27
+100589,Customer_100589,42,Male,Chennai,Small Business,2023-07-18,Mobile App,61.66
+100590,Customer_100590,50,Male,Chennai,Retired,2022-04-01,Branch,62.98
+100591,Customer_100591,53,Female,Hyderabad,Salaried,2023-07-31,UPI Partner,76.24
+100592,Customer_100592,33,Female,Bangalore,Self Employed,2023-01-04,UPI Partner,56.98
+100593,Customer_100593,60,Female,Delhi,Salaried,2022-03-22,Mobile App,17.3
+100594,Customer_100594,56,Male,Hyderabad,Self Employed,2023-09-23,Internet Banking,54.11
+100595,Customer_100595,37,Male,Bangalore,Self Employed,2023-07-22,Branch,55.42
+100596,Customer_100596,43,Male,Chennai,Small Business,2023-12-16,UPI Partner,43.19
+100597,Customer_100597,35,Male,Mumbai,Self Employed,2023-03-27,Mobile App,84.36
+100598,Customer_100598,26,Male,Bangalore,Student,2024-01-10,Branch,29.65
+100599,Customer_100599,58,Female,Hyderabad,Retired,2022-02-20,Internet Banking,45.52
+100600,Customer_100600,31,Female,Bangalore,Salaried,2023-03-12,UPI Partner,52.12
+100601,Customer_100601,34,Female,Delhi,Salaried,2023-08-12,Internet Banking,79.24
+100602,Customer_100602,49,Male,Bangalore,Student,2022-03-21,Branch,21.25
+100603,Customer_100603,31,Female,Bangalore,Self Employed,2022-11-14,Branch,83.19
+100604,Customer_100604,62,Female,Delhi,Salaried,2023-09-11,Internet Banking,72.81
+100605,Customer_100605,31,Female,Mumbai,Small Business,2022-02-26,Mobile App,54.51
+100606,Customer_100606,29,Male,Bangalore,Salaried,2022-04-05,UPI Partner,40.58
+100607,Customer_100607,63,Female,Hyderabad,Small Business,2024-02-16,UPI Partner,68.19
+100608,Customer_100608,50,Male,Hyderabad,Small Business,2023-07-18,UPI Partner,43.73
+100609,Customer_100609,28,Male,Bangalore,Self Employed,2024-02-05,Mobile App,71.43
+100610,Customer_100610,37,Female,Hyderabad,Self Employed,2023-03-09,Branch,44.47
+100611,Customer_100611,35,Male,Pune,Salaried,2023-06-14,Branch,66.62
+100612,Customer_100612,42,Female,Hyderabad,Self Employed,2022-12-09,UPI Partner,52.78
+100613,Customer_100613,38,Male,Bangalore,Student,2024-01-10,Branch,86.27
+100614,Customer_100614,36,Female,Mumbai,Self Employed,2022-12-22,Branch,44.21
+100615,Customer_100615,45,Female,Pune,Small Business,2022-04-29,Mobile App,13.7
+100616,Customer_100616,59,Male,Pune,Salaried,2023-12-14,UPI Partner,65.41
+100617,Customer_100617,27,Male,Delhi,Retired,2023-11-18,Internet Banking,69.37
+100618,Customer_100618,35,Female,Hyderabad,Self Employed,2022-02-14,Internet Banking,8.9
+100619,Customer_100619,22,Male,Mumbai,Self Employed,2023-03-28,Mobile App,33.14
+100620,Customer_100620,60,Male,Bangalore,Small Business,2023-11-27,Branch,72.53
+100621,Customer_100621,28,Male,Mumbai,Salaried,2023-07-13,UPI Partner,47.97
+100622,Customer_100622,46,Female,Bangalore,Salaried,2023-06-06,Internet Banking,69.15
+100623,Customer_100623,62,Female,Bangalore,Small Business,2023-10-21,Branch,56.82
+100624,Customer_100624,39,Female,Mumbai,Salaried,2023-11-09,Branch,56.45
+100625,Customer_100625,34,Male,Ahmedabad,Salaried,2024-01-02,Internet Banking,40.74
+100626,Customer_100626,33,Female,Mumbai,Self Employed,2022-06-03,Branch,32.11
+100627,Customer_100627,50,Male,Hyderabad,Salaried,2023-05-02,Branch,73.98
+100628,Customer_100628,32,Female,Hyderabad,Student,2024-01-05,UPI Partner,80.41
+100629,Customer_100629,54,Female,Chennai,Self Employed,2022-01-16,Mobile App,39.98
+100630,Customer_100630,64,Male,Mumbai,Salaried,2022-12-21,Branch,55.8
+100631,Customer_100631,43,Female,Delhi,Salaried,2022-12-14,UPI Partner,68.66
+100632,Customer_100632,51,Male,Mumbai,Salaried,2023-09-09,Mobile App,56.27
+100633,Customer_100633,55,Male,Ahmedabad,Salaried,2023-04-16,Mobile App,88.01
+100634,Customer_100634,44,Male,Chennai,Salaried,2022-12-21,UPI Partner,86.19
+100635,Customer_100635,51,Male,Hyderabad,Small Business,2023-03-19,Branch,36.17
+100636,Customer_100636,21,Male,Mumbai,Small Business,2023-12-05,UPI Partner,13.72
+100637,Customer_100637,56,Female,Hyderabad,Self Employed,2022-10-27,Internet Banking,19.15
+100638,Customer_100638,38,Female,Bangalore,Salaried,2022-01-11,Branch,53.39
+100639,Customer_100639,44,Male,Delhi,Self Employed,2023-06-20,Mobile App,39.84
+100640,Customer_100640,64,Female,Delhi,Self Employed,2022-05-09,Mobile App,88.23
+100641,Customer_100641,23,Male,Pune,Salaried,2022-05-10,Internet Banking,94.79
+100642,Customer_100642,63,Female,Hyderabad,Self Employed,2023-08-24,Branch,36.86
+100643,Customer_100643,26,Male,Delhi,Student,2023-02-03,UPI Partner,46.96
+100644,Customer_100644,35,Female,Chennai,Retired,2024-02-29,Branch,84.19
+100645,Customer_100645,43,Female,Bangalore,Student,2024-01-22,UPI Partner,61.23
+100646,Customer_100646,30,Male,Hyderabad,Self Employed,2022-10-15,Internet Banking,43.1
+100647,Customer_100647,49,Female,Hyderabad,Self Employed,2022-11-17,Mobile App,59.52
+100648,Customer_100648,31,Female,Bangalore,Salaried,2023-10-06,Internet Banking,39.46
+100649,Customer_100649,53,Female,Delhi,Retired,2022-07-08,Internet Banking,21.09
+100650,Customer_100650,63,Male,Bangalore,Salaried,2022-10-20,Branch,53.91
+100651,Customer_100651,51,Male,Mumbai,Retired,2022-01-25,UPI Partner,70.04
+100652,Customer_100652,21,Female,Bangalore,Retired,2022-08-19,Internet Banking,16.92
+100653,Customer_100653,51,Male,Ahmedabad,Salaried,2022-07-05,Branch,63.61
+100654,Customer_100654,47,Male,Delhi,Retired,2022-01-17,Branch,83.52
+100655,Customer_100655,54,Female,Bangalore,Retired,2023-12-15,Mobile App,73.92
+100656,Customer_100656,27,Female,Bangalore,Salaried,2023-06-19,Branch,70.47
+100657,Customer_100657,60,Male,Delhi,Salaried,2022-06-07,Internet Banking,42.06
+100658,Customer_100658,21,Male,Bangalore,Self Employed,2022-10-10,UPI Partner,79.71
+100659,Customer_100659,64,Female,Bangalore,Self Employed,2022-11-25,Mobile App,36.47
+100660,Customer_100660,61,Female,Bangalore,Salaried,2023-02-26,UPI Partner,66.57
+100661,Customer_100661,52,Female,Pune,Student,2023-12-14,UPI Partner,45.53
+100662,Customer_100662,34,Female,Chennai,Salaried,2022-07-06,UPI Partner,77.05
+100663,Customer_100663,52,Female,Pune,Small Business,2022-05-18,Internet Banking,56.11
+100664,Customer_100664,43,Female,Hyderabad,Retired,2022-03-27,UPI Partner,81.82
+100665,Customer_100665,22,Male,Mumbai,Self Employed,2023-05-25,Internet Banking,86.86
+100666,Customer_100666,51,Female,Chennai,Self Employed,2022-03-24,Branch,56.17
+100667,Customer_100667,58,Male,Bangalore,Salaried,2022-11-26,Internet Banking,86.27
+100668,Customer_100668,42,Male,Delhi,Salaried,2023-03-24,Branch,51.93
+100669,Customer_100669,56,Female,Pune,Student,2022-06-19,UPI Partner,59.48
+100670,Customer_100670,54,Male,Chennai,Salaried,2022-06-15,UPI Partner,70.29
+100671,Customer_100671,30,Male,Bangalore,Self Employed,2023-09-06,Branch,34.85
+100672,Customer_100672,29,Male,Pune,Salaried,2023-08-13,Internet Banking,35.88
+100673,Customer_100673,49,Male,Ahmedabad,Small Business,2023-04-30,Mobile App,80.62
+100674,Customer_100674,36,Male,Hyderabad,Self Employed,2023-05-15,UPI Partner,49.1
+100675,Customer_100675,32,Male,Delhi,Student,2023-11-11,UPI Partner,21.34
+100676,Customer_100676,28,Male,Delhi,Salaried,2022-08-25,Branch,47.65
+100677,Customer_100677,55,Male,Kolkata,Self Employed,2023-04-10,Mobile App,43.71
+100678,Customer_100678,62,Female,Hyderabad,Small Business,2023-10-21,Branch,60.47
+100679,Customer_100679,64,Female,Pune,Self Employed,2022-02-08,UPI Partner,71.23
+100680,Customer_100680,35,Male,Hyderabad,Retired,2023-01-28,UPI Partner,42.39
+100681,Customer_100681,62,Male,Ahmedabad,Student,2024-02-01,Internet Banking,76.57
+100682,Customer_100682,42,Female,Mumbai,Self Employed,2023-06-22,Branch,59.06
+100683,Customer_100683,40,Male,Hyderabad,Student,2024-03-26,Branch,34.86
+100684,Customer_100684,42,Male,Hyderabad,Salaried,2022-02-09,Internet Banking,68.96
+100685,Customer_100685,21,Female,Hyderabad,Salaried,2023-03-25,Internet Banking,95.48
+100686,Customer_100686,33,Male,Mumbai,Salaried,2022-03-19,Mobile App,60.05
+100687,Customer_100687,49,Female,Chennai,Self Employed,2022-03-23,Internet Banking,39.21
+100688,Customer_100688,35,Male,Ahmedabad,Retired,2022-05-12,UPI Partner,55.59
+100689,Customer_100689,49,Male,Mumbai,Salaried,2022-03-27,Internet Banking,45.39
+100690,Customer_100690,46,Male,Bangalore,Salaried,2023-07-02,Internet Banking,69.39
+100691,Customer_100691,35,Male,Pune,Small Business,2024-01-30,Internet Banking,91.89
+100692,Customer_100692,28,Female,Bangalore,Self Employed,2022-07-16,Branch,68.69
+100693,Customer_100693,33,Male,Hyderabad,Student,2022-12-03,Internet Banking,53.39
+100694,Customer_100694,32,Male,Mumbai,Retired,2023-12-06,UPI Partner,87.27
+100695,Customer_100695,44,Male,Mumbai,Self Employed,2024-01-29,Branch,54.54
+100696,Customer_100696,36,Female,Bangalore,Self Employed,2022-05-12,Branch,60.64
+100697,Customer_100697,30,Female,Bangalore,Salaried,2023-03-13,Branch,44.51
+100698,Customer_100698,31,Female,Mumbai,Salaried,2022-12-29,Internet Banking,69.48
+100699,Customer_100699,29,Female,Mumbai,Student,2022-07-19,UPI Partner,43.84
+100700,Customer_100700,22,Male,Delhi,Salaried,2022-01-23,Mobile App,69.13
+100701,Customer_100701,23,Female,Mumbai,Small Business,2023-02-01,UPI Partner,35.11
+100702,Customer_100702,53,Male,Mumbai,Salaried,2023-08-15,Mobile App,77.47
+100703,Customer_100703,35,Female,Hyderabad,Retired,2022-11-05,UPI Partner,84.98
+100704,Customer_100704,24,Female,Delhi,Self Employed,2023-02-03,Internet Banking,47.09
+100705,Customer_100705,62,Male,Bangalore,Small Business,2023-10-19,Internet Banking,49.66
+100706,Customer_100706,60,Female,Chennai,Retired,2023-11-10,Internet Banking,53.11
+100707,Customer_100707,33,Male,Kolkata,Small Business,2022-01-05,UPI Partner,68.59
+100708,Customer_100708,56,Female,Delhi,Student,2023-07-12,UPI Partner,36.0
+100709,Customer_100709,35,Female,Delhi,Salaried,2024-01-17,Mobile App,73.63
+100710,Customer_100710,51,Female,Mumbai,Salaried,2023-01-29,Internet Banking,43.64
+100711,Customer_100711,34,Male,Ahmedabad,Small Business,2023-04-08,Internet Banking,36.17
+100712,Customer_100712,62,Female,Delhi,Student,2023-12-18,Internet Banking,40.33
+100713,Customer_100713,51,Male,Hyderabad,Student,2023-05-09,Internet Banking,53.93
+100714,Customer_100714,61,Male,Bangalore,Student,2022-10-20,Mobile App,27.16
+100715,Customer_100715,21,Male,Bangalore,Salaried,2023-11-30,UPI Partner,49.85
+100716,Customer_100716,39,Male,Delhi,Self Employed,2022-04-05,UPI Partner,82.91
+100717,Customer_100717,60,Male,Delhi,Salaried,2023-05-07,UPI Partner,28.45
+100718,Customer_100718,31,Female,Hyderabad,Retired,2022-08-20,Branch,72.35
+100719,Customer_100719,45,Male,Bangalore,Small Business,2024-02-28,UPI Partner,35.15
+100720,Customer_100720,61,Female,Kolkata,Student,2023-11-12,Internet Banking,37.14
+100721,Customer_100721,41,Male,Hyderabad,Salaried,2022-12-28,Branch,48.67
+100722,Customer_100722,50,Female,Bangalore,Retired,2023-09-13,Mobile App,72.03
+100723,Customer_100723,48,Male,Bangalore,Salaried,2022-06-19,Mobile App,83.62
+100724,Customer_100724,56,Female,Bangalore,Salaried,2023-04-17,Internet Banking,33.66
+100725,Customer_100725,42,Female,Delhi,Salaried,2022-08-17,UPI Partner,70.16
+100726,Customer_100726,32,Male,Hyderabad,Salaried,2022-07-11,Mobile App,61.97
+100727,Customer_100727,29,Female,Hyderabad,Salaried,2022-08-05,Internet Banking,52.91
+100728,Customer_100728,23,Male,Delhi,Small Business,2022-12-04,Branch,62.7
+100729,Customer_100729,30,Male,Bangalore,Small Business,2022-10-06,Internet Banking,73.56
+100730,Customer_100730,31,Male,Kolkata,Self Employed,2023-12-07,Branch,47.63
+100731,Customer_100731,35,Male,Delhi,Salaried,2022-05-31,Internet Banking,59.22
+100732,Customer_100732,50,Female,Mumbai,Salaried,2022-11-13,Mobile App,40.05
+100733,Customer_100733,64,Female,Ahmedabad,Salaried,2022-02-15,Internet Banking,33.94
+100734,Customer_100734,55,Female,Kolkata,Salaried,2023-10-19,Branch,50.83
+100735,Customer_100735,46,Male,Ahmedabad,Salaried,2022-12-05,Mobile App,47.21
+100736,Customer_100736,58,Male,Bangalore,Salaried,2023-04-25,UPI Partner,50.54
+100737,Customer_100737,60,Female,Hyderabad,Salaried,2022-04-02,Mobile App,38.37
+100738,Customer_100738,64,Male,Delhi,Student,2023-06-08,UPI Partner,60.42
+100739,Customer_100739,64,Female,Hyderabad,Salaried,2022-03-13,UPI Partner,49.46
+100740,Customer_100740,43,Female,Kolkata,Small Business,2023-11-16,Branch,79.76
+100741,Customer_100741,53,Female,Kolkata,Salaried,2023-03-18,Internet Banking,71.68
+100742,Customer_100742,44,Male,Mumbai,Salaried,2023-02-25,Mobile App,78.62
+100743,Customer_100743,31,Female,Pune,Student,2022-06-01,Mobile App,17.78
+100744,Customer_100744,32,Female,Hyderabad,Small Business,2023-11-24,Branch,67.71
+100745,Customer_100745,33,Male,Chennai,Small Business,2022-06-15,UPI Partner,48.32
+100746,Customer_100746,42,Female,Mumbai,Salaried,2023-11-12,Branch,69.9
+100747,Customer_100747,33,Female,Pune,Salaried,2023-06-22,UPI Partner,93.41
+100748,Customer_100748,64,Male,Mumbai,Salaried,2022-12-06,UPI Partner,71.58
+100749,Customer_100749,30,Male,Delhi,Small Business,2022-10-12,UPI Partner,66.76
+100750,Customer_100750,34,Female,Mumbai,Salaried,2022-10-23,Mobile App,53.4
+100751,Customer_100751,53,Male,Hyderabad,Student,2024-02-26,Internet Banking,55.41
+100752,Customer_100752,55,Male,Kolkata,Salaried,2024-02-29,Branch,77.53
+100753,Customer_100753,44,Male,Pune,Self Employed,2023-04-07,Branch,60.45
+100754,Customer_100754,48,Male,Chennai,Self Employed,2023-05-29,Internet Banking,62.42
+100755,Customer_100755,37,Male,Mumbai,Student,2022-12-24,Branch,41.22
+100756,Customer_100756,40,Female,Hyderabad,Retired,2022-12-24,Internet Banking,38.55
+100757,Customer_100757,58,Female,Mumbai,Self Employed,2022-03-21,Mobile App,89.68
+100758,Customer_100758,48,Male,Mumbai,Self Employed,2023-02-06,UPI Partner,53.2
+100759,Customer_100759,58,Male,Hyderabad,Self Employed,2023-01-30,UPI Partner,57.69
+100760,Customer_100760,47,Female,Delhi,Salaried,2022-10-30,Internet Banking,79.33
+100761,Customer_100761,27,Male,Ahmedabad,Salaried,2022-04-23,UPI Partner,57.1
+100762,Customer_100762,45,Male,Delhi,Self Employed,2022-10-21,Branch,35.47
+100763,Customer_100763,55,Female,Bangalore,Salaried,2022-05-19,Branch,69.6
+100764,Customer_100764,24,Female,Hyderabad,Small Business,2023-08-13,Branch,57.46
+100765,Customer_100765,39,Female,Hyderabad,Student,2022-04-05,Branch,75.76
+100766,Customer_100766,54,Male,Chennai,Salaried,2023-01-29,UPI Partner,40.77
+100767,Customer_100767,29,Male,Bangalore,Salaried,2022-11-03,Internet Banking,25.24
+100768,Customer_100768,42,Male,Delhi,Student,2023-03-07,UPI Partner,49.06
+100769,Customer_100769,42,Female,Mumbai,Small Business,2024-01-13,Branch,39.18
+100770,Customer_100770,29,Male,Pune,Salaried,2022-02-15,Internet Banking,57.78
+100771,Customer_100771,41,Female,Chennai,Salaried,2023-08-18,Branch,76.47
+100772,Customer_100772,36,Male,Mumbai,Self Employed,2022-08-27,UPI Partner,56.78
+100773,Customer_100773,50,Male,Hyderabad,Student,2023-11-21,Internet Banking,93.62
+100774,Customer_100774,30,Female,Delhi,Small Business,2022-11-23,Mobile App,51.94
+100775,Customer_100775,61,Female,Ahmedabad,Self Employed,2022-01-27,Mobile App,60.03
+100776,Customer_100776,27,Male,Hyderabad,Self Employed,2023-10-29,Branch,38.46
+100777,Customer_100777,46,Male,Chennai,Retired,2023-03-14,Mobile App,63.33
+100778,Customer_100778,27,Female,Bangalore,Small Business,2024-03-26,Mobile App,51.89
+100779,Customer_100779,53,Female,Ahmedabad,Salaried,2022-05-18,Mobile App,79.65
+100780,Customer_100780,31,Female,Chennai,Student,2024-02-04,UPI Partner,88.06
+100781,Customer_100781,58,Male,Delhi,Self Employed,2022-08-02,UPI Partner,64.48
+100782,Customer_100782,26,Female,Hyderabad,Retired,2022-04-10,Internet Banking,54.37
+100783,Customer_100783,22,Female,Delhi,Small Business,2024-02-14,Branch,58.04
+100784,Customer_100784,40,Female,Hyderabad,Student,2024-01-23,Branch,75.97
+100785,Customer_100785,37,Male,Bangalore,Small Business,2022-05-12,Branch,37.66
+100786,Customer_100786,28,Male,Bangalore,Self Employed,2023-10-20,UPI Partner,17.56
+100787,Customer_100787,56,Male,Delhi,Self Employed,2023-06-09,Internet Banking,63.83
+100788,Customer_100788,50,Female,Pune,Self Employed,2023-04-10,Internet Banking,47.81
+100789,Customer_100789,24,Male,Pune,Self Employed,2022-08-29,UPI Partner,50.34
+100790,Customer_100790,57,Male,Mumbai,Salaried,2023-05-22,Mobile App,57.0
+100791,Customer_100791,48,Male,Mumbai,Student,2022-05-31,Mobile App,40.69
+100792,Customer_100792,50,Female,Delhi,Retired,2023-10-13,UPI Partner,43.98
+100793,Customer_100793,22,Male,Hyderabad,Self Employed,2022-10-01,Branch,42.78
+100794,Customer_100794,60,Female,Hyderabad,Retired,2023-07-19,Internet Banking,60.61
+100795,Customer_100795,25,Female,Delhi,Salaried,2023-03-01,Branch,63.01
+100796,Customer_100796,59,Male,Pune,Student,2023-10-31,Internet Banking,41.11
+100797,Customer_100797,32,Female,Chennai,Salaried,2023-11-30,Mobile App,32.17
+100798,Customer_100798,42,Female,Mumbai,Salaried,2023-04-26,Internet Banking,33.57
+100799,Customer_100799,26,Male,Bangalore,Small Business,2022-10-07,Mobile App,58.42
+100800,Customer_100800,45,Female,Pune,Salaried,2022-12-31,Branch,27.36
+100801,Customer_100801,42,Male,Mumbai,Student,2023-06-08,Mobile App,59.37
+100802,Customer_100802,48,Female,Pune,Retired,2024-03-30,Mobile App,74.08
+100803,Customer_100803,47,Female,Hyderabad,Self Employed,2023-05-22,Branch,69.4
+100804,Customer_100804,56,Male,Delhi,Student,2023-05-16,Branch,47.56
+100805,Customer_100805,32,Female,Hyderabad,Salaried,2023-12-28,UPI Partner,29.88
+100806,Customer_100806,25,Female,Mumbai,Retired,2023-09-14,Mobile App,49.4
+100807,Customer_100807,46,Female,Bangalore,Self Employed,2022-07-12,Mobile App,46.2
+100808,Customer_100808,35,Female,Hyderabad,Retired,2022-05-17,Mobile App,41.15
+100809,Customer_100809,59,Female,Ahmedabad,Student,2023-03-01,Branch,55.88
+100810,Customer_100810,51,Female,Kolkata,Self Employed,2024-03-12,Branch,69.56
+100811,Customer_100811,33,Female,Ahmedabad,Self Employed,2023-07-12,Mobile App,71.24
+100812,Customer_100812,60,Female,Delhi,Salaried,2022-01-28,Branch,46.77
+100813,Customer_100813,29,Female,Hyderabad,Small Business,2023-05-24,Internet Banking,77.35
+100814,Customer_100814,42,Male,Mumbai,Self Employed,2022-11-02,Internet Banking,43.26
+100815,Customer_100815,54,Male,Delhi,Small Business,2023-06-24,Internet Banking,27.42
+100816,Customer_100816,64,Female,Hyderabad,Salaried,2023-12-11,Branch,60.84
+100817,Customer_100817,42,Female,Mumbai,Salaried,2023-06-02,Internet Banking,99.0
+100818,Customer_100818,51,Female,Pune,Salaried,2024-03-05,Mobile App,40.72
+100819,Customer_100819,38,Male,Chennai,Retired,2023-02-17,Internet Banking,69.53
+100820,Customer_100820,21,Female,Mumbai,Student,2022-03-27,Internet Banking,70.26
+100821,Customer_100821,28,Male,Mumbai,Self Employed,2023-10-11,UPI Partner,37.19
+100822,Customer_100822,24,Female,Mumbai,Salaried,2022-01-08,Internet Banking,56.77
+100823,Customer_100823,42,Female,Mumbai,Self Employed,2022-03-11,UPI Partner,56.95
+100824,Customer_100824,47,Male,Hyderabad,Salaried,2024-02-07,Branch,75.63
+100825,Customer_100825,47,Male,Bangalore,Self Employed,2022-07-10,UPI Partner,60.94
+100826,Customer_100826,41,Female,Bangalore,Salaried,2024-03-12,Mobile App,51.69
+100827,Customer_100827,28,Male,Ahmedabad,Student,2022-12-13,UPI Partner,71.63
+100828,Customer_100828,45,Female,Hyderabad,Self Employed,2023-09-23,Mobile App,68.95
+100829,Customer_100829,52,Male,Bangalore,Salaried,2022-07-11,Internet Banking,38.42
+100830,Customer_100830,29,Female,Hyderabad,Salaried,2022-03-20,Branch,34.29
+100831,Customer_100831,28,Female,Mumbai,Salaried,2024-01-18,Internet Banking,45.29
+100832,Customer_100832,21,Male,Hyderabad,Salaried,2023-11-14,UPI Partner,28.15
+100833,Customer_100833,38,Female,Mumbai,Self Employed,2023-01-29,Branch,22.77
+100834,Customer_100834,45,Female,Mumbai,Salaried,2023-05-27,Mobile App,79.49
+100835,Customer_100835,54,Male,Delhi,Student,2022-08-20,Internet Banking,79.03
+100836,Customer_100836,60,Male,Chennai,Salaried,2023-03-28,Internet Banking,78.81
+100837,Customer_100837,26,Female,Delhi,Retired,2023-08-11,Internet Banking,92.27
+100838,Customer_100838,62,Female,Hyderabad,Small Business,2022-06-15,Internet Banking,11.59
+100839,Customer_100839,25,Male,Mumbai,Salaried,2023-02-16,Internet Banking,74.46
+100840,Customer_100840,26,Male,Hyderabad,Small Business,2024-02-25,Branch,83.79
+100841,Customer_100841,27,Male,Bangalore,Self Employed,2022-09-04,Mobile App,59.35
+100842,Customer_100842,29,Female,Hyderabad,Student,2023-02-19,UPI Partner,51.19
+100843,Customer_100843,58,Male,Chennai,Student,2023-03-03,Mobile App,48.13
+100844,Customer_100844,48,Female,Bangalore,Small Business,2022-11-06,Branch,55.79
+100845,Customer_100845,37,Female,Delhi,Salaried,2022-02-15,Mobile App,75.17
+100846,Customer_100846,27,Male,Delhi,Small Business,2022-01-19,UPI Partner,86.34
+100847,Customer_100847,52,Female,Mumbai,Self Employed,2023-07-28,Branch,46.66
+100848,Customer_100848,36,Female,Delhi,Small Business,2024-03-22,Branch,82.88
+100849,Customer_100849,31,Female,Bangalore,Salaried,2022-08-29,UPI Partner,44.93
+100850,Customer_100850,56,Female,Ahmedabad,Student,2023-09-18,Mobile App,56.12
+100851,Customer_100851,62,Female,Mumbai,Salaried,2022-06-28,Branch,47.06
+100852,Customer_100852,58,Female,Kolkata,Salaried,2023-03-29,Branch,44.13
+100853,Customer_100853,58,Female,Hyderabad,Salaried,2022-07-07,Internet Banking,95.06
+100854,Customer_100854,44,Male,Hyderabad,Student,2023-12-23,Internet Banking,73.49
+100855,Customer_100855,38,Female,Chennai,Self Employed,2023-08-16,Branch,82.6
+100856,Customer_100856,47,Female,Ahmedabad,Salaried,2023-07-26,UPI Partner,67.9
+100857,Customer_100857,36,Female,Hyderabad,Salaried,2022-04-06,Internet Banking,68.53
+100858,Customer_100858,41,Male,Delhi,Student,2022-08-11,Mobile App,32.38
+100859,Customer_100859,52,Female,Hyderabad,Retired,2022-03-21,Internet Banking,89.4
+100860,Customer_100860,29,Male,Hyderabad,Student,2023-04-02,Mobile App,51.11
+100861,Customer_100861,52,Male,Hyderabad,Salaried,2022-03-30,Mobile App,32.89
+100862,Customer_100862,61,Female,Bangalore,Salaried,2023-03-24,UPI Partner,60.02
+100863,Customer_100863,39,Male,Chennai,Salaried,2023-03-21,Mobile App,86.77
+100864,Customer_100864,62,Female,Bangalore,Student,2023-08-21,Mobile App,73.16
+100865,Customer_100865,60,Male,Bangalore,Student,2024-03-25,UPI Partner,61.59
+100866,Customer_100866,37,Female,Ahmedabad,Self Employed,2024-01-26,UPI Partner,77.26
+100867,Customer_100867,44,Female,Chennai,Student,2023-04-13,Branch,62.36
+100868,Customer_100868,55,Female,Delhi,Small Business,2022-03-18,Branch,78.6
+100869,Customer_100869,52,Female,Hyderabad,Retired,2022-06-09,UPI Partner,60.88
+100870,Customer_100870,23,Male,Bangalore,Salaried,2022-07-19,Internet Banking,47.78
+100871,Customer_100871,28,Female,Delhi,Student,2022-11-11,Internet Banking,84.03
+100872,Customer_100872,38,Male,Bangalore,Student,2023-04-20,Branch,84.2
+100873,Customer_100873,28,Male,Mumbai,Retired,2022-08-29,UPI Partner,55.47
+100874,Customer_100874,24,Male,Kolkata,Retired,2024-01-12,UPI Partner,34.52
+100875,Customer_100875,64,Male,Delhi,Student,2022-05-07,Branch,31.68
+100876,Customer_100876,56,Male,Hyderabad,Self Employed,2022-06-21,UPI Partner,60.4
+100877,Customer_100877,54,Female,Ahmedabad,Salaried,2024-01-11,Branch,58.57
+100878,Customer_100878,29,Female,Hyderabad,Student,2022-01-18,Internet Banking,53.79
+100879,Customer_100879,34,Male,Bangalore,Small Business,2022-02-14,Internet Banking,7.85
+100880,Customer_100880,32,Female,Hyderabad,Salaried,2022-09-01,UPI Partner,29.65
+100881,Customer_100881,37,Male,Hyderabad,Self Employed,2022-08-05,Internet Banking,61.2
+100882,Customer_100882,22,Male,Ahmedabad,Salaried,2024-02-11,Mobile App,70.38
+100883,Customer_100883,34,Female,Pune,Salaried,2023-11-27,Internet Banking,61.76
+100884,Customer_100884,36,Female,Chennai,Small Business,2023-12-20,Branch,28.54
+100885,Customer_100885,23,Male,Pune,Small Business,2022-12-15,Branch,1.0
+100886,Customer_100886,36,Female,Mumbai,Salaried,2024-01-18,Branch,70.41
+100887,Customer_100887,47,Male,Bangalore,Salaried,2023-11-28,Mobile App,59.24
+100888,Customer_100888,55,Male,Chennai,Salaried,2022-07-29,Internet Banking,44.96
+100889,Customer_100889,24,Female,Delhi,Salaried,2023-08-10,UPI Partner,23.74
+100890,Customer_100890,32,Female,Ahmedabad,Salaried,2023-05-07,Internet Banking,79.68
+100891,Customer_100891,35,Female,Hyderabad,Self Employed,2023-05-15,Mobile App,47.59
+100892,Customer_100892,61,Male,Bangalore,Small Business,2023-01-23,Mobile App,67.89
+100893,Customer_100893,39,Male,Bangalore,Salaried,2024-01-16,Internet Banking,57.28
+100894,Customer_100894,54,Female,Bangalore,Salaried,2022-04-26,Internet Banking,1.0
+100895,Customer_100895,55,Male,Pune,Salaried,2022-03-06,Internet Banking,60.91
+100896,Customer_100896,35,Female,Delhi,Retired,2023-09-26,Branch,55.87
+100897,Customer_100897,26,Female,Bangalore,Salaried,2023-02-14,Mobile App,44.31
+100898,Customer_100898,22,Female,Hyderabad,Small Business,2023-06-06,Mobile App,23.76
+100899,Customer_100899,43,Male,Ahmedabad,Student,2024-02-29,UPI Partner,52.94
+100900,Customer_100900,58,Male,Pune,Small Business,2023-07-27,Internet Banking,61.97
+100901,Customer_100901,55,Male,Hyderabad,Self Employed,2024-03-28,Internet Banking,36.5
+100902,Customer_100902,52,Female,Bangalore,Small Business,2022-01-28,Internet Banking,48.94
+100903,Customer_100903,25,Male,Delhi,Salaried,2023-10-17,Branch,61.75
+100904,Customer_100904,60,Female,Bangalore,Self Employed,2022-09-07,Branch,49.16
+100905,Customer_100905,40,Female,Hyderabad,Salaried,2024-03-05,Mobile App,52.74
+100906,Customer_100906,23,Female,Hyderabad,Small Business,2023-10-24,Mobile App,70.31
+100907,Customer_100907,29,Female,Kolkata,Salaried,2023-11-21,Internet Banking,56.83
+100908,Customer_100908,63,Male,Bangalore,Retired,2022-03-14,Internet Banking,54.31
+100909,Customer_100909,52,Female,Bangalore,Self Employed,2024-03-30,Branch,56.07
+100910,Customer_100910,33,Male,Pune,Salaried,2022-03-16,Branch,58.46
+100911,Customer_100911,42,Male,Bangalore,Student,2024-03-19,Mobile App,45.01
+100912,Customer_100912,47,Female,Bangalore,Salaried,2022-07-06,UPI Partner,83.05
+100913,Customer_100913,39,Female,Hyderabad,Student,2022-08-06,Branch,43.88
+100914,Customer_100914,26,Female,Bangalore,Self Employed,2022-05-07,Branch,83.42
+100915,Customer_100915,22,Male,Bangalore,Self Employed,2024-03-14,UPI Partner,39.91
+100916,Customer_100916,38,Male,Mumbai,Salaried,2022-06-25,UPI Partner,45.33
+100917,Customer_100917,56,Female,Hyderabad,Salaried,2023-07-21,UPI Partner,44.98
+100918,Customer_100918,61,Female,Bangalore,Salaried,2022-04-10,Mobile App,51.99
+100919,Customer_100919,63,Male,Chennai,Retired,2023-10-26,UPI Partner,71.45
+100920,Customer_100920,62,Female,Hyderabad,Self Employed,2023-11-25,Mobile App,55.13
+100921,Customer_100921,40,Male,Kolkata,Retired,2023-09-20,Internet Banking,63.88
+100922,Customer_100922,32,Male,Chennai,Salaried,2023-11-28,UPI Partner,41.43
+100923,Customer_100923,51,Female,Delhi,Self Employed,2023-01-09,Internet Banking,49.67
+100924,Customer_100924,58,Female,Delhi,Salaried,2022-12-23,Mobile App,35.79
+100925,Customer_100925,40,Male,Mumbai,Salaried,2022-12-13,UPI Partner,49.38
+100926,Customer_100926,56,Female,Kolkata,Salaried,2022-05-20,UPI Partner,38.53
+100927,Customer_100927,35,Male,Hyderabad,Salaried,2023-06-19,UPI Partner,70.41
+100928,Customer_100928,59,Female,Ahmedabad,Salaried,2022-06-19,Mobile App,56.05
+100929,Customer_100929,46,Male,Pune,Student,2024-03-14,UPI Partner,52.33
+100930,Customer_100930,27,Male,Hyderabad,Self Employed,2024-01-10,Internet Banking,60.19
+100931,Customer_100931,60,Female,Ahmedabad,Student,2024-01-19,Branch,75.93
+100932,Customer_100932,59,Female,Delhi,Self Employed,2022-10-05,Branch,94.85
+100933,Customer_100933,62,Female,Chennai,Salaried,2023-08-22,UPI Partner,28.36
+100934,Customer_100934,31,Male,Hyderabad,Salaried,2023-07-22,Internet Banking,40.18
+100935,Customer_100935,40,Female,Chennai,Student,2022-03-09,Branch,45.17
+100936,Customer_100936,35,Male,Hyderabad,Student,2023-08-12,Internet Banking,54.76
+100937,Customer_100937,29,Male,Bangalore,Self Employed,2022-08-20,UPI Partner,27.64
+100938,Customer_100938,57,Male,Hyderabad,Salaried,2023-11-05,Mobile App,38.61
+100939,Customer_100939,50,Male,Delhi,Self Employed,2023-06-06,Internet Banking,60.19
+100940,Customer_100940,55,Female,Mumbai,Small Business,2022-06-30,Mobile App,46.66
+100941,Customer_100941,33,Male,Pune,Student,2023-02-13,UPI Partner,90.56
+100942,Customer_100942,47,Female,Delhi,Salaried,2023-06-27,Branch,62.12
+100943,Customer_100943,42,Female,Delhi,Salaried,2022-06-30,Branch,54.94
+100944,Customer_100944,64,Male,Bangalore,Small Business,2023-11-20,UPI Partner,61.04
+100945,Customer_100945,21,Male,Pune,Self Employed,2022-01-17,UPI Partner,52.1
+100946,Customer_100946,32,Female,Mumbai,Self Employed,2022-03-06,UPI Partner,35.63
+100947,Customer_100947,28,Female,Hyderabad,Salaried,2023-06-26,Internet Banking,62.82
+100948,Customer_100948,43,Male,Mumbai,Small Business,2022-11-27,Branch,62.32
+100949,Customer_100949,36,Female,Delhi,Salaried,2024-03-04,Mobile App,42.53
+100950,Customer_100950,33,Male,Kolkata,Student,2022-03-18,Branch,71.69
+100951,Customer_100951,50,Male,Mumbai,Student,2023-07-25,Internet Banking,41.07
+100952,Customer_100952,49,Male,Hyderabad,Student,2022-12-26,Branch,57.88
+100953,Customer_100953,60,Male,Chennai,Self Employed,2023-05-15,UPI Partner,68.51
+100954,Customer_100954,40,Male,Bangalore,Retired,2023-11-01,Branch,63.53
+100955,Customer_100955,39,Male,Ahmedabad,Salaried,2022-11-02,Mobile App,62.68
+100956,Customer_100956,22,Female,Delhi,Salaried,2023-09-07,Mobile App,57.34
+100957,Customer_100957,23,Female,Chennai,Self Employed,2023-01-15,Mobile App,75.51
+100958,Customer_100958,41,Female,Bangalore,Student,2022-08-02,Mobile App,51.21
+100959,Customer_100959,38,Female,Chennai,Salaried,2022-08-25,UPI Partner,52.62
+100960,Customer_100960,34,Male,Hyderabad,Salaried,2022-10-25,Mobile App,42.83
+100961,Customer_100961,30,Male,Pune,Self Employed,2023-11-10,Branch,56.39
+100962,Customer_100962,35,Male,Hyderabad,Salaried,2022-02-26,Mobile App,45.1
+100963,Customer_100963,58,Male,Delhi,Salaried,2023-06-16,Internet Banking,32.85
+100964,Customer_100964,24,Male,Hyderabad,Student,2022-12-31,UPI Partner,46.01
+100965,Customer_100965,33,Female,Hyderabad,Salaried,2022-01-19,Branch,48.42
+100966,Customer_100966,55,Female,Delhi,Student,2022-11-26,UPI Partner,75.3
+100967,Customer_100967,22,Female,Bangalore,Student,2022-05-17,Mobile App,12.51
+100968,Customer_100968,59,Male,Chennai,Retired,2022-10-28,Mobile App,32.3
+100969,Customer_100969,40,Female,Hyderabad,Self Employed,2023-09-02,Internet Banking,75.72
+100970,Customer_100970,44,Male,Bangalore,Student,2022-03-26,Branch,80.6
+100971,Customer_100971,50,Female,Hyderabad,Self Employed,2022-07-19,Internet Banking,72.66
+100972,Customer_100972,35,Female,Ahmedabad,Salaried,2023-07-26,Mobile App,54.77
+100973,Customer_100973,48,Female,Mumbai,Salaried,2023-01-16,UPI Partner,41.71
+100974,Customer_100974,29,Female,Pune,Salaried,2023-06-17,Internet Banking,51.07
+100975,Customer_100975,41,Female,Pune,Salaried,2023-09-28,Mobile App,50.27
+100976,Customer_100976,55,Female,Hyderabad,Self Employed,2022-11-14,Mobile App,69.87
+100977,Customer_100977,63,Female,Pune,Salaried,2023-07-08,Internet Banking,47.03
+100978,Customer_100978,41,Female,Delhi,Small Business,2023-12-18,UPI Partner,36.42
+100979,Customer_100979,60,Female,Hyderabad,Small Business,2024-02-21,Mobile App,74.88
+100980,Customer_100980,47,Male,Bangalore,Retired,2022-06-02,Internet Banking,52.23
+100981,Customer_100981,63,Female,Bangalore,Salaried,2023-12-07,UPI Partner,50.66
+100982,Customer_100982,32,Male,Bangalore,Self Employed,2022-06-22,Branch,47.43
+100983,Customer_100983,42,Male,Chennai,Salaried,2023-11-17,UPI Partner,91.04
+100984,Customer_100984,46,Male,Pune,Small Business,2022-02-23,UPI Partner,59.89
+100985,Customer_100985,64,Male,Bangalore,Retired,2023-06-01,Branch,51.46
+100986,Customer_100986,41,Male,Hyderabad,Student,2023-01-03,Internet Banking,34.4
+100987,Customer_100987,38,Female,Delhi,Self Employed,2023-05-31,Mobile App,53.4
+100988,Customer_100988,33,Male,Mumbai,Salaried,2022-01-24,Internet Banking,19.94
+100989,Customer_100989,26,Female,Bangalore,Self Employed,2022-09-19,Branch,53.57
+100990,Customer_100990,32,Male,Mumbai,Small Business,2022-06-24,Branch,63.64
+100991,Customer_100991,46,Female,Mumbai,Salaried,2023-11-08,Internet Banking,47.16
+100992,Customer_100992,43,Male,Hyderabad,Salaried,2023-06-15,Internet Banking,70.29
+100993,Customer_100993,47,Female,Delhi,Salaried,2022-04-29,Mobile App,57.41
+100994,Customer_100994,36,Male,Chennai,Salaried,2023-12-13,UPI Partner,67.62
+100995,Customer_100995,59,Female,Delhi,Student,2022-01-11,UPI Partner,54.32
+100996,Customer_100996,32,Female,Delhi,Self Employed,2022-04-16,Mobile App,8.85
+100997,Customer_100997,38,Female,Bangalore,Salaried,2023-10-16,Internet Banking,53.25
+100998,Customer_100998,46,Male,Chennai,Self Employed,2022-12-29,Internet Banking,29.63
+100999,Customer_100999,54,Male,Mumbai,Student,2022-05-21,UPI Partner,46.83
+101000,Customer_101000,44,Female,Hyderabad,Salaried,2023-07-11,UPI Partner,45.96
+101001,Customer_101001,63,Male,Chennai,Salaried,2022-04-22,UPI Partner,64.38
+101002,Customer_101002,29,Male,Pune,Student,2022-04-02,UPI Partner,28.96
+101003,Customer_101003,40,Female,Delhi,Salaried,2022-02-27,Mobile App,53.93
+101004,Customer_101004,31,Male,Bangalore,Self Employed,2023-03-07,Branch,53.5
+101005,Customer_101005,56,Male,Bangalore,Self Employed,2022-07-06,Internet Banking,53.14
+101006,Customer_101006,53,Male,Hyderabad,Retired,2022-10-08,UPI Partner,22.19
+101007,Customer_101007,56,Male,Delhi,Salaried,2023-08-05,Branch,36.12
+101008,Customer_101008,33,Male,Pune,Salaried,2022-10-28,UPI Partner,59.39
+101009,Customer_101009,30,Male,Hyderabad,Retired,2024-03-29,Branch,57.03
+101010,Customer_101010,35,Female,Bangalore,Salaried,2023-06-13,UPI Partner,78.15
+101011,Customer_101011,46,Male,Ahmedabad,Retired,2024-02-06,Internet Banking,41.47
+101012,Customer_101012,61,Male,Chennai,Self Employed,2022-11-23,Branch,51.64
+101013,Customer_101013,38,Female,Hyderabad,Self Employed,2022-12-08,Branch,51.5
+101014,Customer_101014,64,Male,Delhi,Salaried,2022-03-02,Internet Banking,52.42
+101015,Customer_101015,39,Male,Hyderabad,Self Employed,2022-06-08,Internet Banking,36.83
+101016,Customer_101016,41,Female,Mumbai,Salaried,2023-07-20,Internet Banking,57.47
+101017,Customer_101017,46,Female,Pune,Salaried,2023-01-25,Branch,55.26
+101018,Customer_101018,28,Male,Chennai,Salaried,2022-02-23,Branch,34.5
+101019,Customer_101019,41,Female,Hyderabad,Student,2022-09-23,UPI Partner,91.33
+101020,Customer_101020,25,Male,Hyderabad,Salaried,2024-03-08,Internet Banking,41.17
+101021,Customer_101021,37,Female,Kolkata,Self Employed,2024-03-13,Mobile App,49.04
+101022,Customer_101022,38,Male,Hyderabad,Salaried,2022-09-14,Branch,74.58
+101023,Customer_101023,48,Male,Chennai,Self Employed,2022-01-19,Branch,71.11
+101024,Customer_101024,56,Female,Bangalore,Salaried,2022-05-02,Internet Banking,46.46
+101025,Customer_101025,60,Female,Bangalore,Salaried,2023-06-17,Mobile App,75.33
+101026,Customer_101026,61,Male,Hyderabad,Salaried,2023-05-15,Mobile App,40.39
+101027,Customer_101027,53,Female,Ahmedabad,Self Employed,2023-06-02,Mobile App,62.48
+101028,Customer_101028,40,Female,Kolkata,Salaried,2023-11-03,Internet Banking,58.76
+101029,Customer_101029,37,Male,Hyderabad,Student,2022-12-16,Mobile App,95.41
+101030,Customer_101030,22,Female,Ahmedabad,Self Employed,2022-03-28,Mobile App,59.79
+101031,Customer_101031,51,Male,Bangalore,Salaried,2023-09-23,Branch,54.12
+101032,Customer_101032,34,Male,Chennai,Self Employed,2023-08-14,Mobile App,49.23
+101033,Customer_101033,63,Female,Chennai,Student,2022-01-18,Branch,43.77
+101034,Customer_101034,57,Male,Mumbai,Salaried,2022-12-20,UPI Partner,62.77
+101035,Customer_101035,35,Female,Mumbai,Salaried,2024-01-07,Branch,44.93
+101036,Customer_101036,53,Female,Chennai,Retired,2023-07-01,Internet Banking,1.0
+101037,Customer_101037,35,Female,Bangalore,Student,2022-08-13,Mobile App,84.62
+101038,Customer_101038,36,Female,Ahmedabad,Retired,2024-03-27,Mobile App,61.87
+101039,Customer_101039,31,Female,Ahmedabad,Salaried,2023-04-17,Mobile App,28.83
+101040,Customer_101040,21,Female,Ahmedabad,Small Business,2022-06-20,UPI Partner,41.24
+101041,Customer_101041,63,Female,Chennai,Self Employed,2022-04-20,UPI Partner,21.88
+101042,Customer_101042,58,Male,Bangalore,Salaried,2023-09-24,Branch,64.2
+101043,Customer_101043,22,Female,Pune,Salaried,2022-02-24,Internet Banking,36.73
+101044,Customer_101044,58,Female,Pune,Self Employed,2023-06-30,Internet Banking,15.55
+101045,Customer_101045,46,Female,Mumbai,Self Employed,2022-04-08,Mobile App,51.61
+101046,Customer_101046,44,Female,Bangalore,Salaried,2022-05-31,Internet Banking,34.08
+101047,Customer_101047,35,Male,Mumbai,Small Business,2022-03-03,UPI Partner,38.61
+101048,Customer_101048,49,Male,Bangalore,Salaried,2023-03-16,Branch,57.9
+101049,Customer_101049,31,Male,Delhi,Salaried,2022-05-26,Branch,47.23
+101050,Customer_101050,49,Male,Hyderabad,Retired,2023-04-30,UPI Partner,69.48
+101051,Customer_101051,26,Male,Delhi,Self Employed,2023-08-29,UPI Partner,60.37
+101052,Customer_101052,46,Male,Delhi,Small Business,2023-09-09,Mobile App,24.89
+101053,Customer_101053,27,Female,Mumbai,Self Employed,2022-05-11,Mobile App,56.44
+101054,Customer_101054,24,Female,Chennai,Self Employed,2022-09-25,UPI Partner,45.08
+101055,Customer_101055,38,Female,Bangalore,Salaried,2022-04-07,Mobile App,48.96
+101056,Customer_101056,59,Female,Kolkata,Salaried,2022-03-22,Mobile App,58.47
+101057,Customer_101057,26,Female,Mumbai,Salaried,2024-02-18,Internet Banking,62.37
+101058,Customer_101058,40,Female,Delhi,Retired,2022-12-24,Internet Banking,62.66
+101059,Customer_101059,32,Female,Mumbai,Retired,2022-09-24,Branch,50.42
+101060,Customer_101060,24,Male,Bangalore,Salaried,2022-06-28,Branch,63.97
+101061,Customer_101061,37,Female,Hyderabad,Small Business,2022-07-14,Branch,35.79
+101062,Customer_101062,50,Female,Kolkata,Salaried,2022-05-12,UPI Partner,83.85
+101063,Customer_101063,63,Male,Kolkata,Salaried,2023-07-06,UPI Partner,49.33
+101064,Customer_101064,63,Male,Hyderabad,Self Employed,2024-01-20,UPI Partner,99.0
+101065,Customer_101065,43,Male,Bangalore,Self Employed,2024-02-02,Branch,48.19
+101066,Customer_101066,56,Male,Pune,Retired,2022-02-11,Branch,72.31
+101067,Customer_101067,38,Male,Kolkata,Student,2023-02-26,Branch,47.87
+101068,Customer_101068,33,Male,Hyderabad,Salaried,2024-03-01,Mobile App,48.45
+101069,Customer_101069,61,Female,Hyderabad,Salaried,2023-08-05,Internet Banking,79.26
+101070,Customer_101070,25,Female,Delhi,Self Employed,2022-01-13,Branch,13.07
+101071,Customer_101071,25,Male,Bangalore,Salaried,2022-01-25,Branch,70.16
+101072,Customer_101072,55,Male,Bangalore,Salaried,2022-01-06,Branch,58.26
+101073,Customer_101073,43,Female,Hyderabad,Retired,2023-12-15,Branch,43.4
+101074,Customer_101074,39,Male,Hyderabad,Small Business,2022-10-02,UPI Partner,30.29
+101075,Customer_101075,62,Female,Mumbai,Salaried,2022-07-12,Internet Banking,35.19
+101076,Customer_101076,23,Male,Hyderabad,Student,2022-09-21,UPI Partner,45.98
+101077,Customer_101077,23,Male,Delhi,Salaried,2023-02-01,Mobile App,61.68
+101078,Customer_101078,51,Female,Delhi,Student,2023-06-24,Mobile App,97.42
+101079,Customer_101079,61,Male,Bangalore,Student,2023-04-18,UPI Partner,65.58
+101080,Customer_101080,40,Female,Delhi,Retired,2023-01-06,Branch,48.44
+101081,Customer_101081,36,Female,Bangalore,Salaried,2022-05-30,Branch,41.59
+101082,Customer_101082,56,Female,Bangalore,Salaried,2024-03-24,Internet Banking,68.31
+101083,Customer_101083,29,Female,Hyderabad,Self Employed,2024-01-23,Branch,43.1
+101084,Customer_101084,62,Female,Mumbai,Student,2023-04-13,Mobile App,41.44
+101085,Customer_101085,61,Male,Hyderabad,Student,2022-01-22,UPI Partner,78.16
+101086,Customer_101086,63,Male,Mumbai,Student,2024-01-14,Mobile App,24.43
+101087,Customer_101087,40,Male,Ahmedabad,Salaried,2023-03-27,Internet Banking,10.74
+101088,Customer_101088,60,Male,Hyderabad,Self Employed,2023-05-06,Internet Banking,76.38
+101089,Customer_101089,56,Male,Mumbai,Salaried,2022-03-05,Internet Banking,38.68
+101090,Customer_101090,48,Male,Chennai,Salaried,2024-02-23,UPI Partner,69.22
+101091,Customer_101091,44,Female,Bangalore,Retired,2023-06-13,Branch,55.7
+101092,Customer_101092,52,Female,Kolkata,Salaried,2024-03-04,UPI Partner,41.82
+101093,Customer_101093,27,Male,Mumbai,Salaried,2023-10-08,Mobile App,77.47
+101094,Customer_101094,42,Male,Delhi,Self Employed,2023-04-16,Mobile App,42.59
+101095,Customer_101095,24,Female,Chennai,Salaried,2022-12-07,UPI Partner,31.16
+101096,Customer_101096,48,Male,Delhi,Student,2023-05-18,Mobile App,63.36
+101097,Customer_101097,41,Female,Pune,Salaried,2023-07-05,Branch,62.14
+101098,Customer_101098,46,Female,Ahmedabad,Student,2022-10-07,Branch,34.39
+101099,Customer_101099,29,Male,Pune,Salaried,2023-03-07,Internet Banking,59.4
+101100,Customer_101100,48,Female,Mumbai,Self Employed,2022-05-06,Branch,30.93
+101101,Customer_101101,51,Male,Pune,Salaried,2024-01-16,Branch,59.82
+101102,Customer_101102,64,Male,Mumbai,Small Business,2022-07-14,Internet Banking,57.75
+101103,Customer_101103,64,Male,Chennai,Salaried,2022-12-12,UPI Partner,49.78
+101104,Customer_101104,28,Female,Mumbai,Student,2022-05-12,UPI Partner,89.0
+101105,Customer_101105,60,Male,Delhi,Small Business,2023-10-02,Mobile App,17.85
+101106,Customer_101106,54,Female,Bangalore,Student,2024-03-13,Mobile App,51.98
+101107,Customer_101107,36,Male,Hyderabad,Salaried,2022-10-09,Branch,60.81
+101108,Customer_101108,23,Male,Hyderabad,Student,2024-03-16,UPI Partner,65.97
+101109,Customer_101109,60,Male,Bangalore,Student,2022-07-11,Branch,54.51
+101110,Customer_101110,28,Male,Hyderabad,Student,2024-02-01,Mobile App,89.44
+101111,Customer_101111,27,Male,Delhi,Salaried,2022-06-27,Mobile App,51.89
+101112,Customer_101112,58,Male,Hyderabad,Small Business,2024-02-11,UPI Partner,30.7
+101113,Customer_101113,37,Female,Bangalore,Salaried,2023-06-25,Internet Banking,48.34
+101114,Customer_101114,38,Male,Pune,Salaried,2022-03-29,Mobile App,38.05
+101115,Customer_101115,41,Female,Pune,Self Employed,2023-06-10,Mobile App,70.54
+101116,Customer_101116,46,Male,Bangalore,Salaried,2023-08-07,Branch,64.42
+101117,Customer_101117,38,Female,Mumbai,Salaried,2022-05-16,Mobile App,83.27
+101118,Customer_101118,30,Female,Hyderabad,Self Employed,2023-03-20,Branch,51.59
+101119,Customer_101119,48,Male,Hyderabad,Salaried,2023-03-31,Mobile App,82.24
+101120,Customer_101120,61,Female,Hyderabad,Salaried,2022-11-04,UPI Partner,45.22
+101121,Customer_101121,54,Male,Bangalore,Salaried,2023-05-03,UPI Partner,57.4
+101122,Customer_101122,37,Male,Chennai,Student,2023-01-19,Branch,64.11
+101123,Customer_101123,58,Female,Bangalore,Student,2023-03-19,UPI Partner,65.82
+101124,Customer_101124,21,Female,Chennai,Small Business,2024-03-16,Internet Banking,49.25
+101125,Customer_101125,51,Male,Chennai,Small Business,2024-02-14,Internet Banking,70.63
+101126,Customer_101126,53,Female,Kolkata,Student,2023-10-04,Mobile App,49.86
+101127,Customer_101127,28,Female,Delhi,Salaried,2023-07-10,Internet Banking,51.06
+101128,Customer_101128,44,Female,Bangalore,Student,2023-06-15,Mobile App,52.93
+101129,Customer_101129,40,Male,Delhi,Student,2022-04-22,UPI Partner,56.86
+101130,Customer_101130,63,Female,Mumbai,Student,2023-01-29,Branch,74.4
+101131,Customer_101131,29,Female,Mumbai,Self Employed,2022-05-03,Branch,87.21
+101132,Customer_101132,26,Female,Chennai,Small Business,2022-10-10,Mobile App,19.56
+101133,Customer_101133,27,Female,Bangalore,Salaried,2022-03-08,Internet Banking,45.0
+101134,Customer_101134,32,Female,Kolkata,Retired,2022-10-11,UPI Partner,79.36
+101135,Customer_101135,29,Male,Bangalore,Small Business,2023-10-03,Internet Banking,43.21
+101136,Customer_101136,36,Female,Bangalore,Self Employed,2023-08-12,UPI Partner,71.36
+101137,Customer_101137,55,Female,Ahmedabad,Salaried,2023-07-23,Branch,51.31
+101138,Customer_101138,39,Female,Delhi,Salaried,2022-05-23,Branch,57.68
+101139,Customer_101139,42,Female,Mumbai,Small Business,2022-06-22,UPI Partner,76.99
+101140,Customer_101140,49,Female,Chennai,Salaried,2023-01-04,Internet Banking,31.11
+101141,Customer_101141,26,Female,Pune,Student,2022-12-02,Branch,57.12
+101142,Customer_101142,52,Female,Bangalore,Student,2022-05-04,Mobile App,63.27
+101143,Customer_101143,61,Female,Mumbai,Self Employed,2023-04-06,UPI Partner,28.25
+101144,Customer_101144,47,Female,Kolkata,Salaried,2024-03-11,Mobile App,68.74
+101145,Customer_101145,23,Male,Hyderabad,Salaried,2023-01-30,Branch,34.97
+101146,Customer_101146,52,Female,Chennai,Salaried,2022-02-04,Branch,50.4
+101147,Customer_101147,52,Female,Bangalore,Salaried,2024-01-14,Branch,46.89
+101148,Customer_101148,28,Male,Mumbai,Small Business,2022-05-14,Branch,36.15
+101149,Customer_101149,44,Male,Delhi,Small Business,2023-03-02,Mobile App,99.0
+101150,Customer_101150,53,Male,Bangalore,Self Employed,2022-06-24,Branch,28.41
+101151,Customer_101151,41,Female,Ahmedabad,Salaried,2023-05-30,UPI Partner,64.1
+101152,Customer_101152,56,Female,Pune,Retired,2023-12-21,UPI Partner,56.9
+101153,Customer_101153,52,Male,Hyderabad,Salaried,2022-01-27,Branch,59.28
+101154,Customer_101154,34,Female,Bangalore,Self Employed,2022-02-26,Branch,15.76
+101155,Customer_101155,26,Female,Delhi,Student,2022-09-02,Mobile App,45.34
+101156,Customer_101156,43,Female,Mumbai,Retired,2023-09-25,Internet Banking,38.68
+101157,Customer_101157,59,Male,Chennai,Salaried,2024-03-06,Branch,34.89
+101158,Customer_101158,42,Male,Ahmedabad,Self Employed,2023-09-23,Branch,79.83
+101159,Customer_101159,57,Male,Delhi,Salaried,2023-08-08,Branch,59.73
+101160,Customer_101160,46,Male,Pune,Salaried,2024-03-09,Internet Banking,55.62
+101161,Customer_101161,33,Male,Chennai,Salaried,2023-10-30,UPI Partner,52.61
+101162,Customer_101162,46,Male,Mumbai,Salaried,2022-10-09,Branch,66.64
+101163,Customer_101163,32,Female,Mumbai,Salaried,2024-01-24,UPI Partner,40.76
+101164,Customer_101164,59,Male,Chennai,Salaried,2022-05-17,Mobile App,66.18
+101165,Customer_101165,49,Male,Kolkata,Salaried,2022-06-29,Branch,75.81
+101166,Customer_101166,33,Female,Kolkata,Small Business,2023-07-10,Internet Banking,35.55
+101167,Customer_101167,63,Male,Kolkata,Self Employed,2022-12-02,Internet Banking,65.51
+101168,Customer_101168,29,Female,Bangalore,Self Employed,2023-02-07,Mobile App,65.71
+101169,Customer_101169,63,Female,Mumbai,Self Employed,2024-01-10,UPI Partner,63.12
+101170,Customer_101170,49,Male,Ahmedabad,Self Employed,2022-07-10,UPI Partner,67.42
+101171,Customer_101171,39,Male,Hyderabad,Salaried,2022-05-05,Branch,62.31
+101172,Customer_101172,56,Female,Bangalore,Small Business,2022-01-04,UPI Partner,44.86
+101173,Customer_101173,52,Female,Mumbai,Salaried,2023-06-02,Branch,45.95
+101174,Customer_101174,54,Male,Hyderabad,Small Business,2023-04-30,Branch,48.14
+101175,Customer_101175,49,Female,Hyderabad,Retired,2023-10-04,UPI Partner,51.25
+101176,Customer_101176,58,Male,Delhi,Salaried,2022-06-01,Mobile App,48.26
+101177,Customer_101177,29,Male,Chennai,Self Employed,2024-01-08,Branch,41.36
+101178,Customer_101178,22,Male,Bangalore,Salaried,2023-07-13,Mobile App,74.17
+101179,Customer_101179,28,Female,Hyderabad,Salaried,2023-04-21,Branch,65.82
+101180,Customer_101180,24,Male,Hyderabad,Salaried,2023-10-13,Branch,76.0
+101181,Customer_101181,23,Male,Hyderabad,Self Employed,2022-04-03,Branch,57.7
+101182,Customer_101182,25,Male,Ahmedabad,Salaried,2023-05-11,Internet Banking,58.78
+101183,Customer_101183,31,Female,Chennai,Self Employed,2023-04-16,UPI Partner,61.02
+101184,Customer_101184,30,Female,Hyderabad,Small Business,2023-01-07,Internet Banking,1.0
+101185,Customer_101185,62,Male,Bangalore,Self Employed,2023-04-13,Branch,21.81
+101186,Customer_101186,27,Male,Mumbai,Salaried,2023-11-05,Mobile App,50.94
+101187,Customer_101187,51,Male,Pune,Retired,2022-12-06,Branch,33.85
+101188,Customer_101188,37,Female,Chennai,Small Business,2023-11-02,Internet Banking,62.1
+101189,Customer_101189,54,Female,Mumbai,Salaried,2024-01-21,Mobile App,70.67
+101190,Customer_101190,56,Male,Ahmedabad,Retired,2022-04-02,Mobile App,70.18
+101191,Customer_101191,58,Male,Mumbai,Small Business,2022-01-05,Mobile App,72.0
+101192,Customer_101192,45,Female,Chennai,Retired,2024-01-30,Branch,71.89
+101193,Customer_101193,50,Male,Delhi,Self Employed,2022-02-19,Branch,48.84
+101194,Customer_101194,35,Male,Hyderabad,Small Business,2023-07-27,Branch,36.84
+101195,Customer_101195,25,Female,Delhi,Salaried,2022-02-15,Branch,40.02
+101196,Customer_101196,46,Female,Pune,Salaried,2022-10-10,Internet Banking,87.51
+101197,Customer_101197,44,Male,Delhi,Self Employed,2023-12-14,Internet Banking,52.4
+101198,Customer_101198,24,Male,Delhi,Self Employed,2023-02-19,Mobile App,60.45
+101199,Customer_101199,41,Female,Mumbai,Salaried,2023-01-10,Branch,78.06
+101200,Customer_101200,49,Male,Hyderabad,Salaried,2023-07-24,UPI Partner,70.14
+101201,Customer_101201,55,Male,Kolkata,Self Employed,2022-09-15,Branch,57.05
+101202,Customer_101202,23,Male,Bangalore,Self Employed,2022-06-23,Mobile App,37.45
+101203,Customer_101203,56,Female,Delhi,Salaried,2022-01-29,UPI Partner,66.32
+101204,Customer_101204,40,Male,Bangalore,Self Employed,2023-11-02,Internet Banking,65.49
+101205,Customer_101205,34,Male,Delhi,Salaried,2022-09-28,Mobile App,65.7
+101206,Customer_101206,24,Male,Bangalore,Salaried,2022-07-23,Internet Banking,32.27
+101207,Customer_101207,40,Male,Hyderabad,Self Employed,2024-02-28,Internet Banking,63.98
+101208,Customer_101208,40,Male,Bangalore,Small Business,2024-01-09,Branch,63.36
+101209,Customer_101209,58,Female,Bangalore,Salaried,2024-03-09,Mobile App,68.66
+101210,Customer_101210,62,Female,Delhi,Salaried,2022-06-28,UPI Partner,29.26
+101211,Customer_101211,58,Female,Bangalore,Salaried,2022-02-09,Mobile App,80.34
+101212,Customer_101212,45,Female,Kolkata,Salaried,2023-04-23,Branch,62.37
+101213,Customer_101213,25,Male,Delhi,Small Business,2022-06-03,Branch,65.61
+101214,Customer_101214,21,Female,Bangalore,Salaried,2024-03-04,UPI Partner,50.64
+101215,Customer_101215,50,Male,Bangalore,Student,2023-05-06,UPI Partner,57.44
+101216,Customer_101216,28,Female,Hyderabad,Salaried,2022-10-12,Internet Banking,53.94
+101217,Customer_101217,52,Female,Delhi,Student,2023-07-31,Mobile App,64.17
+101218,Customer_101218,23,Male,Bangalore,Salaried,2022-10-26,Internet Banking,79.12
+101219,Customer_101219,54,Male,Hyderabad,Self Employed,2022-09-08,UPI Partner,65.55
+101220,Customer_101220,21,Male,Hyderabad,Self Employed,2023-06-08,Internet Banking,59.28
+101221,Customer_101221,48,Female,Kolkata,Self Employed,2024-03-24,Branch,68.27
+101222,Customer_101222,61,Female,Hyderabad,Retired,2024-02-08,Internet Banking,64.21
+101223,Customer_101223,44,Male,Delhi,Retired,2022-01-15,UPI Partner,58.52
+101224,Customer_101224,31,Female,Pune,Salaried,2023-03-03,Internet Banking,47.98
+101225,Customer_101225,41,Female,Pune,Self Employed,2023-07-21,Mobile App,33.69
+101226,Customer_101226,34,Female,Kolkata,Salaried,2022-10-13,Internet Banking,48.95
+101227,Customer_101227,52,Male,Kolkata,Small Business,2023-11-25,Branch,51.15
+101228,Customer_101228,24,Male,Mumbai,Salaried,2024-01-24,UPI Partner,84.77
+101229,Customer_101229,47,Male,Chennai,Student,2023-01-25,Mobile App,68.01
+101230,Customer_101230,32,Female,Mumbai,Retired,2023-12-24,Mobile App,30.25
+101231,Customer_101231,21,Female,Hyderabad,Small Business,2024-03-24,Mobile App,47.41
+101232,Customer_101232,28,Male,Pune,Self Employed,2022-05-29,UPI Partner,62.14
+101233,Customer_101233,42,Male,Chennai,Student,2023-01-24,Mobile App,32.47
+101234,Customer_101234,56,Male,Hyderabad,Small Business,2022-03-12,Mobile App,34.82
+101235,Customer_101235,46,Male,Pune,Student,2023-05-29,UPI Partner,45.66
+101236,Customer_101236,48,Female,Bangalore,Salaried,2022-09-11,UPI Partner,83.88
+101237,Customer_101237,35,Female,Hyderabad,Small Business,2023-08-28,UPI Partner,29.09
+101238,Customer_101238,35,Female,Hyderabad,Salaried,2023-01-10,Internet Banking,50.12
+101239,Customer_101239,48,Female,Hyderabad,Salaried,2022-06-10,Internet Banking,50.72
+101240,Customer_101240,48,Male,Chennai,Retired,2022-07-28,Branch,46.56
+101241,Customer_101241,35,Female,Hyderabad,Small Business,2022-11-24,Branch,49.3
+101242,Customer_101242,61,Male,Kolkata,Student,2022-02-05,Branch,66.38
+101243,Customer_101243,41,Male,Ahmedabad,Self Employed,2022-08-13,Internet Banking,83.4
+101244,Customer_101244,45,Male,Hyderabad,Retired,2023-11-16,Internet Banking,38.03
+101245,Customer_101245,43,Male,Mumbai,Salaried,2022-06-13,Mobile App,47.85
+101246,Customer_101246,44,Male,Hyderabad,Salaried,2023-03-29,Mobile App,68.96
+101247,Customer_101247,63,Male,Bangalore,Salaried,2022-09-27,Branch,49.3
+101248,Customer_101248,48,Male,Delhi,Salaried,2023-09-17,Internet Banking,44.31
+101249,Customer_101249,44,Female,Kolkata,Student,2022-03-17,UPI Partner,32.15
+101250,Customer_101250,30,Female,Bangalore,Student,2022-01-13,Mobile App,57.9
+101251,Customer_101251,43,Female,Bangalore,Small Business,2022-10-24,Internet Banking,41.87
+101252,Customer_101252,61,Female,Hyderabad,Salaried,2023-12-09,Mobile App,35.31
+101253,Customer_101253,23,Female,Pune,Salaried,2022-01-18,Internet Banking,45.45
+101254,Customer_101254,32,Male,Chennai,Student,2022-01-20,UPI Partner,61.74
+101255,Customer_101255,60,Male,Mumbai,Salaried,2023-09-04,Internet Banking,36.74
+101256,Customer_101256,55,Male,Bangalore,Small Business,2022-04-11,Internet Banking,91.65
+101257,Customer_101257,60,Male,Mumbai,Student,2022-04-24,Branch,39.88
+101258,Customer_101258,56,Male,Mumbai,Student,2022-06-24,Branch,27.63
+101259,Customer_101259,33,Male,Bangalore,Small Business,2024-01-16,Internet Banking,49.93
+101260,Customer_101260,61,Female,Ahmedabad,Self Employed,2023-08-08,Branch,70.29
+101261,Customer_101261,56,Female,Hyderabad,Self Employed,2023-09-19,UPI Partner,40.79
+101262,Customer_101262,21,Male,Delhi,Salaried,2022-05-26,UPI Partner,49.1
+101263,Customer_101263,48,Male,Delhi,Small Business,2022-04-23,UPI Partner,23.44
+101264,Customer_101264,23,Female,Hyderabad,Salaried,2022-06-15,Mobile App,84.64
+101265,Customer_101265,47,Male,Delhi,Self Employed,2023-12-29,UPI Partner,17.44
+101266,Customer_101266,58,Female,Mumbai,Student,2022-09-12,Branch,53.79
+101267,Customer_101267,47,Female,Mumbai,Student,2022-05-07,Internet Banking,40.26
+101268,Customer_101268,47,Female,Delhi,Student,2022-11-25,UPI Partner,67.72
+101269,Customer_101269,54,Female,Chennai,Salaried,2022-07-01,Internet Banking,88.29
+101270,Customer_101270,36,Female,Pune,Salaried,2022-02-16,Branch,59.61
+101271,Customer_101271,62,Female,Mumbai,Self Employed,2024-01-01,Internet Banking,39.56
+101272,Customer_101272,40,Female,Ahmedabad,Salaried,2024-03-07,Internet Banking,46.9
+101273,Customer_101273,24,Male,Mumbai,Small Business,2023-02-27,UPI Partner,55.42
+101274,Customer_101274,39,Male,Bangalore,Salaried,2023-08-04,Branch,92.58
+101275,Customer_101275,55,Male,Chennai,Small Business,2024-03-13,Branch,63.29
+101276,Customer_101276,36,Female,Mumbai,Salaried,2022-08-15,Mobile App,59.52
+101277,Customer_101277,23,Male,Pune,Student,2023-12-03,Branch,83.32
+101278,Customer_101278,61,Male,Delhi,Salaried,2022-07-03,UPI Partner,73.41
+101279,Customer_101279,37,Male,Ahmedabad,Self Employed,2022-02-23,Internet Banking,86.94
+101280,Customer_101280,37,Female,Hyderabad,Salaried,2024-01-26,Internet Banking,73.53
+101281,Customer_101281,61,Male,Mumbai,Small Business,2022-04-23,UPI Partner,47.31
+101282,Customer_101282,29,Male,Hyderabad,Self Employed,2024-02-22,Branch,69.62
+101283,Customer_101283,61,Female,Hyderabad,Salaried,2023-01-22,UPI Partner,67.6
+101284,Customer_101284,49,Male,Ahmedabad,Salaried,2023-10-07,UPI Partner,13.68
+101285,Customer_101285,25,Male,Hyderabad,Salaried,2023-11-08,Mobile App,71.82
+101286,Customer_101286,55,Male,Hyderabad,Student,2022-04-16,Internet Banking,62.94
+101287,Customer_101287,41,Male,Kolkata,Salaried,2022-06-19,Internet Banking,61.17
+101288,Customer_101288,30,Male,Hyderabad,Retired,2022-05-10,Branch,25.45
+101289,Customer_101289,47,Male,Hyderabad,Salaried,2023-08-21,Branch,40.82
+101290,Customer_101290,28,Male,Bangalore,Small Business,2024-02-06,Branch,71.6
+101291,Customer_101291,49,Female,Bangalore,Small Business,2023-02-11,UPI Partner,39.57
+101292,Customer_101292,44,Female,Mumbai,Self Employed,2023-11-09,Branch,48.51
+101293,Customer_101293,30,Female,Hyderabad,Salaried,2024-02-12,UPI Partner,65.2
+101294,Customer_101294,57,Female,Mumbai,Small Business,2023-11-02,UPI Partner,49.56
+101295,Customer_101295,24,Female,Ahmedabad,Small Business,2022-07-26,UPI Partner,66.33
+101296,Customer_101296,21,Male,Mumbai,Retired,2022-02-05,Branch,69.16
+101297,Customer_101297,52,Male,Hyderabad,Student,2022-07-26,UPI Partner,61.66
+101298,Customer_101298,63,Female,Bangalore,Retired,2023-07-27,Internet Banking,41.7
+101299,Customer_101299,32,Female,Chennai,Student,2023-01-03,Mobile App,54.82
+101300,Customer_101300,56,Male,Chennai,Self Employed,2024-02-16,Mobile App,59.92
+101301,Customer_101301,31,Male,Chennai,Salaried,2023-04-19,UPI Partner,68.55
+101302,Customer_101302,37,Female,Bangalore,Salaried,2022-02-11,UPI Partner,61.63
+101303,Customer_101303,47,Female,Chennai,Student,2022-02-22,Internet Banking,21.85
+101304,Customer_101304,38,Female,Ahmedabad,Salaried,2023-05-03,Internet Banking,89.99
+101305,Customer_101305,37,Female,Hyderabad,Self Employed,2022-02-27,UPI Partner,55.41
+101306,Customer_101306,42,Female,Chennai,Retired,2023-01-14,Mobile App,49.33
+101307,Customer_101307,54,Female,Mumbai,Small Business,2023-01-19,Internet Banking,17.43
+101308,Customer_101308,64,Female,Mumbai,Salaried,2024-03-02,Branch,42.29
+101309,Customer_101309,36,Female,Bangalore,Salaried,2022-07-12,UPI Partner,77.93
+101310,Customer_101310,47,Male,Kolkata,Salaried,2023-10-20,Internet Banking,35.87
+101311,Customer_101311,62,Female,Mumbai,Retired,2022-12-03,Mobile App,49.88
+101312,Customer_101312,64,Male,Bangalore,Small Business,2023-09-18,Internet Banking,57.05
+101313,Customer_101313,60,Male,Delhi,Self Employed,2022-08-30,Internet Banking,59.77
+101314,Customer_101314,32,Female,Kolkata,Salaried,2022-10-16,Mobile App,60.76
+101315,Customer_101315,45,Female,Mumbai,Salaried,2022-11-12,UPI Partner,41.23
+101316,Customer_101316,34,Male,Bangalore,Student,2022-06-26,UPI Partner,68.28
+101317,Customer_101317,37,Male,Delhi,Student,2023-10-22,Internet Banking,63.59
+101318,Customer_101318,64,Male,Delhi,Salaried,2023-11-06,Mobile App,52.23
+101319,Customer_101319,55,Male,Hyderabad,Retired,2023-05-23,Internet Banking,69.66
+101320,Customer_101320,56,Female,Hyderabad,Student,2022-12-22,Internet Banking,49.19
+101321,Customer_101321,37,Male,Hyderabad,Student,2022-12-13,UPI Partner,52.26
+101322,Customer_101322,64,Female,Pune,Salaried,2024-01-18,UPI Partner,47.48
+101323,Customer_101323,37,Male,Mumbai,Self Employed,2023-10-14,Internet Banking,67.81
+101324,Customer_101324,52,Male,Pune,Salaried,2022-04-15,Internet Banking,42.55
+101325,Customer_101325,57,Male,Mumbai,Small Business,2022-10-29,Internet Banking,53.06
+101326,Customer_101326,22,Female,Ahmedabad,Student,2023-09-21,Branch,77.21
+101327,Customer_101327,53,Male,Hyderabad,Salaried,2024-02-27,UPI Partner,38.97
+101328,Customer_101328,56,Female,Mumbai,Self Employed,2022-12-21,Internet Banking,72.54
+101329,Customer_101329,61,Female,Kolkata,Salaried,2022-02-24,UPI Partner,43.56
+101330,Customer_101330,36,Female,Mumbai,Student,2024-01-24,Branch,58.62
+101331,Customer_101331,31,Male,Bangalore,Student,2023-02-06,Branch,74.9
+101332,Customer_101332,32,Male,Mumbai,Salaried,2023-04-29,Branch,36.72
+101333,Customer_101333,60,Male,Hyderabad,Salaried,2022-11-13,Internet Banking,79.2
+101334,Customer_101334,30,Female,Delhi,Salaried,2023-07-11,Mobile App,52.15
+101335,Customer_101335,25,Male,Hyderabad,Self Employed,2023-04-11,Mobile App,35.91
+101336,Customer_101336,47,Male,Chennai,Salaried,2023-08-15,Mobile App,55.37
+101337,Customer_101337,32,Male,Kolkata,Salaried,2022-08-06,Mobile App,70.19
+101338,Customer_101338,56,Male,Hyderabad,Salaried,2023-01-01,Mobile App,64.57
+101339,Customer_101339,29,Female,Mumbai,Salaried,2023-12-22,Branch,54.8
+101340,Customer_101340,51,Female,Chennai,Salaried,2022-12-11,Branch,70.4
+101341,Customer_101341,61,Male,Ahmedabad,Small Business,2023-05-07,Branch,54.57
+101342,Customer_101342,24,Male,Ahmedabad,Salaried,2022-11-19,Internet Banking,33.14
+101343,Customer_101343,58,Female,Ahmedabad,Salaried,2023-11-17,Branch,76.05
+101344,Customer_101344,57,Male,Pune,Student,2022-08-13,Internet Banking,60.94
+101345,Customer_101345,63,Female,Bangalore,Student,2023-10-27,UPI Partner,67.84
+101346,Customer_101346,37,Female,Delhi,Salaried,2022-08-02,UPI Partner,46.73
+101347,Customer_101347,21,Male,Delhi,Small Business,2023-04-24,Mobile App,89.91
+101348,Customer_101348,38,Male,Hyderabad,Salaried,2022-03-27,Internet Banking,71.53
+101349,Customer_101349,39,Male,Mumbai,Small Business,2022-06-19,Branch,64.61
+101350,Customer_101350,35,Female,Bangalore,Salaried,2023-05-28,Branch,36.99
+101351,Customer_101351,42,Female,Mumbai,Salaried,2023-04-08,Mobile App,23.74
+101352,Customer_101352,50,Female,Hyderabad,Salaried,2023-07-23,Internet Banking,55.84
+101353,Customer_101353,55,Male,Bangalore,Small Business,2024-03-28,Internet Banking,18.1
+101354,Customer_101354,53,Male,Mumbai,Retired,2022-11-07,Mobile App,34.25
+101355,Customer_101355,60,Female,Delhi,Self Employed,2022-10-29,Internet Banking,73.03
+101356,Customer_101356,47,Male,Pune,Self Employed,2023-08-16,UPI Partner,57.12
+101357,Customer_101357,37,Male,Bangalore,Self Employed,2023-10-03,Branch,56.46
+101358,Customer_101358,32,Male,Ahmedabad,Student,2023-01-24,UPI Partner,67.4
+101359,Customer_101359,51,Male,Hyderabad,Salaried,2023-12-28,Internet Banking,49.28
+101360,Customer_101360,27,Male,Hyderabad,Salaried,2022-09-07,Internet Banking,68.29
+101361,Customer_101361,28,Male,Chennai,Salaried,2023-10-09,Mobile App,15.66
+101362,Customer_101362,45,Male,Bangalore,Self Employed,2023-12-29,UPI Partner,79.13
+101363,Customer_101363,40,Female,Hyderabad,Retired,2022-08-23,Mobile App,51.7
+101364,Customer_101364,41,Female,Hyderabad,Salaried,2022-07-11,Mobile App,63.52
+101365,Customer_101365,35,Female,Hyderabad,Student,2023-03-05,Internet Banking,35.11
+101366,Customer_101366,40,Male,Bangalore,Salaried,2023-04-21,Mobile App,63.06
+101367,Customer_101367,50,Female,Mumbai,Salaried,2022-10-12,UPI Partner,55.65
+101368,Customer_101368,29,Female,Mumbai,Salaried,2022-05-03,Branch,74.17
+101369,Customer_101369,31,Female,Pune,Retired,2022-06-18,Branch,55.97
+101370,Customer_101370,22,Male,Delhi,Small Business,2023-04-01,UPI Partner,53.35
+101371,Customer_101371,52,Female,Pune,Small Business,2022-11-23,Internet Banking,46.32
+101372,Customer_101372,38,Female,Pune,Salaried,2022-11-02,Branch,49.98
+101373,Customer_101373,43,Male,Ahmedabad,Student,2023-11-06,Mobile App,81.34
+101374,Customer_101374,47,Female,Bangalore,Salaried,2024-01-02,Mobile App,62.69
+101375,Customer_101375,23,Male,Mumbai,Salaried,2023-03-04,UPI Partner,3.87
+101376,Customer_101376,48,Male,Delhi,Salaried,2023-10-16,Internet Banking,69.6
+101377,Customer_101377,64,Female,Kolkata,Student,2022-11-27,Branch,72.63
+101378,Customer_101378,51,Male,Pune,Student,2023-09-25,Mobile App,43.61
+101379,Customer_101379,53,Male,Delhi,Salaried,2022-04-11,Branch,69.73
+101380,Customer_101380,46,Male,Delhi,Student,2022-09-14,Mobile App,43.6
+101381,Customer_101381,53,Female,Chennai,Small Business,2023-09-08,Internet Banking,72.36
+101382,Customer_101382,36,Male,Mumbai,Salaried,2024-03-15,Mobile App,40.1
+101383,Customer_101383,63,Female,Hyderabad,Salaried,2022-06-30,Internet Banking,96.05
+101384,Customer_101384,38,Female,Bangalore,Salaried,2023-09-25,Internet Banking,29.99
+101385,Customer_101385,26,Male,Delhi,Salaried,2023-04-02,Mobile App,38.86
+101386,Customer_101386,44,Female,Bangalore,Small Business,2023-11-17,Branch,44.61
+101387,Customer_101387,29,Male,Chennai,Small Business,2022-04-01,UPI Partner,67.45
+101388,Customer_101388,25,Male,Pune,Salaried,2023-11-21,Branch,92.81
+101389,Customer_101389,28,Female,Kolkata,Salaried,2023-11-03,Branch,67.97
+101390,Customer_101390,33,Male,Delhi,Retired,2023-06-04,UPI Partner,69.2
+101391,Customer_101391,59,Female,Bangalore,Small Business,2024-02-09,Internet Banking,22.78
+101392,Customer_101392,54,Female,Mumbai,Salaried,2023-07-26,UPI Partner,56.69
+101393,Customer_101393,25,Male,Kolkata,Student,2022-08-28,UPI Partner,58.54
+101394,Customer_101394,52,Male,Chennai,Salaried,2022-04-28,UPI Partner,44.81
+101395,Customer_101395,21,Female,Mumbai,Self Employed,2023-01-03,Branch,47.09
+101396,Customer_101396,52,Male,Delhi,Small Business,2022-04-05,Branch,48.38
+101397,Customer_101397,29,Male,Bangalore,Salaried,2022-11-29,Mobile App,80.83
+101398,Customer_101398,59,Male,Mumbai,Student,2022-09-20,UPI Partner,51.7
+101399,Customer_101399,44,Male,Ahmedabad,Salaried,2023-04-19,Branch,69.35
+101400,Customer_101400,40,Female,Ahmedabad,Salaried,2024-02-19,Mobile App,69.56
+101401,Customer_101401,62,Female,Mumbai,Salaried,2022-02-11,Internet Banking,32.27
+101402,Customer_101402,39,Male,Bangalore,Student,2024-02-11,UPI Partner,31.9
+101403,Customer_101403,40,Male,Mumbai,Student,2022-11-04,Branch,62.5
+101404,Customer_101404,41,Female,Chennai,Salaried,2022-09-01,Branch,93.46
+101405,Customer_101405,31,Male,Hyderabad,Self Employed,2022-04-27,Mobile App,56.87
+101406,Customer_101406,28,Female,Delhi,Salaried,2023-12-30,Mobile App,37.85
+101407,Customer_101407,24,Male,Ahmedabad,Student,2023-06-04,Branch,40.09
+101408,Customer_101408,52,Female,Hyderabad,Salaried,2024-03-24,Internet Banking,24.84
+101409,Customer_101409,62,Female,Kolkata,Retired,2023-08-15,Branch,42.78
+101410,Customer_101410,56,Female,Delhi,Self Employed,2023-03-16,Internet Banking,1.0
+101411,Customer_101411,60,Male,Ahmedabad,Salaried,2022-02-06,Mobile App,56.82
+101412,Customer_101412,57,Male,Ahmedabad,Salaried,2024-03-24,Branch,46.77
+101413,Customer_101413,39,Male,Mumbai,Salaried,2023-02-28,Mobile App,38.53
+101414,Customer_101414,42,Male,Ahmedabad,Small Business,2022-03-17,UPI Partner,58.38
+101415,Customer_101415,55,Male,Kolkata,Small Business,2023-11-21,Internet Banking,46.69
+101416,Customer_101416,54,Male,Chennai,Salaried,2022-10-12,Internet Banking,84.28
+101417,Customer_101417,47,Female,Hyderabad,Salaried,2023-03-22,UPI Partner,79.15
+101418,Customer_101418,56,Male,Pune,Self Employed,2022-06-12,Internet Banking,53.93
+101419,Customer_101419,47,Female,Chennai,Self Employed,2022-10-18,Mobile App,65.4
+101420,Customer_101420,42,Female,Pune,Self Employed,2023-04-16,Branch,33.37
+101421,Customer_101421,25,Male,Hyderabad,Small Business,2023-12-31,Internet Banking,31.57
+101422,Customer_101422,63,Male,Mumbai,Salaried,2024-03-22,UPI Partner,41.34
+101423,Customer_101423,49,Female,Delhi,Salaried,2022-04-18,Mobile App,85.23
+101424,Customer_101424,30,Female,Ahmedabad,Self Employed,2024-03-29,Branch,17.12
+101425,Customer_101425,55,Male,Hyderabad,Small Business,2023-05-15,Internet Banking,65.46
+101426,Customer_101426,23,Male,Mumbai,Salaried,2023-10-27,UPI Partner,50.58
+101427,Customer_101427,31,Female,Chennai,Salaried,2022-10-02,Internet Banking,64.94
+101428,Customer_101428,29,Female,Bangalore,Salaried,2023-11-05,Branch,51.2
+101429,Customer_101429,51,Female,Mumbai,Salaried,2023-06-16,Branch,72.38
+101430,Customer_101430,53,Female,Hyderabad,Student,2022-04-23,Branch,59.7
+101431,Customer_101431,23,Female,Bangalore,Student,2022-04-10,Mobile App,70.96
+101432,Customer_101432,43,Male,Mumbai,Self Employed,2023-11-26,Mobile App,31.9
+101433,Customer_101433,60,Male,Bangalore,Salaried,2023-09-09,Branch,34.79
+101434,Customer_101434,41,Female,Delhi,Small Business,2023-10-06,Branch,32.8
+101435,Customer_101435,61,Male,Hyderabad,Small Business,2022-07-31,Mobile App,70.85
+101436,Customer_101436,36,Male,Mumbai,Retired,2023-05-17,Internet Banking,27.44
+101437,Customer_101437,28,Female,Hyderabad,Salaried,2023-08-24,Branch,53.71
+101438,Customer_101438,47,Male,Mumbai,Small Business,2022-06-27,Branch,44.16
+101439,Customer_101439,61,Female,Pune,Student,2022-01-26,Mobile App,64.72
+101440,Customer_101440,32,Female,Hyderabad,Salaried,2022-09-20,UPI Partner,69.84
+101441,Customer_101441,53,Male,Chennai,Self Employed,2022-01-25,Internet Banking,80.56
+101442,Customer_101442,31,Male,Delhi,Self Employed,2022-06-07,Mobile App,67.06
+101443,Customer_101443,51,Female,Bangalore,Self Employed,2023-09-24,Mobile App,57.92
+101444,Customer_101444,53,Female,Pune,Salaried,2023-08-21,Internet Banking,50.67
+101445,Customer_101445,24,Male,Delhi,Self Employed,2022-04-14,Branch,55.03
+101446,Customer_101446,25,Male,Mumbai,Salaried,2022-10-23,Mobile App,24.4
+101447,Customer_101447,31,Male,Hyderabad,Self Employed,2022-03-24,Mobile App,69.25
+101448,Customer_101448,61,Female,Pune,Retired,2024-03-22,Internet Banking,43.67
+101449,Customer_101449,26,Male,Mumbai,Salaried,2023-09-04,Mobile App,99.0
+101450,Customer_101450,34,Male,Mumbai,Small Business,2023-07-19,Internet Banking,41.28
+101451,Customer_101451,37,Male,Kolkata,Self Employed,2023-11-19,Mobile App,62.2
+101452,Customer_101452,28,Female,Chennai,Salaried,2022-10-23,Branch,47.24
+101453,Customer_101453,21,Female,Delhi,Salaried,2023-02-06,Branch,54.5
+101454,Customer_101454,43,Female,Hyderabad,Small Business,2023-07-09,Branch,47.78
+101455,Customer_101455,23,Female,Delhi,Small Business,2022-04-05,UPI Partner,87.56
+101456,Customer_101456,34,Male,Bangalore,Salaried,2022-01-14,Branch,49.59
+101457,Customer_101457,32,Male,Mumbai,Salaried,2022-04-12,Internet Banking,74.55
+101458,Customer_101458,44,Male,Ahmedabad,Salaried,2023-04-03,Mobile App,60.91
+101459,Customer_101459,22,Male,Delhi,Self Employed,2023-12-13,Branch,81.41
+101460,Customer_101460,35,Female,Pune,Small Business,2022-10-08,Mobile App,37.14
+101461,Customer_101461,25,Female,Mumbai,Student,2024-03-12,UPI Partner,44.02
+101462,Customer_101462,55,Female,Mumbai,Salaried,2022-04-02,Internet Banking,49.23
+101463,Customer_101463,29,Male,Pune,Student,2023-02-23,Mobile App,62.41
+101464,Customer_101464,52,Male,Delhi,Student,2022-10-18,Mobile App,72.04
+101465,Customer_101465,30,Female,Kolkata,Salaried,2024-01-09,UPI Partner,94.3
+101466,Customer_101466,32,Female,Bangalore,Small Business,2023-07-03,Branch,34.59
+101467,Customer_101467,34,Female,Pune,Salaried,2023-11-18,Internet Banking,41.13
+101468,Customer_101468,62,Male,Bangalore,Student,2024-03-25,Branch,38.59
+101469,Customer_101469,28,Male,Bangalore,Salaried,2023-03-06,Mobile App,48.95
+101470,Customer_101470,43,Male,Pune,Salaried,2022-12-24,Branch,62.51
+101471,Customer_101471,38,Female,Delhi,Salaried,2022-09-29,Mobile App,69.41
+101472,Customer_101472,25,Female,Hyderabad,Salaried,2023-06-22,Internet Banking,74.35
+101473,Customer_101473,60,Female,Delhi,Salaried,2023-08-05,Mobile App,68.15
+101474,Customer_101474,62,Female,Pune,Self Employed,2024-03-16,UPI Partner,87.94
+101475,Customer_101475,36,Male,Kolkata,Self Employed,2024-03-28,Internet Banking,41.66
+101476,Customer_101476,40,Male,Delhi,Self Employed,2023-01-13,Internet Banking,46.63
+101477,Customer_101477,40,Female,Hyderabad,Retired,2023-02-17,UPI Partner,87.59
+101478,Customer_101478,61,Female,Delhi,Small Business,2023-01-15,Branch,47.72
+101479,Customer_101479,43,Female,Hyderabad,Salaried,2024-02-21,Mobile App,45.98
+101480,Customer_101480,43,Female,Kolkata,Salaried,2023-10-29,Internet Banking,99.0
+101481,Customer_101481,43,Female,Hyderabad,Retired,2022-08-15,Mobile App,61.27
+101482,Customer_101482,59,Female,Delhi,Student,2022-04-16,Branch,44.47
+101483,Customer_101483,31,Female,Delhi,Student,2022-10-25,Internet Banking,36.39
+101484,Customer_101484,63,Male,Delhi,Self Employed,2022-05-13,Internet Banking,42.87
+101485,Customer_101485,60,Male,Bangalore,Self Employed,2022-12-14,Mobile App,43.59
+101486,Customer_101486,35,Male,Delhi,Salaried,2022-12-08,Mobile App,63.7
+101487,Customer_101487,27,Female,Bangalore,Self Employed,2022-08-26,Mobile App,75.5
+101488,Customer_101488,30,Male,Chennai,Salaried,2022-07-07,UPI Partner,92.89
+101489,Customer_101489,29,Female,Hyderabad,Salaried,2022-08-13,UPI Partner,52.47
+101490,Customer_101490,47,Male,Delhi,Small Business,2023-12-18,Internet Banking,68.75
+101491,Customer_101491,44,Female,Pune,Salaried,2022-11-04,Branch,42.66
+101492,Customer_101492,62,Male,Hyderabad,Self Employed,2024-02-09,Mobile App,51.26
+101493,Customer_101493,62,Female,Delhi,Salaried,2022-07-13,Branch,61.33
+101494,Customer_101494,49,Female,Delhi,Salaried,2022-12-10,UPI Partner,50.39
+101495,Customer_101495,29,Male,Ahmedabad,Salaried,2022-04-08,Branch,51.34
+101496,Customer_101496,31,Male,Mumbai,Salaried,2022-09-01,Internet Banking,81.25
+101497,Customer_101497,40,Female,Hyderabad,Salaried,2023-08-06,Mobile App,46.78
+101498,Customer_101498,36,Male,Bangalore,Self Employed,2024-02-25,Branch,43.12
+101499,Customer_101499,41,Female,Chennai,Student,2024-02-11,Internet Banking,52.85
+101500,Customer_101500,32,Female,Chennai,Retired,2023-07-10,UPI Partner,46.79
+101501,Customer_101501,56,Male,Chennai,Self Employed,2023-04-25,Mobile App,50.84
+101502,Customer_101502,49,Female,Mumbai,Salaried,2023-12-24,UPI Partner,85.19
+101503,Customer_101503,38,Female,Mumbai,Salaried,2022-06-30,UPI Partner,71.19
+101504,Customer_101504,48,Female,Chennai,Retired,2022-08-07,Internet Banking,26.66
+101505,Customer_101505,35,Male,Ahmedabad,Student,2024-03-17,Internet Banking,69.86
+101506,Customer_101506,64,Male,Bangalore,Self Employed,2022-04-17,Internet Banking,52.74
+101507,Customer_101507,27,Male,Kolkata,Small Business,2023-01-26,Internet Banking,69.65
+101508,Customer_101508,63,Male,Chennai,Retired,2023-07-17,Mobile App,52.9
+101509,Customer_101509,52,Male,Delhi,Salaried,2023-05-22,Mobile App,51.36
+101510,Customer_101510,54,Female,Bangalore,Student,2022-06-09,Internet Banking,47.97
+101511,Customer_101511,33,Female,Delhi,Self Employed,2022-05-07,Branch,95.87
+101512,Customer_101512,26,Female,Pune,Salaried,2022-12-02,Branch,73.09
+101513,Customer_101513,57,Female,Hyderabad,Salaried,2023-12-25,UPI Partner,40.11
+101514,Customer_101514,25,Female,Delhi,Self Employed,2022-07-20,UPI Partner,68.05
+101515,Customer_101515,25,Male,Mumbai,Student,2023-10-12,Branch,60.93
+101516,Customer_101516,45,Male,Chennai,Small Business,2024-01-23,Branch,55.54
+101517,Customer_101517,63,Female,Mumbai,Self Employed,2022-08-06,UPI Partner,55.16
+101518,Customer_101518,25,Male,Ahmedabad,Small Business,2024-03-05,Mobile App,35.44
+101519,Customer_101519,36,Male,Delhi,Salaried,2022-12-11,Branch,36.45
+101520,Customer_101520,64,Male,Delhi,Salaried,2024-03-19,UPI Partner,47.25
+101521,Customer_101521,62,Female,Chennai,Self Employed,2022-08-15,Internet Banking,69.06
+101522,Customer_101522,63,Female,Ahmedabad,Salaried,2023-09-13,Internet Banking,65.91
+101523,Customer_101523,54,Female,Chennai,Student,2022-12-05,UPI Partner,65.25
+101524,Customer_101524,46,Female,Kolkata,Student,2023-03-25,UPI Partner,37.2
+101525,Customer_101525,33,Female,Ahmedabad,Self Employed,2022-05-09,Internet Banking,56.91
+101526,Customer_101526,45,Male,Bangalore,Salaried,2022-03-29,UPI Partner,73.8
+101527,Customer_101527,51,Female,Bangalore,Student,2023-11-13,Branch,91.33
+101528,Customer_101528,25,Female,Bangalore,Salaried,2022-10-26,Mobile App,62.82
+101529,Customer_101529,63,Male,Pune,Small Business,2022-04-20,UPI Partner,46.68
+101530,Customer_101530,23,Female,Chennai,Student,2023-03-10,Branch,35.55
+101531,Customer_101531,24,Female,Hyderabad,Self Employed,2022-07-16,Branch,43.12
+101532,Customer_101532,29,Female,Mumbai,Salaried,2024-02-01,Mobile App,34.64
+101533,Customer_101533,59,Female,Mumbai,Salaried,2022-09-08,Internet Banking,52.94
+101534,Customer_101534,55,Female,Mumbai,Student,2024-03-22,Branch,47.49
+101535,Customer_101535,52,Female,Kolkata,Salaried,2023-10-09,Internet Banking,66.56
+101536,Customer_101536,29,Male,Pune,Salaried,2022-05-11,UPI Partner,69.89
+101537,Customer_101537,24,Female,Mumbai,Small Business,2022-11-03,UPI Partner,33.81
+101538,Customer_101538,28,Male,Mumbai,Student,2023-01-04,Internet Banking,52.39
+101539,Customer_101539,58,Female,Mumbai,Salaried,2023-10-20,UPI Partner,72.57
+101540,Customer_101540,47,Male,Bangalore,Student,2023-04-11,Internet Banking,29.3
+101541,Customer_101541,52,Male,Bangalore,Small Business,2023-03-09,UPI Partner,55.1
+101542,Customer_101542,35,Male,Delhi,Salaried,2023-03-16,Internet Banking,74.07
+101543,Customer_101543,41,Male,Chennai,Small Business,2023-08-22,UPI Partner,50.71
+101544,Customer_101544,43,Female,Delhi,Self Employed,2023-10-19,UPI Partner,99.0
+101545,Customer_101545,45,Female,Bangalore,Student,2023-06-26,Internet Banking,62.72
+101546,Customer_101546,22,Male,Kolkata,Salaried,2023-11-15,Mobile App,50.44
+101547,Customer_101547,41,Female,Bangalore,Small Business,2022-03-01,Internet Banking,92.06
+101548,Customer_101548,24,Male,Hyderabad,Student,2023-04-05,Internet Banking,55.11
+101549,Customer_101549,47,Male,Hyderabad,Self Employed,2022-06-12,Internet Banking,46.78
+101550,Customer_101550,27,Female,Kolkata,Self Employed,2022-12-11,Branch,82.69
+101551,Customer_101551,37,Male,Pune,Small Business,2022-02-07,Mobile App,80.01
+101552,Customer_101552,24,Female,Kolkata,Self Employed,2022-03-21,Branch,52.59
+101553,Customer_101553,48,Female,Kolkata,Salaried,2022-12-21,Mobile App,63.41
+101554,Customer_101554,49,Female,Ahmedabad,Salaried,2023-05-16,Branch,74.6
+101555,Customer_101555,45,Male,Chennai,Small Business,2023-08-08,Mobile App,56.05
+101556,Customer_101556,61,Female,Pune,Student,2023-10-21,UPI Partner,63.88
+101557,Customer_101557,45,Male,Mumbai,Salaried,2023-02-10,Branch,2.93
+101558,Customer_101558,34,Female,Bangalore,Small Business,2023-03-07,Branch,43.57
+101559,Customer_101559,52,Male,Ahmedabad,Small Business,2023-04-07,UPI Partner,50.08
+101560,Customer_101560,37,Female,Ahmedabad,Salaried,2022-07-12,UPI Partner,60.3
+101561,Customer_101561,61,Female,Hyderabad,Small Business,2023-07-11,Branch,24.23
+101562,Customer_101562,27,Female,Hyderabad,Salaried,2022-08-23,UPI Partner,49.77
+101563,Customer_101563,57,Male,Delhi,Salaried,2023-08-27,Mobile App,54.17
+101564,Customer_101564,43,Male,Bangalore,Small Business,2022-11-10,UPI Partner,72.3
+101565,Customer_101565,58,Male,Pune,Small Business,2023-09-14,Internet Banking,60.51
+101566,Customer_101566,41,Male,Delhi,Small Business,2023-01-25,Branch,65.62
+101567,Customer_101567,24,Female,Ahmedabad,Salaried,2022-08-21,UPI Partner,49.65
+101568,Customer_101568,61,Male,Bangalore,Student,2023-11-29,Mobile App,18.72
+101569,Customer_101569,57,Female,Delhi,Self Employed,2023-09-08,Internet Banking,67.69
+101570,Customer_101570,39,Female,Hyderabad,Small Business,2022-10-05,Internet Banking,47.53
+101571,Customer_101571,56,Female,Delhi,Salaried,2022-05-01,Mobile App,46.93
+101572,Customer_101572,51,Female,Pune,Small Business,2022-07-03,Internet Banking,68.11
+101573,Customer_101573,58,Female,Mumbai,Self Employed,2023-05-09,Internet Banking,53.86
+101574,Customer_101574,31,Male,Ahmedabad,Student,2024-03-11,Branch,71.08
+101575,Customer_101575,27,Female,Delhi,Salaried,2022-09-04,Branch,33.45
+101576,Customer_101576,54,Female,Ahmedabad,Salaried,2022-08-01,Internet Banking,56.53
+101577,Customer_101577,54,Female,Hyderabad,Small Business,2023-11-14,Mobile App,69.14
+101578,Customer_101578,21,Male,Bangalore,Salaried,2022-09-07,UPI Partner,60.68
+101579,Customer_101579,37,Male,Mumbai,Small Business,2023-12-10,UPI Partner,47.64
+101580,Customer_101580,35,Male,Hyderabad,Self Employed,2022-04-05,Branch,92.69
+101581,Customer_101581,54,Female,Delhi,Student,2023-10-15,Mobile App,70.08
+101582,Customer_101582,38,Female,Kolkata,Self Employed,2023-07-22,Mobile App,70.1
+101583,Customer_101583,48,Male,Hyderabad,Self Employed,2022-05-08,Mobile App,46.34
+101584,Customer_101584,64,Male,Bangalore,Salaried,2022-06-11,UPI Partner,67.44
+101585,Customer_101585,60,Female,Hyderabad,Self Employed,2023-05-31,UPI Partner,89.88
+101586,Customer_101586,48,Female,Mumbai,Self Employed,2022-03-24,Mobile App,43.87
+101587,Customer_101587,41,Male,Bangalore,Retired,2023-11-09,Branch,58.05
+101588,Customer_101588,55,Female,Ahmedabad,Self Employed,2023-05-29,Branch,72.73
+101589,Customer_101589,49,Female,Hyderabad,Salaried,2022-04-25,Mobile App,56.35
+101590,Customer_101590,21,Female,Chennai,Student,2022-01-14,UPI Partner,44.91
+101591,Customer_101591,57,Male,Kolkata,Small Business,2023-01-25,UPI Partner,58.72
+101592,Customer_101592,25,Male,Bangalore,Salaried,2023-10-16,UPI Partner,38.51
+101593,Customer_101593,56,Female,Bangalore,Small Business,2022-02-25,Branch,39.34
+101594,Customer_101594,62,Female,Pune,Self Employed,2022-04-23,Branch,63.34
+101595,Customer_101595,41,Female,Pune,Salaried,2022-12-21,Mobile App,53.12
+101596,Customer_101596,26,Male,Bangalore,Student,2022-09-19,UPI Partner,38.09
+101597,Customer_101597,45,Male,Hyderabad,Salaried,2022-08-28,UPI Partner,61.49
+101598,Customer_101598,39,Female,Hyderabad,Salaried,2022-02-09,Mobile App,53.78
+101599,Customer_101599,53,Female,Chennai,Self Employed,2023-11-04,Mobile App,92.01
+101600,Customer_101600,51,Male,Mumbai,Self Employed,2022-01-22,Internet Banking,50.65
+101601,Customer_101601,47,Female,Hyderabad,Salaried,2022-06-30,Mobile App,56.15
+101602,Customer_101602,37,Female,Ahmedabad,Self Employed,2022-01-26,Branch,26.74
+101603,Customer_101603,41,Female,Mumbai,Salaried,2024-02-10,Internet Banking,47.46
+101604,Customer_101604,36,Male,Kolkata,Salaried,2023-12-22,UPI Partner,32.71
+101605,Customer_101605,50,Female,Chennai,Salaried,2023-02-03,Branch,41.95
+101606,Customer_101606,31,Male,Ahmedabad,Salaried,2023-12-16,Internet Banking,64.1
+101607,Customer_101607,35,Male,Chennai,Small Business,2023-05-12,UPI Partner,73.21
+101608,Customer_101608,42,Female,Bangalore,Salaried,2023-12-15,Mobile App,54.44
+101609,Customer_101609,41,Male,Bangalore,Self Employed,2022-02-17,Internet Banking,73.72
+101610,Customer_101610,35,Male,Mumbai,Retired,2023-11-09,Mobile App,73.89
+101611,Customer_101611,63,Male,Mumbai,Self Employed,2023-10-07,Internet Banking,77.73
+101612,Customer_101612,38,Male,Hyderabad,Salaried,2022-11-06,Mobile App,42.82
+101613,Customer_101613,44,Male,Bangalore,Student,2022-09-30,UPI Partner,16.53
+101614,Customer_101614,48,Female,Hyderabad,Self Employed,2023-09-18,Mobile App,73.42
+101615,Customer_101615,44,Male,Bangalore,Salaried,2023-11-29,Branch,70.08
+101616,Customer_101616,44,Female,Delhi,Salaried,2022-03-26,Internet Banking,16.84
+101617,Customer_101617,49,Male,Chennai,Self Employed,2024-01-14,Branch,75.39
+101618,Customer_101618,24,Female,Hyderabad,Small Business,2022-01-27,UPI Partner,41.34
+101619,Customer_101619,42,Male,Mumbai,Salaried,2022-03-04,Mobile App,53.92
+101620,Customer_101620,34,Female,Delhi,Small Business,2024-01-11,Internet Banking,65.1
+101621,Customer_101621,53,Male,Bangalore,Self Employed,2022-02-28,Internet Banking,47.08
+101622,Customer_101622,58,Female,Kolkata,Student,2023-11-23,Mobile App,47.74
+101623,Customer_101623,62,Male,Kolkata,Salaried,2023-01-25,Internet Banking,54.32
+101624,Customer_101624,43,Female,Chennai,Small Business,2023-09-14,Internet Banking,46.62
+101625,Customer_101625,62,Female,Pune,Small Business,2022-01-23,Mobile App,53.09
+101626,Customer_101626,47,Male,Bangalore,Salaried,2023-08-12,Internet Banking,53.26
+101627,Customer_101627,35,Male,Mumbai,Student,2022-08-12,Internet Banking,60.72
+101628,Customer_101628,44,Male,Chennai,Salaried,2022-06-20,Branch,36.3
+101629,Customer_101629,53,Male,Chennai,Self Employed,2022-03-09,UPI Partner,74.79
+101630,Customer_101630,40,Male,Delhi,Salaried,2023-12-20,Branch,58.01
+101631,Customer_101631,50,Male,Mumbai,Self Employed,2022-08-22,Mobile App,32.14
+101632,Customer_101632,22,Male,Hyderabad,Student,2022-04-27,UPI Partner,43.75
+101633,Customer_101633,53,Male,Chennai,Salaried,2022-05-21,UPI Partner,38.65
+101634,Customer_101634,24,Female,Bangalore,Salaried,2023-03-03,Internet Banking,23.22
+101635,Customer_101635,45,Female,Delhi,Salaried,2023-08-18,Mobile App,64.49
+101636,Customer_101636,46,Male,Pune,Self Employed,2022-09-28,Internet Banking,68.38
+101637,Customer_101637,24,Male,Hyderabad,Salaried,2022-06-21,Mobile App,57.94
+101638,Customer_101638,53,Male,Bangalore,Salaried,2023-01-05,UPI Partner,54.34
+101639,Customer_101639,35,Male,Pune,Salaried,2022-11-26,Branch,71.69
+101640,Customer_101640,46,Male,Delhi,Salaried,2024-03-30,Mobile App,34.88
+101641,Customer_101641,58,Female,Chennai,Student,2022-01-02,Internet Banking,65.02
+101642,Customer_101642,58,Male,Delhi,Student,2023-01-14,Mobile App,46.6
+101643,Customer_101643,54,Male,Mumbai,Self Employed,2023-08-20,Mobile App,85.56
+101644,Customer_101644,25,Male,Chennai,Student,2022-03-03,Branch,70.02
+101645,Customer_101645,58,Female,Delhi,Salaried,2023-06-18,UPI Partner,85.37
+101646,Customer_101646,53,Female,Delhi,Salaried,2023-06-30,Mobile App,51.97
+101647,Customer_101647,25,Male,Bangalore,Salaried,2022-01-14,Internet Banking,61.97
+101648,Customer_101648,54,Female,Mumbai,Salaried,2023-07-08,Mobile App,69.76
+101649,Customer_101649,52,Male,Chennai,Student,2023-06-24,UPI Partner,59.06
+101650,Customer_101650,34,Male,Bangalore,Salaried,2022-11-26,Internet Banking,33.28
+101651,Customer_101651,50,Male,Delhi,Salaried,2022-12-02,UPI Partner,69.36
+101652,Customer_101652,39,Male,Mumbai,Salaried,2022-09-14,Branch,48.8
+101653,Customer_101653,38,Female,Delhi,Salaried,2022-04-13,Branch,39.51
+101654,Customer_101654,56,Male,Hyderabad,Salaried,2023-05-27,Mobile App,71.4
+101655,Customer_101655,58,Female,Hyderabad,Student,2022-11-29,Internet Banking,44.95
+101656,Customer_101656,30,Male,Chennai,Salaried,2022-01-11,UPI Partner,16.63
+101657,Customer_101657,30,Female,Bangalore,Small Business,2023-02-15,Mobile App,57.24
+101658,Customer_101658,32,Female,Hyderabad,Self Employed,2023-05-07,Mobile App,67.38
+101659,Customer_101659,53,Female,Hyderabad,Salaried,2023-11-13,Branch,59.31
+101660,Customer_101660,37,Female,Delhi,Salaried,2023-12-21,UPI Partner,47.76
+101661,Customer_101661,46,Female,Hyderabad,Salaried,2023-05-06,Mobile App,43.04
+101662,Customer_101662,63,Female,Bangalore,Salaried,2022-12-07,UPI Partner,65.86
+101663,Customer_101663,64,Male,Hyderabad,Self Employed,2023-02-06,Mobile App,46.3
+101664,Customer_101664,33,Female,Hyderabad,Self Employed,2023-02-06,Mobile App,39.89
+101665,Customer_101665,45,Female,Bangalore,Salaried,2023-03-02,Internet Banking,57.17
+101666,Customer_101666,25,Female,Chennai,Small Business,2023-07-09,Mobile App,69.26
+101667,Customer_101667,43,Male,Delhi,Student,2022-04-23,Mobile App,53.89
+101668,Customer_101668,44,Male,Delhi,Student,2023-08-30,Internet Banking,72.43
+101669,Customer_101669,61,Male,Bangalore,Student,2024-01-02,UPI Partner,73.95
+101670,Customer_101670,63,Male,Bangalore,Salaried,2024-01-29,Branch,53.65
+101671,Customer_101671,56,Male,Chennai,Salaried,2022-05-31,Branch,39.64
+101672,Customer_101672,30,Male,Hyderabad,Salaried,2023-06-27,Mobile App,57.69
+101673,Customer_101673,55,Female,Kolkata,Salaried,2022-01-24,Internet Banking,73.57
+101674,Customer_101674,32,Female,Hyderabad,Retired,2022-11-14,Branch,18.48
+101675,Customer_101675,46,Male,Pune,Salaried,2023-03-23,Branch,60.63
+101676,Customer_101676,61,Female,Chennai,Salaried,2023-04-08,Branch,56.3
+101677,Customer_101677,53,Male,Mumbai,Self Employed,2024-01-30,Mobile App,39.33
+101678,Customer_101678,47,Female,Kolkata,Salaried,2022-06-27,Internet Banking,46.53
+101679,Customer_101679,47,Male,Hyderabad,Salaried,2023-05-20,Internet Banking,65.82
+101680,Customer_101680,45,Female,Ahmedabad,Student,2023-10-01,UPI Partner,55.71
+101681,Customer_101681,49,Female,Bangalore,Retired,2022-11-17,Internet Banking,36.76
+101682,Customer_101682,47,Female,Ahmedabad,Salaried,2022-04-26,UPI Partner,72.09
+101683,Customer_101683,29,Female,Bangalore,Student,2023-04-04,Branch,57.07
+101684,Customer_101684,23,Male,Bangalore,Salaried,2023-01-26,Branch,48.67
+101685,Customer_101685,42,Male,Ahmedabad,Self Employed,2022-04-07,Mobile App,45.5
+101686,Customer_101686,30,Female,Delhi,Retired,2023-07-24,Internet Banking,79.61
+101687,Customer_101687,57,Male,Hyderabad,Student,2023-06-09,UPI Partner,78.64
+101688,Customer_101688,59,Male,Pune,Small Business,2023-11-13,UPI Partner,57.44
+101689,Customer_101689,57,Female,Hyderabad,Small Business,2022-12-19,Internet Banking,75.68
+101690,Customer_101690,45,Female,Bangalore,Small Business,2023-08-19,Branch,43.77
+101691,Customer_101691,29,Female,Mumbai,Salaried,2024-03-06,Mobile App,48.55
+101692,Customer_101692,34,Male,Delhi,Self Employed,2022-05-14,Mobile App,57.52
+101693,Customer_101693,33,Female,Delhi,Salaried,2023-05-31,Branch,59.75
+101694,Customer_101694,46,Male,Chennai,Student,2023-06-19,UPI Partner,82.84
+101695,Customer_101695,38,Male,Bangalore,Salaried,2023-03-05,Branch,64.1
+101696,Customer_101696,50,Female,Bangalore,Self Employed,2024-03-03,UPI Partner,64.22
+101697,Customer_101697,53,Male,Chennai,Small Business,2023-09-26,Branch,85.62
+101698,Customer_101698,34,Female,Hyderabad,Salaried,2023-10-26,Branch,68.26
+101699,Customer_101699,23,Female,Ahmedabad,Salaried,2022-10-26,Internet Banking,72.21
+101700,Customer_101700,45,Male,Hyderabad,Salaried,2022-09-29,Internet Banking,43.68
+101701,Customer_101701,58,Male,Ahmedabad,Self Employed,2024-01-07,Branch,72.22
+101702,Customer_101702,33,Female,Bangalore,Student,2024-01-14,Internet Banking,61.2
+101703,Customer_101703,35,Male,Pune,Salaried,2022-08-26,Internet Banking,39.88
+101704,Customer_101704,36,Male,Mumbai,Salaried,2022-04-06,UPI Partner,63.53
+101705,Customer_101705,28,Female,Bangalore,Retired,2024-01-23,Internet Banking,57.39
+101706,Customer_101706,40,Female,Bangalore,Salaried,2023-11-16,Mobile App,55.31
+101707,Customer_101707,49,Male,Chennai,Small Business,2022-07-11,Branch,35.7
+101708,Customer_101708,26,Male,Mumbai,Self Employed,2022-10-03,Branch,43.71
+101709,Customer_101709,58,Male,Delhi,Salaried,2022-11-25,UPI Partner,72.06
+101710,Customer_101710,23,Female,Delhi,Small Business,2024-01-02,UPI Partner,70.51
+101711,Customer_101711,33,Male,Pune,Salaried,2023-12-27,UPI Partner,57.66
+101712,Customer_101712,27,Male,Bangalore,Student,2023-07-01,UPI Partner,54.06
+101713,Customer_101713,40,Male,Delhi,Retired,2022-08-16,Branch,35.06
+101714,Customer_101714,58,Male,Mumbai,Salaried,2022-12-01,UPI Partner,45.57
+101715,Customer_101715,44,Female,Pune,Salaried,2022-10-03,UPI Partner,29.09
+101716,Customer_101716,39,Male,Hyderabad,Small Business,2022-03-26,Branch,49.22
+101717,Customer_101717,41,Male,Bangalore,Self Employed,2022-02-17,UPI Partner,57.69
+101718,Customer_101718,50,Male,Bangalore,Small Business,2023-02-12,Internet Banking,52.54
+101719,Customer_101719,53,Male,Hyderabad,Small Business,2022-10-31,Internet Banking,71.59
+101720,Customer_101720,36,Female,Hyderabad,Retired,2022-07-11,Mobile App,59.19
+101721,Customer_101721,27,Male,Chennai,Student,2022-05-24,Mobile App,24.85
+101722,Customer_101722,41,Female,Pune,Self Employed,2022-02-09,UPI Partner,47.97
+101723,Customer_101723,55,Male,Chennai,Salaried,2022-03-19,Mobile App,60.16
+101724,Customer_101724,59,Female,Bangalore,Salaried,2023-05-05,Branch,29.67
+101725,Customer_101725,38,Female,Hyderabad,Salaried,2023-01-31,Mobile App,75.44
+101726,Customer_101726,56,Female,Hyderabad,Salaried,2022-03-02,Mobile App,29.3
+101727,Customer_101727,64,Female,Ahmedabad,Retired,2024-01-23,Mobile App,73.28
+101728,Customer_101728,45,Female,Delhi,Self Employed,2023-06-05,Mobile App,19.54
+101729,Customer_101729,36,Male,Delhi,Salaried,2023-07-02,Internet Banking,23.37
+101730,Customer_101730,61,Male,Delhi,Salaried,2023-02-14,UPI Partner,53.37
+101731,Customer_101731,22,Female,Delhi,Salaried,2023-08-03,Mobile App,80.9
+101732,Customer_101732,25,Male,Delhi,Self Employed,2023-04-21,Mobile App,46.3
+101733,Customer_101733,34,Female,Mumbai,Retired,2022-04-01,Internet Banking,56.23
+101734,Customer_101734,42,Female,Ahmedabad,Salaried,2022-03-20,UPI Partner,66.39
+101735,Customer_101735,27,Male,Delhi,Salaried,2023-05-21,Internet Banking,62.35
+101736,Customer_101736,56,Female,Delhi,Salaried,2022-01-12,UPI Partner,59.56
+101737,Customer_101737,56,Male,Hyderabad,Retired,2023-02-13,Mobile App,89.33
+101738,Customer_101738,58,Male,Hyderabad,Salaried,2023-05-29,Mobile App,51.84
+101739,Customer_101739,53,Female,Bangalore,Small Business,2022-02-22,Internet Banking,48.83
+101740,Customer_101740,46,Female,Hyderabad,Salaried,2023-07-19,Branch,82.64
+101741,Customer_101741,48,Female,Bangalore,Small Business,2022-07-31,Mobile App,64.06
+101742,Customer_101742,40,Female,Bangalore,Salaried,2023-01-05,Branch,28.68
+101743,Customer_101743,42,Male,Hyderabad,Student,2022-06-12,UPI Partner,29.66
+101744,Customer_101744,23,Female,Bangalore,Student,2022-01-16,UPI Partner,50.12
+101745,Customer_101745,23,Female,Kolkata,Salaried,2022-02-03,UPI Partner,56.58
+101746,Customer_101746,64,Female,Chennai,Self Employed,2024-03-20,Mobile App,74.0
+101747,Customer_101747,53,Male,Mumbai,Student,2022-10-14,Mobile App,69.87
+101748,Customer_101748,48,Female,Chennai,Small Business,2022-07-03,UPI Partner,80.43
+101749,Customer_101749,43,Male,Ahmedabad,Retired,2024-01-24,Mobile App,15.99
+101750,Customer_101750,40,Male,Mumbai,Salaried,2024-02-29,Internet Banking,77.74
+101751,Customer_101751,37,Male,Delhi,Student,2023-09-24,Internet Banking,41.74
+101752,Customer_101752,24,Female,Kolkata,Salaried,2022-11-17,UPI Partner,50.69
+101753,Customer_101753,43,Female,Bangalore,Salaried,2023-07-25,Mobile App,61.64
+101754,Customer_101754,44,Male,Delhi,Self Employed,2023-11-24,UPI Partner,26.09
+101755,Customer_101755,48,Male,Kolkata,Small Business,2022-11-04,UPI Partner,54.91
+101756,Customer_101756,30,Male,Pune,Self Employed,2022-08-31,UPI Partner,37.22
+101757,Customer_101757,59,Male,Hyderabad,Salaried,2023-05-12,Internet Banking,62.2
+101758,Customer_101758,32,Male,Hyderabad,Self Employed,2023-01-03,Mobile App,59.36
+101759,Customer_101759,28,Female,Hyderabad,Self Employed,2023-04-28,Mobile App,20.72
+101760,Customer_101760,30,Female,Hyderabad,Small Business,2022-01-29,Branch,52.58
+101761,Customer_101761,26,Male,Bangalore,Student,2023-05-09,UPI Partner,25.33
+101762,Customer_101762,56,Male,Ahmedabad,Salaried,2023-04-06,Internet Banking,60.02
+101763,Customer_101763,49,Female,Hyderabad,Salaried,2022-07-05,Mobile App,68.49
+101764,Customer_101764,40,Male,Chennai,Salaried,2023-04-08,Mobile App,24.27
+101765,Customer_101765,31,Male,Chennai,Small Business,2023-06-21,UPI Partner,52.05
+101766,Customer_101766,56,Male,Mumbai,Student,2022-11-25,UPI Partner,64.53
+101767,Customer_101767,42,Female,Delhi,Retired,2023-03-19,UPI Partner,57.96
+101768,Customer_101768,32,Male,Kolkata,Salaried,2023-03-10,UPI Partner,60.87
+101769,Customer_101769,27,Female,Bangalore,Self Employed,2023-03-16,Mobile App,72.92
+101770,Customer_101770,36,Male,Hyderabad,Small Business,2023-11-29,Mobile App,37.31
+101771,Customer_101771,35,Female,Delhi,Self Employed,2024-01-22,UPI Partner,41.9
+101772,Customer_101772,27,Male,Delhi,Salaried,2022-05-15,Mobile App,50.25
+101773,Customer_101773,29,Female,Bangalore,Student,2023-11-15,Mobile App,38.95
+101774,Customer_101774,21,Male,Pune,Student,2022-08-08,Mobile App,60.71
+101775,Customer_101775,59,Male,Mumbai,Student,2023-10-15,UPI Partner,36.2
+101776,Customer_101776,51,Female,Chennai,Salaried,2024-03-29,UPI Partner,57.33
+101777,Customer_101777,34,Female,Chennai,Retired,2024-01-29,Internet Banking,27.83
+101778,Customer_101778,23,Male,Bangalore,Retired,2023-08-19,UPI Partner,67.32
+101779,Customer_101779,63,Male,Bangalore,Small Business,2023-12-11,Branch,60.28
+101780,Customer_101780,61,Male,Hyderabad,Small Business,2023-05-16,Branch,46.66
+101781,Customer_101781,52,Male,Bangalore,Self Employed,2023-10-20,UPI Partner,85.92
+101782,Customer_101782,31,Female,Bangalore,Self Employed,2023-02-25,Branch,66.66
+101783,Customer_101783,39,Male,Hyderabad,Salaried,2023-03-06,UPI Partner,44.02
+101784,Customer_101784,39,Male,Hyderabad,Salaried,2023-07-08,UPI Partner,51.57
+101785,Customer_101785,58,Female,Mumbai,Self Employed,2023-05-18,UPI Partner,73.6
+101786,Customer_101786,42,Female,Mumbai,Student,2023-03-31,Branch,73.15
+101787,Customer_101787,56,Female,Pune,Self Employed,2024-03-11,Internet Banking,54.02
+101788,Customer_101788,44,Female,Chennai,Retired,2022-01-20,Mobile App,64.59
+101789,Customer_101789,36,Female,Mumbai,Salaried,2023-04-08,UPI Partner,37.23
+101790,Customer_101790,30,Female,Ahmedabad,Student,2024-03-12,Branch,58.39
+101791,Customer_101791,60,Male,Mumbai,Salaried,2023-12-15,Internet Banking,54.11
+101792,Customer_101792,50,Male,Hyderabad,Retired,2023-11-10,Mobile App,53.61
+101793,Customer_101793,27,Female,Chennai,Small Business,2024-02-13,UPI Partner,50.53
+101794,Customer_101794,26,Female,Delhi,Self Employed,2023-04-03,Mobile App,50.86
+101795,Customer_101795,35,Male,Hyderabad,Salaried,2023-06-18,Internet Banking,80.23
+101796,Customer_101796,41,Female,Hyderabad,Self Employed,2023-07-24,Mobile App,51.34
+101797,Customer_101797,57,Male,Hyderabad,Salaried,2022-10-15,Internet Banking,75.91
+101798,Customer_101798,26,Male,Ahmedabad,Salaried,2023-09-10,Internet Banking,79.01
+101799,Customer_101799,48,Male,Bangalore,Self Employed,2022-09-08,Internet Banking,78.72
+101800,Customer_101800,56,Male,Mumbai,Student,2024-01-12,Branch,29.45
+101801,Customer_101801,33,Male,Bangalore,Retired,2022-10-22,Mobile App,55.9
+101802,Customer_101802,24,Female,Bangalore,Student,2024-02-14,Internet Banking,68.79
+101803,Customer_101803,43,Female,Ahmedabad,Student,2024-03-01,Branch,54.86
+101804,Customer_101804,43,Male,Pune,Salaried,2023-01-11,UPI Partner,63.44
+101805,Customer_101805,51,Female,Chennai,Retired,2023-02-03,Internet Banking,50.33
+101806,Customer_101806,29,Female,Kolkata,Salaried,2023-02-24,Mobile App,83.51
+101807,Customer_101807,23,Male,Hyderabad,Salaried,2022-05-26,Mobile App,64.86
+101808,Customer_101808,38,Male,Ahmedabad,Student,2024-03-24,Branch,59.68
+101809,Customer_101809,49,Female,Chennai,Salaried,2023-09-15,Branch,56.6
+101810,Customer_101810,51,Female,Hyderabad,Student,2022-08-25,Internet Banking,37.12
+101811,Customer_101811,22,Female,Hyderabad,Retired,2024-01-26,Mobile App,60.7
+101812,Customer_101812,40,Female,Mumbai,Student,2023-05-31,Branch,39.87
+101813,Customer_101813,21,Female,Mumbai,Small Business,2023-02-22,Internet Banking,63.04
+101814,Customer_101814,56,Female,Bangalore,Retired,2024-02-27,Branch,80.17
+101815,Customer_101815,51,Female,Bangalore,Salaried,2022-06-24,Internet Banking,38.58
+101816,Customer_101816,23,Male,Chennai,Self Employed,2022-06-05,Internet Banking,70.39
+101817,Customer_101817,53,Female,Bangalore,Salaried,2023-09-03,Branch,48.75
+101818,Customer_101818,32,Female,Mumbai,Salaried,2022-08-09,Branch,72.14
+101819,Customer_101819,64,Male,Delhi,Student,2023-08-13,Mobile App,60.99
+101820,Customer_101820,24,Male,Hyderabad,Salaried,2023-12-29,Internet Banking,59.31
+101821,Customer_101821,56,Male,Mumbai,Salaried,2023-06-17,Mobile App,57.77
+101822,Customer_101822,23,Male,Bangalore,Retired,2022-02-04,Branch,68.36
+101823,Customer_101823,36,Female,Delhi,Salaried,2023-12-08,Branch,42.47
+101824,Customer_101824,39,Male,Mumbai,Salaried,2024-01-25,Branch,29.27
+101825,Customer_101825,33,Male,Delhi,Student,2024-02-10,UPI Partner,40.22
+101826,Customer_101826,23,Male,Hyderabad,Retired,2023-01-08,Mobile App,80.0
+101827,Customer_101827,45,Male,Pune,Salaried,2023-12-03,Branch,89.87
+101828,Customer_101828,25,Female,Ahmedabad,Salaried,2023-06-03,Branch,21.86
+101829,Customer_101829,42,Female,Ahmedabad,Salaried,2022-06-20,Internet Banking,36.9
+101830,Customer_101830,32,Male,Bangalore,Self Employed,2023-11-26,Branch,61.77
+101831,Customer_101831,43,Female,Delhi,Salaried,2022-04-14,Mobile App,71.11
+101832,Customer_101832,36,Male,Bangalore,Salaried,2023-09-11,UPI Partner,73.46
+101833,Customer_101833,46,Male,Chennai,Retired,2023-08-31,Branch,55.15
+101834,Customer_101834,24,Female,Hyderabad,Student,2024-01-15,Mobile App,57.77
+101835,Customer_101835,53,Female,Hyderabad,Self Employed,2022-10-03,Internet Banking,41.33
+101836,Customer_101836,47,Female,Mumbai,Self Employed,2023-11-17,Branch,54.86
+101837,Customer_101837,48,Male,Kolkata,Student,2022-03-16,UPI Partner,50.18
+101838,Customer_101838,55,Female,Pune,Self Employed,2023-11-09,Branch,45.99
+101839,Customer_101839,23,Male,Mumbai,Self Employed,2024-02-09,Internet Banking,43.93
+101840,Customer_101840,40,Female,Pune,Salaried,2024-01-08,Mobile App,55.5
+101841,Customer_101841,58,Female,Chennai,Self Employed,2023-10-20,Branch,66.28
+101842,Customer_101842,42,Female,Mumbai,Retired,2022-06-17,Branch,86.47
+101843,Customer_101843,57,Male,Chennai,Small Business,2023-03-10,Mobile App,55.64
+101844,Customer_101844,29,Female,Hyderabad,Self Employed,2022-12-03,UPI Partner,26.76
+101845,Customer_101845,36,Male,Bangalore,Self Employed,2022-06-06,Branch,35.92
+101846,Customer_101846,26,Female,Bangalore,Student,2023-04-07,Mobile App,25.18
+101847,Customer_101847,42,Female,Delhi,Self Employed,2023-10-20,Branch,81.26
+101848,Customer_101848,60,Male,Chennai,Student,2023-06-27,Internet Banking,42.11
+101849,Customer_101849,35,Female,Chennai,Salaried,2022-11-26,Mobile App,51.3
+101850,Customer_101850,47,Female,Chennai,Salaried,2022-12-29,Internet Banking,31.19
+101851,Customer_101851,48,Male,Ahmedabad,Salaried,2023-07-20,Branch,48.73
+101852,Customer_101852,53,Female,Mumbai,Self Employed,2022-02-10,UPI Partner,54.49
+101853,Customer_101853,47,Male,Hyderabad,Small Business,2022-01-03,UPI Partner,42.24
+101854,Customer_101854,49,Female,Kolkata,Student,2023-01-11,UPI Partner,44.85
+101855,Customer_101855,59,Female,Delhi,Salaried,2022-11-18,Internet Banking,58.21
+101856,Customer_101856,48,Male,Hyderabad,Salaried,2022-12-20,Mobile App,20.15
+101857,Customer_101857,25,Female,Hyderabad,Salaried,2022-06-24,Internet Banking,49.94
+101858,Customer_101858,23,Male,Hyderabad,Self Employed,2023-10-31,Internet Banking,67.84
+101859,Customer_101859,34,Female,Bangalore,Student,2022-10-20,Mobile App,49.65
+101860,Customer_101860,33,Female,Mumbai,Salaried,2022-04-28,Mobile App,82.27
+101861,Customer_101861,60,Female,Hyderabad,Small Business,2023-06-30,UPI Partner,51.03
+101862,Customer_101862,54,Male,Mumbai,Salaried,2022-07-14,UPI Partner,66.63
+101863,Customer_101863,27,Male,Hyderabad,Self Employed,2024-03-24,Branch,67.31
+101864,Customer_101864,47,Male,Mumbai,Salaried,2023-01-31,Internet Banking,26.59
+101865,Customer_101865,34,Male,Delhi,Self Employed,2022-03-12,Mobile App,71.09
+101866,Customer_101866,60,Male,Chennai,Student,2022-11-10,UPI Partner,76.56
+101867,Customer_101867,47,Female,Chennai,Salaried,2022-03-29,Internet Banking,46.36
+101868,Customer_101868,53,Male,Hyderabad,Salaried,2024-01-05,UPI Partner,73.85
+101869,Customer_101869,38,Male,Mumbai,Salaried,2023-11-29,Mobile App,37.87
+101870,Customer_101870,55,Male,Mumbai,Retired,2023-09-07,Mobile App,49.29
+101871,Customer_101871,43,Male,Chennai,Student,2023-07-23,UPI Partner,79.73
+101872,Customer_101872,54,Female,Delhi,Self Employed,2022-01-28,Branch,52.01
+101873,Customer_101873,56,Female,Hyderabad,Small Business,2023-03-09,Internet Banking,73.26
+101874,Customer_101874,51,Female,Bangalore,Salaried,2022-04-14,Mobile App,37.06
+101875,Customer_101875,34,Male,Kolkata,Salaried,2022-12-07,Branch,62.9
+101876,Customer_101876,25,Female,Mumbai,Retired,2024-01-25,Mobile App,30.18
+101877,Customer_101877,44,Male,Chennai,Student,2023-12-13,Mobile App,57.46
+101878,Customer_101878,45,Female,Mumbai,Self Employed,2022-01-30,UPI Partner,69.21
+101879,Customer_101879,34,Male,Bangalore,Self Employed,2022-10-25,UPI Partner,36.56
+101880,Customer_101880,29,Male,Mumbai,Retired,2022-12-30,Branch,52.93
+101881,Customer_101881,27,Female,Mumbai,Self Employed,2022-11-25,Internet Banking,70.99
+101882,Customer_101882,37,Male,Hyderabad,Self Employed,2022-06-25,Mobile App,59.64
+101883,Customer_101883,61,Female,Ahmedabad,Salaried,2023-10-04,UPI Partner,81.04
+101884,Customer_101884,26,Male,Hyderabad,Self Employed,2023-08-17,Internet Banking,63.48
+101885,Customer_101885,46,Female,Hyderabad,Small Business,2023-03-24,UPI Partner,72.68
+101886,Customer_101886,53,Female,Chennai,Student,2023-05-28,UPI Partner,63.32
+101887,Customer_101887,64,Male,Bangalore,Salaried,2022-06-15,Mobile App,47.35
+101888,Customer_101888,54,Female,Delhi,Salaried,2022-07-07,Branch,31.52
+101889,Customer_101889,51,Male,Hyderabad,Student,2022-07-28,Branch,69.46
+101890,Customer_101890,39,Female,Delhi,Salaried,2023-03-02,UPI Partner,64.4
+101891,Customer_101891,25,Male,Hyderabad,Salaried,2022-12-07,Branch,47.45
+101892,Customer_101892,36,Female,Bangalore,Salaried,2023-03-15,Branch,63.91
+101893,Customer_101893,49,Male,Delhi,Student,2023-08-24,UPI Partner,54.9
+101894,Customer_101894,56,Male,Delhi,Salaried,2023-06-16,Internet Banking,48.61
+101895,Customer_101895,46,Male,Mumbai,Small Business,2022-03-18,UPI Partner,65.85
+101896,Customer_101896,56,Female,Bangalore,Self Employed,2022-12-04,Internet Banking,67.47
+101897,Customer_101897,42,Male,Hyderabad,Student,2022-05-16,Branch,64.36
+101898,Customer_101898,24,Male,Delhi,Student,2023-03-28,UPI Partner,39.41
+101899,Customer_101899,46,Female,Chennai,Retired,2024-01-29,Branch,55.27
+101900,Customer_101900,23,Female,Hyderabad,Student,2023-04-20,Internet Banking,73.34
+101901,Customer_101901,34,Female,Chennai,Salaried,2022-02-21,UPI Partner,36.55
+101902,Customer_101902,23,Male,Ahmedabad,Salaried,2023-01-04,Internet Banking,54.15
+101903,Customer_101903,59,Male,Hyderabad,Self Employed,2023-09-25,Internet Banking,62.89
+101904,Customer_101904,62,Male,Hyderabad,Self Employed,2023-01-02,Branch,51.43
+101905,Customer_101905,61,Female,Kolkata,Salaried,2022-09-21,Internet Banking,50.9
+101906,Customer_101906,24,Female,Pune,Retired,2023-11-01,Mobile App,42.6
+101907,Customer_101907,38,Male,Pune,Student,2022-10-19,Branch,83.9
+101908,Customer_101908,37,Male,Ahmedabad,Self Employed,2022-11-18,UPI Partner,50.02
+101909,Customer_101909,49,Male,Bangalore,Small Business,2024-02-02,Mobile App,60.28
+101910,Customer_101910,38,Female,Hyderabad,Retired,2023-10-19,Internet Banking,44.83
+101911,Customer_101911,40,Female,Bangalore,Salaried,2023-12-30,UPI Partner,64.23
+101912,Customer_101912,28,Male,Chennai,Self Employed,2022-05-02,Branch,67.5
+101913,Customer_101913,34,Male,Mumbai,Self Employed,2023-09-18,Branch,46.15
+101914,Customer_101914,46,Female,Kolkata,Salaried,2023-06-04,Branch,75.12
+101915,Customer_101915,24,Female,Hyderabad,Salaried,2023-10-05,Branch,54.77
+101916,Customer_101916,33,Male,Mumbai,Salaried,2023-01-26,UPI Partner,70.49
+101917,Customer_101917,34,Female,Chennai,Small Business,2023-11-26,UPI Partner,58.79
+101918,Customer_101918,41,Male,Hyderabad,Salaried,2023-07-29,UPI Partner,65.98
+101919,Customer_101919,34,Male,Mumbai,Self Employed,2023-02-21,Internet Banking,42.79
+101920,Customer_101920,63,Female,Delhi,Student,2023-01-13,Branch,74.36
+101921,Customer_101921,28,Female,Delhi,Retired,2022-02-21,UPI Partner,67.2
+101922,Customer_101922,32,Female,Ahmedabad,Salaried,2022-11-23,UPI Partner,69.62
+101923,Customer_101923,45,Female,Chennai,Salaried,2023-05-18,UPI Partner,74.95
+101924,Customer_101924,40,Female,Bangalore,Student,2023-08-02,Internet Banking,72.71
+101925,Customer_101925,48,Female,Bangalore,Student,2023-03-14,Branch,40.7
+101926,Customer_101926,62,Female,Bangalore,Salaried,2024-03-09,UPI Partner,36.8
+101927,Customer_101927,47,Female,Bangalore,Retired,2023-04-05,Internet Banking,55.51
+101928,Customer_101928,38,Male,Pune,Small Business,2024-02-29,Internet Banking,50.73
+101929,Customer_101929,28,Female,Pune,Salaried,2022-09-20,Mobile App,29.32
+101930,Customer_101930,50,Male,Hyderabad,Self Employed,2023-01-17,Mobile App,24.98
+101931,Customer_101931,59,Female,Delhi,Self Employed,2022-04-07,Branch,34.9
+101932,Customer_101932,21,Male,Mumbai,Salaried,2022-10-03,Internet Banking,53.28
+101933,Customer_101933,48,Female,Bangalore,Salaried,2023-10-24,UPI Partner,78.35
+101934,Customer_101934,27,Female,Hyderabad,Salaried,2022-06-05,UPI Partner,56.11
+101935,Customer_101935,42,Male,Chennai,Salaried,2022-03-21,Internet Banking,39.67
+101936,Customer_101936,44,Male,Hyderabad,Student,2022-01-16,UPI Partner,47.26
+101937,Customer_101937,50,Male,Delhi,Retired,2023-08-03,Internet Banking,39.51
+101938,Customer_101938,60,Male,Hyderabad,Student,2022-02-03,Mobile App,46.2
+101939,Customer_101939,60,Female,Delhi,Salaried,2022-11-19,Internet Banking,59.48
+101940,Customer_101940,26,Female,Mumbai,Salaried,2022-05-18,Branch,41.16
+101941,Customer_101941,49,Female,Hyderabad,Small Business,2022-10-04,Branch,69.18
+101942,Customer_101942,58,Female,Bangalore,Student,2023-07-28,Mobile App,45.6
+101943,Customer_101943,61,Male,Delhi,Salaried,2022-02-09,Mobile App,77.01
+101944,Customer_101944,35,Female,Chennai,Salaried,2023-12-09,Mobile App,55.08
+101945,Customer_101945,34,Female,Pune,Salaried,2023-10-02,UPI Partner,59.89
+101946,Customer_101946,64,Male,Mumbai,Small Business,2023-02-09,Internet Banking,29.61
+101947,Customer_101947,35,Male,Chennai,Small Business,2023-05-07,Mobile App,90.13
+101948,Customer_101948,39,Male,Ahmedabad,Small Business,2023-11-27,Branch,62.69
+101949,Customer_101949,57,Male,Kolkata,Student,2022-08-22,Branch,76.53
+101950,Customer_101950,24,Male,Ahmedabad,Salaried,2022-07-07,UPI Partner,91.17
+101951,Customer_101951,25,Female,Ahmedabad,Salaried,2023-03-15,Internet Banking,44.21
+101952,Customer_101952,50,Female,Mumbai,Salaried,2023-04-20,Branch,40.22
+101953,Customer_101953,37,Male,Delhi,Small Business,2023-08-06,UPI Partner,75.32
+101954,Customer_101954,44,Male,Bangalore,Salaried,2023-02-02,Internet Banking,35.54
+101955,Customer_101955,22,Male,Mumbai,Salaried,2023-07-18,Branch,38.36
+101956,Customer_101956,56,Male,Hyderabad,Student,2024-01-27,Mobile App,18.21
+101957,Customer_101957,34,Female,Mumbai,Salaried,2023-09-18,Branch,59.94
+101958,Customer_101958,39,Male,Bangalore,Salaried,2022-05-11,Internet Banking,59.51
+101959,Customer_101959,48,Male,Delhi,Small Business,2023-12-09,Mobile App,36.62
+101960,Customer_101960,61,Female,Chennai,Self Employed,2023-11-25,Internet Banking,43.97
+101961,Customer_101961,47,Female,Chennai,Salaried,2023-01-29,Internet Banking,66.06
+101962,Customer_101962,60,Male,Bangalore,Small Business,2023-05-09,Mobile App,67.13
+101963,Customer_101963,45,Male,Mumbai,Salaried,2022-04-22,Branch,72.84
+101964,Customer_101964,58,Male,Bangalore,Self Employed,2023-11-24,UPI Partner,45.64
+101965,Customer_101965,29,Male,Delhi,Small Business,2022-12-12,Internet Banking,52.4
+101966,Customer_101966,27,Female,Bangalore,Salaried,2024-01-05,Branch,34.44
+101967,Customer_101967,59,Female,Mumbai,Small Business,2022-04-15,UPI Partner,42.28
+101968,Customer_101968,34,Male,Kolkata,Self Employed,2023-02-26,Branch,40.15
+101969,Customer_101969,41,Female,Hyderabad,Self Employed,2024-02-04,Internet Banking,32.11
+101970,Customer_101970,56,Female,Bangalore,Small Business,2023-05-21,Branch,52.43
+101971,Customer_101971,59,Male,Delhi,Small Business,2022-12-10,Internet Banking,31.14
+101972,Customer_101972,37,Female,Pune,Student,2022-08-18,UPI Partner,65.56
+101973,Customer_101973,26,Male,Mumbai,Self Employed,2023-10-04,Branch,55.11
+101974,Customer_101974,63,Female,Delhi,Student,2023-02-28,Mobile App,68.57
+101975,Customer_101975,49,Female,Ahmedabad,Salaried,2023-07-08,Branch,37.02
+101976,Customer_101976,61,Female,Ahmedabad,Salaried,2023-04-26,Internet Banking,67.74
+101977,Customer_101977,28,Male,Hyderabad,Self Employed,2022-07-06,Internet Banking,80.61
+101978,Customer_101978,31,Female,Delhi,Small Business,2022-03-16,Mobile App,50.26
+101979,Customer_101979,57,Female,Chennai,Self Employed,2022-03-30,Mobile App,51.32
+101980,Customer_101980,52,Male,Bangalore,Student,2023-05-08,Branch,8.26
+101981,Customer_101981,26,Female,Pune,Salaried,2022-02-23,Branch,62.44
+101982,Customer_101982,64,Male,Mumbai,Student,2024-03-07,UPI Partner,70.22
+101983,Customer_101983,50,Male,Bangalore,Student,2023-08-23,UPI Partner,74.82
+101984,Customer_101984,37,Female,Pune,Salaried,2022-10-18,Branch,35.27
+101985,Customer_101985,49,Male,Pune,Salaried,2023-01-27,Branch,85.4
+101986,Customer_101986,62,Female,Mumbai,Self Employed,2023-11-21,UPI Partner,31.98
+101987,Customer_101987,51,Female,Chennai,Salaried,2023-10-31,UPI Partner,50.71
+101988,Customer_101988,22,Male,Chennai,Salaried,2022-05-27,Branch,84.83
+101989,Customer_101989,36,Female,Delhi,Retired,2023-12-28,Mobile App,77.54
+101990,Customer_101990,34,Male,Hyderabad,Student,2024-02-22,Mobile App,56.18
+101991,Customer_101991,55,Female,Delhi,Self Employed,2022-05-09,Internet Banking,47.66
+101992,Customer_101992,58,Male,Mumbai,Student,2023-03-14,Branch,28.48
+101993,Customer_101993,50,Female,Bangalore,Salaried,2022-07-08,Branch,23.46
+101994,Customer_101994,39,Male,Hyderabad,Salaried,2022-10-11,UPI Partner,60.47
+101995,Customer_101995,48,Male,Chennai,Salaried,2022-06-25,UPI Partner,61.41
+101996,Customer_101996,27,Female,Hyderabad,Student,2023-11-25,UPI Partner,33.14
+101997,Customer_101997,58,Female,Hyderabad,Salaried,2023-01-12,UPI Partner,55.78
+101998,Customer_101998,21,Male,Mumbai,Small Business,2022-12-08,Branch,26.53
+101999,Customer_101999,46,Female,Bangalore,Salaried,2022-10-29,Branch,39.48
+102000,Customer_102000,28,Male,Pune,Salaried,2023-05-22,UPI Partner,44.84
