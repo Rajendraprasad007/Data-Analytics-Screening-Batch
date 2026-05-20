@@ -1,13 +1,13 @@
 # 📊 Loan Data Analysis Project
 
-## 📌 Project Overview
+##  Project Overview
 This project focuses on analyzing loan data to identify borrowing trends, repayment behavior, customer segmentation, and overall loan performance metrics. It demonstrates end-to-end data analytics skills including data cleaning, exploratory data analysis (EDA), KPI generation, and reporting using Excel and SQL.
 
 The main objective is to convert raw loan data into meaningful business insights that support data-driven decision-making in financial institutions.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Analyze loan borrowing and repayment behavior  
 - Perform data cleaning and preprocessing  
 - Generate key business KPIs  
@@ -16,12 +16,12 @@ The main objective is to convert raw loan data into meaningful business insights
 
 ---
 
-## 📂 Dataset Information
+##  Dataset Information
 - Dataset Type: Financial / Loan Dataset  
 - Format: CSV / Excel  
 - Purpose: Data Analysis and Insight Generation  
 
-### 📊 Dataset Features
+###  Dataset Features
 - Loan Amount  
 - Loan Grade & Sub-grade  
 - Loan Status  
@@ -34,28 +34,28 @@ The main objective is to convert raw loan data into meaningful business insights
 
 ---
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 
-### 📊 Microsoft Excel
+###  Microsoft Excel
 - Data Cleaning & Preprocessing  
 - Pivot Tables  
 - Charts & Dashboards  
 - KPI Reporting  
 
-### 🗄️ SQL
+###  SQL
 - Data Filtering & Aggregation  
 - Joins & Conditional Queries  
 - KPI Calculations  
 - Trend Analysis  
 
-### 📈 Analytics Concepts
+###  Analytics Concepts
 - Exploratory Data Analysis (EDA)  
 - Data Visualization  
 - Business Insight Generation  
 
 ---
 
-## 🔍 Key Analysis Performed
+##  Key Analysis Performed
 - Year-wise loan amount analysis  
 - Grade & sub-grade wise revolving balance analysis  
 - Verified vs non-verified payment comparison  
@@ -66,7 +66,7 @@ The main objective is to convert raw loan data into meaningful business insights
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 - Loan issuance trends vary significantly across years  
 - Verified customers show better repayment behavior than non-verified customers  
 - Higher-grade loans are associated with lower financial risk  
@@ -76,7 +76,7 @@ The main objective is to convert raw loan data into meaningful business insights
 
 ---
 
-## 📌 Recommendations
+##  Recommendations
 - Improve verification processes to reduce lending risk  
 - Focus on high-performing loan grades for better portfolio quality  
 - Monitor high-risk states for better risk management  
@@ -88,7 +88,7 @@ The main objective is to convert raw loan data into meaningful business insights
 
 ---
 
-## 📊 Project Outcome
+##  Project Outcome
 This project helped strengthen practical skills in:
 - SQL querying and data manipulation  
 - Financial data analysis  
@@ -99,5 +99,5 @@ This project helped strengthen practical skills in:
 
 ---
 
-## 🏁 Conclusion
+##  Conclusion
 This project demonstrates strong analytical and problem-solving skills in financial data analytics. It is useful for roles such as Data Analyst, Business Analyst, and Financial Analyst, showcasing the ability to extract insights from raw loan datasets and support business decisions.
