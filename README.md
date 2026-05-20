@@ -56,20 +56,20 @@ The dataset contains missing values, inconsistent formats, invalid entries, and 
 
 <h1>Data Cleaning Process</h1>
 <ul>
-<li>1. Handling Missing Values
+<li>Handling Missing Values
 Used "Unknown" for missing names
 Used Mode for categorical columns
 Used Median for numerical columns
-Applied group-based imputation where necessary<li>
-<li>2. Data Standardization
+Applied group-based imputation where necessary</li>
+<li> Data Standardization
 Standardized text columns
 Converted date columns into proper datetime format
 Corrected mixed-case values</li>
-<li>3. Invalid Data Correction
+<li> Invalid Data Correction
 Fixed negative age values
 Corrected negative length of stay
 Corrected invalid gender values</li>
-<h3>4. Feature Engineering</h3>
+<h3> Feature Engineering</h3>
 
 <h4>Created new columns such as:</h4>
 
