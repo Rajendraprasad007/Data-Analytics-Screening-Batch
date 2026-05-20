@@ -1,13 +1,13 @@
 # 🏥 Hospital Operations Analytics Dashboard | Python, MySQL, Power BI
 
-## 📌 Project Overview
+##  Project Overview
 The Hospital Operations Analytics Dashboard is a healthcare analytics project built using Python, MySQL, and Power BI. The project focuses on analyzing hospital operations such as patient outcomes, treatment costs, readmission rates, billing performance, and overall operational efficiency across departments.
 
 The main objective is to convert raw healthcare data into meaningful insights and interactive dashboards to support data-driven decision-making in hospitals.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Analyze patient admission and readmission trends
 - Monitor treatment costs and billing performance
 - Identify hospital operational inefficiencies
@@ -16,7 +16,7 @@ The main objective is to convert raw healthcare data into meaningful insights an
 
 ---
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 - Python (Data analysis & preprocessing)
 - Pandas (Data manipulation)
 - NumPy (Numerical computations)
@@ -27,7 +27,7 @@ The main objective is to convert raw healthcare data into meaningful insights an
 
 ---
 
-## 📂 Project Workflow
+##  Project Workflow
 
 ### 1. Data Collection
 Collected hospital data from multiple relational tables such as patient details, admissions, billing, pharmacy, and department records.
@@ -68,7 +68,7 @@ Created interactive dashboards including:
 
 ---
 
-## 📊 Dataset Information
+##  Dataset Information
 The dataset includes:
 - Patient demographic details  
 - Admission & discharge records  
@@ -79,7 +79,7 @@ The dataset includes:
 
 ---
 
-## 📈 Key KPIs
+##  Key KPIs
 - Readmission Rate  
 - Average Treatment Cost  
 - Billing Recovery Rate  
@@ -89,7 +89,7 @@ The dataset includes:
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 - Certain departments show higher patient readmission rates  
 - Billing inconsistencies lead to revenue leakage  
 - Treatment costs vary significantly across departments  
@@ -98,7 +98,7 @@ The dataset includes:
 
 ---
 
-## 💡 Recommendations
+##  Recommendations
 - Improve patient follow-up systems to reduce readmission rates  
 - Strengthen billing verification to reduce revenue leakage  
 - Optimize resource allocation in high-cost departments  
@@ -107,7 +107,7 @@ The dataset includes:
 
 ---
 
-## 📊 Power BI Dashboard Features
+##  Power BI Dashboard Features
 - Interactive KPI dashboards  
 - Filters and slicers for dynamic analysis  
 - Drill-down functionality  
@@ -116,7 +116,7 @@ The dataset includes:
 
 ---
 
-## 🧠 Skills Demonstrated
+##  Skills Demonstrated
 - Data Cleaning & Preprocessing  
 - SQL Data Extraction & Joins  
 - Exploratory Data Analysis (EDA)  
@@ -127,5 +127,5 @@ The dataset includes:
 
 ---
 
-## 🏁 Conclusion
+##  Conclusion
 This project demonstrates strong skills in healthcare analytics, data engineering, and business intelligence. It helps in understanding hospital operations and provides actionable insights to improve efficiency, reduce costs, and enhance patient care quality.
