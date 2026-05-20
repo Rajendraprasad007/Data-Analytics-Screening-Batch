@@ -1,0 +1,9 @@
+hospital_id,hospital_name,city,ownership_type,bed_capacity,launch_year
+1,MedNova Hospital - Hyderabad,Hyderabad,Private,420,2009
+2,MedNova Hospital - Bengaluru,Bengaluru,Private,360,2012
+3,MedNova Hospital - Chennai,Chennai,Trust,310,2014
+4,MedNova Hospital - Pune,Pune,Private,280,2018
+5,MedNova Hospital - Mumbai,Mumbai,Private,390,2011
+6,MedNova Hospital - Delhi,Delhi,Trust,330,2015
+7,MedNova Hospital - Vijayawada,Vijayawada,Private,240,2020
+8,MedNova Hospital - Warangal,Warangal,Private,210,2021
